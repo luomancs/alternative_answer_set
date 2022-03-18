@@ -30,24 +30,24 @@ alternative_answer_set
 │   └──total_union
 │       ├── gqa # folder to save the file of the union of 4 different aas for GQA. 
 │       └── vqa # folder to save the file of the union of 4 different aas for VQA. 
-entailment
-├── entailment_score.py # obtain the entailment score.  
-evaluation
-├── aas_gqa_files
-│   └── bert_aas.json  
-│   └── conceptNet_aas.json  
-│   └── counterfit_aas.json  
-│   └── union_5_aas.json  
-│   └── wordNet_aas.json  
-├── gqa_prediction
-│   └── testdev_predict_aas.json # the prediction of lxmert model trained on the aas gqa labels. 
-│   └── testdev_predict_lxmert.json # the prediction of lxmert model trained on the original gqa labels.
-│   └── testdev_predict_vilbert.json # the prediction of vilbert model trained on the original gqa labels.
-├── evaluation.py # run this script to get the performance.
-├── gqa_testdev.json # the golden testdev file of gqa dataset, used in the evaluation script. 
-grounding
-├── GQA_grounded_questions50.json # the templates for each label in GQA dataset 
-├── VQA_v2_grounded_questions50.json # the templates for each label in VQA dataset 
+├── entailment
+│   └── entailment_score.py # obtain the entailment score.  
+├── evaluation
+│   └── aas_gqa_files
+│       ├── bert_aas.json  
+│       ├── conceptNet_aas.json  
+│       ├── counterfit_aas.json  
+│       ├──  union_5_aas.json  
+│       ├──  wordNet_aas.json  
+│   └── gqa_prediction
+│       ├── testdev_predict_aas.json # the prediction of lxmert model trained on the aas gqa labels. 
+│       ├── testdev_predict_lxmert.json # the prediction of lxmert model trained on the original gqa labels.
+│       ├── testdev_predict_vilbert.json # the prediction of vilbert model trained on the original gqa labels.
+│   └── evaluation.py # run this script to get the performance.
+│   └── gqa_testdev.json # the golden testdev file of gqa dataset, used in the evaluation script. 
+├── grounding
+│   └──  GQA_grounded_questions50.json # the templates for each label in GQA dataset 
+│   └── VQA_v2_grounded_questions50.json # the templates for each label in VQA dataset 
 ```
 ## Install 
 ```
