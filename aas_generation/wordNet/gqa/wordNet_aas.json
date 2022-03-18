@@ -1,0 +1,9255 @@
+{
+  "cat food": [],
+  "elephant": [
+    "pachyderm",
+    "proboscidean",
+    "proboscidian",
+    "elephant"
+  ],
+  "gloves": [
+    "baseball_equipment",
+    "baseball_glove",
+    "baseball_mitt",
+    "boxing_equipment",
+    "glove"
+  ],
+  "football": [
+    "field_game",
+    "contact_sport",
+    "football_game",
+    "football"
+  ],
+  "dock": [
+    "dock",
+    "landing_place",
+    "enclosure"
+  ],
+  "shops": [
+    "shop",
+    "store",
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "sales_outlet"
+  ],
+  "water": [
+    "excretory_product",
+    "body_waste",
+    "water",
+    "excrement",
+    "excreta",
+    "binary_compound",
+    "H2O"
+  ],
+  "light blue": [],
+  "chair": [
+    "chair",
+    "instrument_of_execution"
+  ],
+  "players": [
+    "person",
+    "mortal",
+    "performing_artist",
+    "individual",
+    "player",
+    "performer",
+    "somebody",
+    "participant",
+    "contestant",
+    "someone"
+  ],
+  "tourist": [
+    "traveler",
+    "tourist",
+    "traveller",
+    "holidaymaker",
+    "tourer"
+  ],
+  "magnet": [
+    "magnet",
+    "device"
+  ],
+  "railroad": [
+    "railway",
+    "railroad",
+    "railroad_line",
+    "railway_system",
+    "railway_line"
+  ],
+  "ski lift": [],
+  "mirror": [
+    "mirror",
+    "reflector"
+  ],
+  "leggings": [
+    "garment",
+    "legging",
+    "leg_covering",
+    "leging"
+  ],
+  "hurdle": [
+    "hurdle",
+    "obstruction",
+    "barrier"
+  ],
+  "shuttle": [
+    "shuttlecock",
+    "badminton_equipment",
+    "reel",
+    "shuttle",
+    "public_transport"
+  ],
+  "wildflowers": [
+    "wild_flower",
+    "angiosperm",
+    "wildflower",
+    "flowering_plant",
+    "wilding"
+  ],
+  "flowers": [
+    "angiosperm",
+    "flowering_plant",
+    "flower"
+  ],
+  "cooking pot": [],
+  "pipe": [
+    "tube",
+    "pipe",
+    "tobacco_pipe",
+    "ornament",
+    "tubing"
+  ],
+  "swan": [
+    "aquatic_bird",
+    "swan"
+  ],
+  "girl": [
+    "adult_female",
+    "miss",
+    "missy",
+    "young_lady",
+    "fille",
+    "girl",
+    "female",
+    "female_offspring",
+    "lover",
+    "woman",
+    "young_woman",
+    "female_person"
+  ],
+  "celery": [
+    "celery",
+    "cultivated_celery",
+    "Apium_graveolens_dulce",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "brown": [
+    "spectral_color",
+    "color",
+    "chromatic_colour",
+    "chromatic_color",
+    "brown",
+    "spectral_colour",
+    "brownness"
+  ],
+  "ambulance": [
+    "car",
+    "auto",
+    "automobile",
+    "ambulance",
+    "motorcar"
+  ],
+  "steps": [
+    "stairs",
+    "block",
+    "stairway",
+    "steps",
+    "staircase"
+  ],
+  "power line": [],
+  "asphalt": [
+    "asphalt",
+    "paving",
+    "pavement",
+    "paving_material"
+  ],
+  "brushing teeth": [],
+  "waffle": [
+    "waffle"
+  ],
+  "pizza pie": [],
+  "bookshelves": [
+    "shelf",
+    "bookshelf"
+  ],
+  "hair clip": [],
+  "kangaroo": [
+    "marsupial",
+    "kangaroo",
+    "pouched_mammal"
+  ],
+  "shelves": [
+    "shelf"
+  ],
+  "kites": [
+    "bank_check",
+    "kite",
+    "check",
+    "cheque"
+  ],
+  "sideways": [
+    "crabwise",
+    "sideways"
+  ],
+  "candle holder": [],
+  "house": [
+    "shelter",
+    "house",
+    "dwelling",
+    "building",
+    "edifice",
+    "dwelling_house"
+  ],
+  "farmer": [
+    "husbandman",
+    "granger",
+    "sodbuster",
+    "farmer"
+  ],
+  "marshmallow": [
+    "confect",
+    "marshmallow",
+    "candy"
+  ],
+  "video game": [],
+  "parrot": [
+    "bird",
+    "copycat",
+    "ape",
+    "parrot",
+    "emulator",
+    "aper"
+  ],
+  "onions": [
+    "bulb",
+    "onion"
+  ],
+  "locomotive": [
+    "locomotive_engine",
+    "locomotive",
+    "railway_locomotive",
+    "self-propelled_vehicle"
+  ],
+  "on": [
+    "on"
+  ],
+  "raincoat": [
+    "coat",
+    "raincoat"
+  ],
+  "bananas": [
+    "banana",
+    "banana_tree",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "meats": [
+    "solid_food",
+    "meat"
+  ],
+  "dumpster": [
+    "container",
+    "Dumpster"
+  ],
+  "path": [
+    "course",
+    "course_of_action",
+    "path",
+    "way_of_life"
+  ],
+  "stained": [],
+  "peeled": [],
+  "baked": [
+    "bake"
+  ],
+  "fudge": [
+    "confect",
+    "fudge",
+    "candy"
+  ],
+  "above": [
+    "above",
+    "section"
+  ],
+  "knife": [
+    "knife",
+    "edge_tool"
+  ],
+  "salad": [
+    "salad"
+  ],
+  "hotdog bun": [],
+  "stadium": [
+    "bowl",
+    "stadium",
+    "structure",
+    "sports_stadium"
+  ],
+  "station": [
+    "facility",
+    "station"
+  ],
+  "beets": [
+    "common_beet",
+    "Beta_vulgaris",
+    "beet"
+  ],
+  "adult": [
+    "person",
+    "mortal",
+    "creature",
+    "individual",
+    "animal",
+    "somebody",
+    "brute",
+    "beast",
+    "adult",
+    "grownup",
+    "animate_being",
+    "someone"
+  ],
+  "cherry": [
+    "wood",
+    "cherry"
+  ],
+  "denim": [
+    "jean",
+    "workwear",
+    "cloth",
+    "fabric",
+    "trouser",
+    "blue_jean",
+    "denim",
+    "textile"
+  ],
+  "bird": [
+    "bird",
+    "craniate",
+    "vertebrate"
+  ],
+  "roof": [
+    "roof",
+    "cover",
+    "protective_covering",
+    "protective_cover"
+  ],
+  "napkin dispenser": [],
+  "indoors": [
+    "indoors"
+  ],
+  "policeman": [
+    "police_officer",
+    "law_officer",
+    "policeman",
+    "lawman",
+    "peace_officer"
+  ],
+  "truck": [
+    "automotive_vehicle",
+    "cart",
+    "handcart",
+    "motor_vehicle",
+    "truck",
+    "motortruck",
+    "transport",
+    "pushcart"
+  ],
+  "brush": [
+    "brush",
+    "thicket",
+    "flora",
+    "vegetation",
+    "copse",
+    "botany",
+    "coppice"
+  ],
+  "picnic table": [],
+  "hairbrush": [
+    "hairbrush"
+  ],
+  "blind": [
+    "people",
+    "blind"
+  ],
+  "rectangular": [
+    "rectangular"
+  ],
+  "pumpkins": [
+    "pumpkin",
+    "Cucurbita_pepo",
+    "squash",
+    "squash_vine",
+    "autumn_pumpkin",
+    "pumpkin_vine"
+  ],
+  "mountain side": [],
+  "healthy": [
+    "healthy"
+  ],
+  "moss": [
+    "moss",
+    "nonvascular_plant",
+    "bryophyte"
+  ],
+  "turkey": [
+    "Meleagris_gallopavo",
+    "poultry",
+    "turkey",
+    "fowl",
+    "domestic_fowl"
+  ],
+  "bee": [
+    "hymenopterous_insect",
+    "bee",
+    "hymenopteron",
+    "hymenopteran",
+    "hymenopter"
+  ],
+  "snakes": [
+    "diapsid",
+    "serpent",
+    "diapsid_reptile",
+    "ophidian",
+    "snake"
+  ],
+  "glove": [
+    "baseball_equipment",
+    "baseball_glove",
+    "baseball_mitt",
+    "boxing_equipment",
+    "glove"
+  ],
+  "log": [
+    "wood",
+    "fell",
+    "log"
+  ],
+  "monitor": [
+    "proctor",
+    "supervisor",
+    "monitor"
+  ],
+  "cord": [
+    "fabric",
+    "cloth",
+    "cord",
+    "textile"
+  ],
+  "chopsticks": [
+    "chopstick",
+    "tableware"
+  ],
+  "tall": [
+    "tall",
+    "size"
+  ],
+  "masks": [
+    "protective_cover",
+    "cover",
+    "protective_covering",
+    "covering",
+    "mask"
+  ],
+  "remote controls": [],
+  "downward": [
+    "downward"
+  ],
+  "butterfly": [
+    "lepidopterous_insect",
+    "lepidopteran",
+    "butterfly",
+    "lepidopteron"
+  ],
+  "tin": [
+    "Sn",
+    "metal",
+    "atomic_number_50",
+    "metallic_element",
+    "tin"
+  ],
+  "dispenser": [
+    "dispenser",
+    "container"
+  ],
+  "stuffed bears": [],
+  "grass": [
+    "marijuana",
+    "ganja",
+    "grass",
+    "gramineous_plant",
+    "cannabis",
+    "graminaceous_plant",
+    "marihuana"
+  ],
+  "women": [
+    "adult_female",
+    "female",
+    "adult",
+    "woman",
+    "grownup",
+    "female_person"
+  ],
+  "smoke stack": [],
+  "sword": [
+    "weapon_system",
+    "sword",
+    "weapon"
+  ],
+  "ropes": [
+    "rope"
+  ],
+  "sailboat": [
+    "sailing_vessel",
+    "sailboat",
+    "sailing_ship",
+    "sailing_boat"
+  ],
+  "maroon": [
+    "unfortunate",
+    "unfortunate_person",
+    "maroon"
+  ],
+  "long": [
+    "yearn",
+    "long",
+    "hanker"
+  ],
+  "stores": [
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "shop",
+    "sales_outlet",
+    "store"
+  ],
+  "caucasian": [
+    "Caucasian",
+    "person",
+    "White",
+    "mortal",
+    "individual",
+    "somebody",
+    "White_person",
+    "someone"
+  ],
+  "yellow": [
+    "spectral_color",
+    "yellowness",
+    "color",
+    "chromatic_colour",
+    "chromatic_color",
+    "spectral_colour",
+    "yellow"
+  ],
+  "long sleeved": [],
+  "skateboards": [
+    "skate",
+    "skateboard",
+    "wheeled_vehicle"
+  ],
+  "cooler": [
+    "refrigerator",
+    "cooler",
+    "icebox",
+    "ice_chest"
+  ],
+  "sign post": [],
+  "real": [
+    "complex_number",
+    "real_number",
+    "real",
+    "imaginary",
+    "complex_quantity",
+    "imaginary_number"
+  ],
+  "serving dish": [],
+  "low": [
+    "air_mass",
+    "low"
+  ],
+  "name tag": [],
+  "drawers": [
+    "underdrawers",
+    "boxershorts",
+    "shorts",
+    "underpants",
+    "boxers",
+    "drawers"
+  ],
+  "minivan": [
+    "passenger_van",
+    "car",
+    "auto",
+    "automobile",
+    "minivan",
+    "motorcar"
+  ],
+  "jockey": [
+    "horseback_rider",
+    "equestrian",
+    "jockey",
+    "horseman"
+  ],
+  "chickens": [
+    "poulet",
+    "chicken",
+    "volaille"
+  ],
+  "air conditioner": [],
+  "plate": [
+    "home_base",
+    "dental_appliance",
+    "plate",
+    "bag",
+    "home_plate",
+    "receptacle"
+  ],
+  "pineapples": [
+    "pineapple",
+    "pineapple_plant",
+    "Ananas_comosus",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "trunks": [
+    "shorts",
+    "trouser",
+    "short_pants",
+    "trunks"
+  ],
+  "gas pump": [],
+  "bandage": [
+    "medical_dressing",
+    "dress",
+    "bandage"
+  ],
+  "pipes": [
+    "tube",
+    "pipe",
+    "tobacco_pipe",
+    "ornament",
+    "tubing"
+  ],
+  "macaroni": [
+    "dude",
+    "macaroni",
+    "beau",
+    "dandy",
+    "gallant",
+    "fashion_plate",
+    "fop"
+  ],
+  "blanket": [
+    "bedclothes",
+    "cover",
+    "bedding",
+    "bed_clothing",
+    "layer",
+    "blanket"
+  ],
+  "carpet": [
+    "carpet",
+    "natural_object",
+    "cover",
+    "rug",
+    "carpeting",
+    "floor_covering",
+    "floor_cover",
+    "furnishing"
+  ],
+  "light bulbs": [],
+  "thermometer": [
+    "thermometer",
+    "measuring_system",
+    "measuring_instrument",
+    "measuring_device"
+  ],
+  "bare": [
+    "bare"
+  ],
+  "shorts": [
+    "underpants",
+    "short_pants",
+    "shorts",
+    "trouser",
+    "trunks"
+  ],
+  "pencils": [
+    "pencil",
+    "writing_implement",
+    "cosmetic"
+  ],
+  "bottom": [
+    "underside",
+    "undersurface",
+    "side",
+    "bottom",
+    "region"
+  ],
+  "pillars": [
+    "pillar",
+    "principle",
+    "rule"
+  ],
+  "shoe lace": [],
+  "train car": [],
+  "polo shirt": [],
+  "game": [
+    "wager",
+    "frolic",
+    "activity",
+    "recreation",
+    "gambol",
+    "occupation",
+    "contest",
+    "job",
+    "diversion",
+    "line_of_work",
+    "game"
+  ],
+  "wires": [
+    "wire"
+  ],
+  "tomato": [
+    "tomato",
+    "solanaceous_vegetable"
+  ],
+  "dolls": [
+    "doll",
+    "toy",
+    "plaything",
+    "dolly"
+  ],
+  "snow pants": [],
+  "leafless": [
+    "leafless"
+  ],
+  "sun": [
+    "star",
+    "Sun",
+    "sun"
+  ],
+  "roll": [
+    "revolution",
+    "moving_ridge",
+    "axial_motion",
+    "wave",
+    "change",
+    "gyration",
+    "axial_rotation",
+    "roll"
+  ],
+  "gentleman": [
+    "gentleman",
+    "man",
+    "adult_male"
+  ],
+  "end table": [],
+  "scrub brush": [],
+  "artichoke": [
+    "artichoke_plant",
+    "globe_artichoke",
+    "Cynara_scolymus",
+    "artichoke"
+  ],
+  "mustard bottle": [],
+  "parking lot": [],
+  "wine bottles": [],
+  "looking down": [],
+  "pot": [
+    "plumbing_fixture",
+    "potential_divider",
+    "container",
+    "cooking_utensil",
+    "cookware",
+    "pot",
+    "implant",
+    "voltage_divider"
+  ],
+  "chalkboard": [
+    "chalkboard",
+    "flat_solid",
+    "blackboard"
+  ],
+  "gold": [
+    "riches",
+    "gold",
+    "precious_metal"
+  ],
+  "casserole": [
+    "casserole"
+  ],
+  "crust": [
+    "Earth's_crust",
+    "crust"
+  ],
+  "gummy bear": [],
+  "powder": [
+    "pulverization",
+    "solid",
+    "powder",
+    "pulverisation"
+  ],
+  "fence": [
+    "fencing",
+    "fence",
+    "barrier"
+  ],
+  "mannequin": [
+    "fashion_model",
+    "mannequin",
+    "mannikin",
+    "assistant",
+    "helper",
+    "manakin",
+    "supporter",
+    "manikin"
+  ],
+  "merchandise": [
+    "product",
+    "trade_good",
+    "merchandise",
+    "commodity",
+    "ware"
+  ],
+  "parachute": [
+    "rescue_equipment",
+    "parachute",
+    "chute"
+  ],
+  "lid": [
+    "protective_fold",
+    "eyelid",
+    "palpebra",
+    "lid"
+  ],
+  "teal": [
+    "green",
+    "blue_green",
+    "bluish_green",
+    "teal",
+    "viridity"
+  ],
+  "fruit stand": [],
+  "walking": [
+    "move",
+    "travel",
+    "hit",
+    "walking",
+    "walk"
+  ],
+  "laptops": [
+    "laptop",
+    "portable_computer",
+    "laptop_computer"
+  ],
+  "magnets": [
+    "magnet",
+    "device"
+  ],
+  "lawn": [
+    "field",
+    "lawn"
+  ],
+  "hay": [
+    "hay"
+  ],
+  "tortilla": [
+    "flannel_cake",
+    "griddlecake",
+    "hotcake",
+    "battercake",
+    "flapjack",
+    "flapcake",
+    "hot_cake",
+    "flannel-cake",
+    "tortilla",
+    "pancake"
+  ],
+  "light": [
+    "actinic_ray",
+    "visible_light",
+    "light",
+    "actinic_radiation",
+    "visible_radiation"
+  ],
+  "hand dryer": [],
+  "coats": [
+    "overgarment",
+    "raiment",
+    "dress",
+    "outer_garment",
+    "coat",
+    "garment",
+    "cover",
+    "apparel",
+    "garb"
+  ],
+  "microwave": [
+    "electromagnetic_radiation",
+    "nonparticulate_radiation",
+    "electromagnetic_wave",
+    "microwave"
+  ],
+  "boxes": [
+    "container",
+    "box"
+  ],
+  "tiny": [
+    "tiny"
+  ],
+  "chimney": [
+    "chimney"
+  ],
+  "dog": [
+    "domestic_animal",
+    "canid",
+    "scoundrel",
+    "fellow",
+    "chap",
+    "fella",
+    "domesticated_animal",
+    "domestic_dog",
+    "bloke",
+    "dog",
+    "unpleasant_woman",
+    "villain",
+    "disagreeable_woman",
+    "Canis_familiaris",
+    "lad"
+  ],
+  "spinach": [
+    "spinach",
+    "prickly-seeded_spinach",
+    "spinach_plant",
+    "Spinacia_oleracea"
+  ],
+  "bus": [
+    "bus",
+    "public_transport",
+    "motorcoach",
+    "car",
+    "auto",
+    "passenger_vehicle",
+    "double-decker",
+    "transport",
+    "motorbus",
+    "machine",
+    "automobile",
+    "charabanc",
+    "autobus",
+    "jitney",
+    "motorcar"
+  ],
+  "dessert": [
+    "dessert",
+    "afters"
+  ],
+  "paved": [],
+  "cactus": [
+    "succulent",
+    "cactus"
+  ],
+  "mannequins": [
+    "fashion_model",
+    "mannequin",
+    "mannikin",
+    "assistant",
+    "helper",
+    "manakin",
+    "supporter",
+    "manikin"
+  ],
+  "skateboard": [
+    "skate",
+    "skateboard",
+    "wheeled_vehicle"
+  ],
+  "meatballs": [
+    "meatball"
+  ],
+  "rug": [
+    "carpet",
+    "rug",
+    "carpeting",
+    "floor_covering",
+    "floor_cover",
+    "furnishing"
+  ],
+  "surfboards": [
+    "surfboard"
+  ],
+  "sad": [
+    "sad"
+  ],
+  "speaker": [
+    "presiding_officer",
+    "articulator",
+    "verbaliser",
+    "speaker",
+    "utterer",
+    "talker",
+    "verbalizer"
+  ],
+  "whale": [
+    "hulk",
+    "whale",
+    "heavyweight",
+    "large_person",
+    "giant"
+  ],
+  "office": [
+    "place_of_business",
+    "office",
+    "business_office",
+    "business_establishment"
+  ],
+  "garnish": [
+    "decoration",
+    "ornament",
+    "garnish"
+  ],
+  "seat belt": [],
+  "dinner": [
+    "dinner",
+    "meal",
+    "repast"
+  ],
+  "parsley": [
+    "herbaceous_plant",
+    "parsley",
+    "Petroselinum_crispum",
+    "herb"
+  ],
+  "rubber duck": [],
+  "salt shaker": [],
+  "display": [
+    "demo",
+    "display"
+  ],
+  "rifle": [
+    "firearm",
+    "rifle",
+    "small-arm"
+  ],
+  "feathers": [
+    "feather",
+    "body_covering",
+    "animal_material",
+    "plumage"
+  ],
+  "fog": [
+    "fog",
+    "atmospheric_state",
+    "aerosol"
+  ],
+  "bushes": [
+    "ligneous_plant",
+    "woody_plant",
+    "shrub",
+    "bush"
+  ],
+  "cloudless": [
+    "cloudless"
+  ],
+  "desk lamp": [],
+  "rainy": [
+    "rainy",
+    "showery"
+  ],
+  "brick": [
+    "building_material",
+    "ceramic",
+    "brick"
+  ],
+  "parmesan cheese": [],
+  "cooker": [
+    "cookware",
+    "cooker",
+    "cooking_utensil"
+  ],
+  "money": [
+    "monetary_system",
+    "money",
+    "currency",
+    "medium_of_exchange"
+  ],
+  "deck": [
+    "deck",
+    "porch",
+    "ornament",
+    "platform"
+  ],
+  "visitors": [
+    "traveller",
+    "traveler",
+    "visitor",
+    "visitant"
+  ],
+  "hats": [
+    "hat",
+    "headgear",
+    "headdress",
+    "chapeau"
+  ],
+  "ground": [
+    "terra_firma",
+    "solid_ground",
+    "physical_object",
+    "ground",
+    "dry_land",
+    "object"
+  ],
+  "robot": [
+    "robot"
+  ],
+  "cotton candy": [],
+  "shoe laces": [],
+  "ornaments": [
+    "deck",
+    "artifact",
+    "ornament",
+    "decoration",
+    "artefact"
+  ],
+  "tents": [
+    "collapsible_shelter",
+    "shelter",
+    "tent"
+  ],
+  "couple": [
+    "family_unit",
+    "couple"
+  ],
+  "skier": [
+    "skier",
+    "jock",
+    "athlete"
+  ],
+  "bleachers": [
+    "bleachers"
+  ],
+  "sandals": [
+    "sandal",
+    "shoe"
+  ],
+  "patio": [
+    "patio",
+    "terrace"
+  ],
+  "lions": [
+    "king_of_beasts",
+    "Panthera_leo",
+    "cat",
+    "big_cat",
+    "lion"
+  ],
+  "tourists": [
+    "traveler",
+    "tourist",
+    "traveller",
+    "holidaymaker",
+    "tourer"
+  ],
+  "skiing": [
+    "athletics",
+    "skiing",
+    "sport"
+  ],
+  "scooter": [
+    "scooter",
+    "water_scooter",
+    "wheeled_vehicle",
+    "motorboat",
+    "sea_scooter",
+    "powerboat"
+  ],
+  "forks": [
+    "eating_utensil",
+    "fork"
+  ],
+  "catcher": [
+    "catcher",
+    "infielder",
+    "backstop"
+  ],
+  "wig": [
+    "hairpiece",
+    "false_hair",
+    "wig",
+    "postiche"
+  ],
+  "lilies": [
+    "liliaceous_plant",
+    "lily"
+  ],
+  "jeans": [
+    "jean",
+    "workwear",
+    "cloth",
+    "fabric",
+    "trouser",
+    "blue_jean",
+    "denim",
+    "textile"
+  ],
+  "island": [
+    "island",
+    "terra_firma",
+    "solid_ground",
+    "ground",
+    "dry_land"
+  ],
+  "crane": [
+    "Stephen_Crane",
+    "Crane"
+  ],
+  "containers": [
+    "container",
+    "instrumentation"
+  ],
+  "toilet brush": [],
+  "water glass": [],
+  "cup": [
+    "crockery",
+    "container",
+    "dishware",
+    "cup"
+  ],
+  "symbol": [
+    "signal",
+    "symbol",
+    "signaling"
+  ],
+  "underneath": [
+    "underneath"
+  ],
+  "coffee table": [],
+  "granite": [
+    "plutonic_rock",
+    "pluton",
+    "batholite",
+    "batholith",
+    "granite"
+  ],
+  "scooters": [
+    "scooter",
+    "water_scooter",
+    "wheeled_vehicle",
+    "motorboat",
+    "sea_scooter",
+    "powerboat"
+  ],
+  "life jackets": [],
+  "piano": [
+    "percussion_instrument",
+    "piano",
+    "percussive_instrument",
+    "stringed_instrument",
+    "pianoforte",
+    "keyboard_instrument",
+    "forte-piano"
+  ],
+  "soccer player": [],
+  "squirrel": [
+    "squirrel",
+    "rodent",
+    "gnawer"
+  ],
+  "cricket": [
+    "orthopterous_insect",
+    "orthopteron",
+    "cricket",
+    "orthopteran"
+  ],
+  "airplane": [
+    "airplane",
+    "plane",
+    "aeroplane",
+    "heavier-than-air_craft"
+  ],
+  "eating": [
+    "eating",
+    "uptake",
+    "consumption",
+    "feeding",
+    "ingestion",
+    "intake"
+  ],
+  "tray": [
+    "receptacle",
+    "tray"
+  ],
+  "swimmer": [
+    "traveler",
+    "jock",
+    "athlete",
+    "traveller",
+    "swimmer"
+  ],
+  "penguin": [
+    "sphenisciform_seabird",
+    "penguin"
+  ],
+  "painting": [
+    "cover",
+    "surface",
+    "painting",
+    "art",
+    "graphic_art",
+    "coating",
+    "picture"
+  ],
+  "dishes": [
+    "crockery",
+    "directional_antenna",
+    "container",
+    "dishware",
+    "dish",
+    "ply"
+  ],
+  "skis": [
+    "ski"
+  ],
+  "vase": [
+    "vase",
+    "jar"
+  ],
+  "swans": [
+    "aquatic_bird",
+    "swan"
+  ],
+  "obstacle": [
+    "obstacle",
+    "deterrent",
+    "hinderance",
+    "hindrance",
+    "impediment"
+  ],
+  "street sign": [],
+  "t-shirt": [
+    "T-shirt",
+    "tee_shirt",
+    "shirt"
+  ],
+  "behind": [
+    "hindquarters",
+    "hind_end",
+    "tail",
+    "prat",
+    "tooshie",
+    "buns",
+    "arse",
+    "ass",
+    "rear_end",
+    "keister",
+    "nates",
+    "buttocks",
+    "fanny",
+    "body_part",
+    "derriere",
+    "rump",
+    "tush",
+    "behind",
+    "posterior"
+  ],
+  "crown": [
+    "Crown",
+    "laurels",
+    "symbol",
+    "honor",
+    "accolade"
+  ],
+  "skateboarding": [
+    "skateboarding",
+    "skating"
+  ],
+  "mattress": [
+    "mattress"
+  ],
+  "video games": [],
+  "router": [
+    "skilled_workman",
+    "skilled_worker",
+    "trained_worker",
+    "router"
+  ],
+  "straight": [
+    "person",
+    "mortal",
+    "straight",
+    "individual",
+    "heterosexual",
+    "heterosexual_person",
+    "straight_person",
+    "somebody",
+    "someone"
+  ],
+  "ceiling": [
+    "upper_surface",
+    "ceiling"
+  ],
+  "potato": [
+    "tater",
+    "spud",
+    "Irish_potato",
+    "starches",
+    "solanaceous_vegetable",
+    "murphy",
+    "potato",
+    "root_vegetable"
+  ],
+  "forward": [
+    "basketball_player",
+    "forward",
+    "basketeer",
+    "cager"
+  ],
+  "shrimp": [
+    "small_person",
+    "runt",
+    "shrimp",
+    "half-pint",
+    "peewee"
+  ],
+  "left": [
+    "place",
+    "position",
+    "left"
+  ],
+  "drink": [
+    "helping",
+    "serving",
+    "drink"
+  ],
+  "candle": [
+    "lamp",
+    "wax_light",
+    "candle"
+  ],
+  "fried": [
+    "heat_up",
+    "hot_up"
+  ],
+  "fish": [
+    "person",
+    "mortal",
+    "aquatic_vertebrate",
+    "fish",
+    "individual",
+    "somebody",
+    "someone"
+  ],
+  "ketchup": [
+    "condiment",
+    "ketchup",
+    "tomato_ketchup",
+    "cetchup",
+    "catsup"
+  ],
+  "bikini": [
+    "Bikini"
+  ],
+  "berries": [
+    "berry",
+    "fruit",
+    "edible_fruit"
+  ],
+  "surfer": [
+    "bather",
+    "surfboarder",
+    "surfer",
+    "natator"
+  ],
+  "ahead": [
+    "in_the_lead",
+    "ahead"
+  ],
+  "counter": [
+    "article_of_furniture",
+    "game_equipment",
+    "calculating_machine",
+    "furniture",
+    "piece_of_furniture",
+    "counter"
+  ],
+  "pizza crust": [],
+  "outlet": [
+    "place_of_business",
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "sales_outlet",
+    "business_establishment"
+  ],
+  "icing": [
+    "freezing",
+    "freeze",
+    "icing"
+  ],
+  "doll": [
+    "doll",
+    "toy",
+    "plaything",
+    "dolly"
+  ],
+  "bread": [
+    "breadstuff",
+    "starches",
+    "baked_goods",
+    "staff_of_life",
+    "bread"
+  ],
+  "rotten": [
+    "lousy",
+    "crappy",
+    "rotten",
+    "icky",
+    "shitty"
+  ],
+  "swimming": [
+    "aquatics",
+    "swimming",
+    "water_sport",
+    "swim"
+  ],
+  "baseball bat": [],
+  "binder": [
+    "binder",
+    "reaper_binder"
+  ],
+  "pocket": [
+    "pouch",
+    "pocket"
+  ],
+  "pizza tray": [],
+  "boy": [
+    "male",
+    "man-child",
+    "male_person",
+    "male_child",
+    "Black_man",
+    "man",
+    "male_offspring",
+    "adult_male",
+    "boy"
+  ],
+  "at the camera": [],
+  "baking pan": [],
+  "cracker": [
+    "cracker",
+    "breadstuff",
+    "staff_of_life",
+    "bread"
+  ],
+  "glass": [
+    "solid",
+    "glass"
+  ],
+  "cows": [
+    "eutherian",
+    "kine",
+    "eutherian_mammal",
+    "placental_mammal",
+    "oxen",
+    "bovine",
+    "placental",
+    "cows",
+    "cattle",
+    "Bos_taurus"
+  ],
+  "balloon": [
+    "lighter-than-air_craft",
+    "balloon"
+  ],
+  "apples": [
+    "pome",
+    "edible_fruit",
+    "false_fruit",
+    "apple"
+  ],
+  "window frame": [],
+  "surfboard": [
+    "surfboard"
+  ],
+  "giant": [
+    "creature",
+    "personage",
+    "influential_person",
+    "important_person",
+    "animal",
+    "unusual_person",
+    "brute",
+    "beast",
+    "large_person",
+    "giant",
+    "animate_being"
+  ],
+  "officer": [
+    "military_man",
+    "serviceman",
+    "officer",
+    "military_officer"
+  ],
+  "onion ring": [],
+  "teddy bears": [],
+  "cowboy": [
+    "ranch_hand",
+    "cowherd",
+    "puncher",
+    "cowpoke",
+    "cowpuncher",
+    "cowman",
+    "cowboy",
+    "cowhand"
+  ],
+  "pink": [
+    "spectral_color",
+    "pink",
+    "chromatic_colour",
+    "chromatic_color",
+    "spectral_colour"
+  ],
+  "lady": [
+    "adult_female",
+    "woman",
+    "lady"
+  ],
+  "computers": [
+    "information_processing_system",
+    "computer",
+    "computing_machine",
+    "machine",
+    "electronic_computer",
+    "computing_device",
+    "data_processor"
+  ],
+  "fruits": [
+    "reproductive_structure",
+    "fruit"
+  ],
+  "upwards": [
+    "upwardly",
+    "upwards"
+  ],
+  "pizza oven": [],
+  "dry": [
+    "prohibitionist",
+    "dry",
+    "crusader",
+    "social_reformer",
+    "meliorist",
+    "reformer",
+    "reformist"
+  ],
+  "skillet": [
+    "frying_pan",
+    "frypan",
+    "pan",
+    "skillet",
+    "cooking_pan"
+  ],
+  "coleslaw": [
+    "slaw",
+    "coleslaw",
+    "salad"
+  ],
+  "lime": [
+    "adhesive",
+    "hydrated_lime",
+    "adhesive_agent",
+    "caustic_lime",
+    "lime",
+    "adhesive_material",
+    "hydrated_oxide",
+    "oxide",
+    "calcium_hydrate",
+    "lime_hydrate",
+    "hydroxide",
+    "slaked_lime",
+    "calcium_hydroxide"
+  ],
+  "coffee": [
+    "potable",
+    "drinkable",
+    "beverage",
+    "coffee"
+  ],
+  "motorcycle": [
+    "automotive_vehicle",
+    "motorcycle",
+    "motor_vehicle",
+    "bike"
+  ],
+  "herbs": [
+    "vascular_plant",
+    "herbaceous_plant",
+    "tracheophyte",
+    "herb"
+  ],
+  "vegetables": [
+    "garden_truck",
+    "produce",
+    "green_goods",
+    "vegetable",
+    "green_groceries",
+    "veg",
+    "veggie"
+  ],
+  "lock": [
+    "lock",
+    "holdfast",
+    "fastening"
+  ],
+  "leafy": [
+    "leafy"
+  ],
+  "waves": [
+    "moving_ridge",
+    "rise",
+    "wave",
+    "twist"
+  ],
+  "jackets": [
+    "dress",
+    "cover",
+    "apparel",
+    "garb",
+    "wrapping",
+    "wrap",
+    "raiment",
+    "coat",
+    "garment",
+    "jacket",
+    "wrapper"
+  ],
+  "fisherman": [
+    "skilled_workman",
+    "fisher",
+    "skilled_worker",
+    "trained_worker",
+    "fisherman"
+  ],
+  "buildings": [
+    "base",
+    "building",
+    "edifice",
+    "structure"
+  ],
+  "drapes": [
+    "drape",
+    "drapery",
+    "curtain",
+    "screen",
+    "cover",
+    "furnishing"
+  ],
+  "leather": [
+    "leather",
+    "animal_skin"
+  ],
+  "steamed": [],
+  "snowboarder": [
+    "snowboarder",
+    "skidder",
+    "slider"
+  ],
+  "zebras": [
+    "zebra",
+    "equid",
+    "equine"
+  ],
+  "mat": [
+    "twine",
+    "mat",
+    "sports_equipment",
+    "floor_covering",
+    "floor_cover"
+  ],
+  "outdoors": [
+    "outdoors",
+    "exterior",
+    "outside",
+    "open_air",
+    "out-of-doors"
+  ],
+  "farm": [
+    "farm",
+    "workplace"
+  ],
+  "potted": [
+    "embed",
+    "imbed"
+  ],
+  "elephants": [
+    "pachyderm",
+    "proboscidean",
+    "proboscidian",
+    "elephant"
+  ],
+  "mashed potatoes": [],
+  "surfing": [
+    "surfing",
+    "aquatics",
+    "search",
+    "surfriding",
+    "water_sport",
+    "surfboarding"
+  ],
+  "home plate": [],
+  "loaf": [
+    "loaf",
+    "solid_food",
+    "loaf_of_bread",
+    "breadstuff",
+    "food",
+    "staff_of_life",
+    "bread"
+  ],
+  "knee pads": [],
+  "playing": [
+    "wager",
+    "activity",
+    "musical_performance",
+    "playing",
+    "performing_arts"
+  ],
+  "mushroom": [
+    "basidiomycete",
+    "agaric",
+    "mushroom",
+    "basidiomycetous_fungi"
+  ],
+  "ice": [
+    "crystal",
+    "ice",
+    "water_ice"
+  ],
+  "chickpeas": [
+    "garbanzo",
+    "chickpea"
+  ],
+  "fire extinguisher": [],
+  "burger": [
+    "Burger",
+    "Warren_Burger",
+    "Warren_E._Burger",
+    "Warren_Earl_Burger"
+  ],
+  "oven": [
+    "kitchen_appliance",
+    "oven"
+  ],
+  "shirt": [
+    "raiment",
+    "dress",
+    "garment",
+    "shirt",
+    "garb",
+    "apparel"
+  ],
+  "caramel": [
+    "confect",
+    "caramel",
+    "candy"
+  ],
+  "artwork": [
+    "nontextual_matter",
+    "graphics",
+    "artwork",
+    "visual_communication"
+  ],
+  "garment": [
+    "habiliment",
+    "garment",
+    "article_of_clothing",
+    "wearable",
+    "clothing"
+  ],
+  "cap": [
+    "cover",
+    "protective_covering",
+    "cap",
+    "protective_cover",
+    "headdress",
+    "headgear"
+  ],
+  "cookie": [
+    "cookie",
+    "biscuit"
+  ],
+  "drape": [
+    "drape",
+    "drapery",
+    "curtain",
+    "screen",
+    "cover",
+    "furnishing"
+  ],
+  "traffic lights": [],
+  "staircase": [
+    "staircase",
+    "stairway"
+  ],
+  "figure": [
+    "fig",
+    "figure",
+    "illustration"
+  ],
+  "luggage": [
+    "baggage",
+    "luggage"
+  ],
+  "headphones": [
+    "earphone",
+    "headphone",
+    "earpiece",
+    "electro-acoustic_transducer"
+  ],
+  "beach": [
+    "beach",
+    "geological_formation"
+  ],
+  "chopstick": [
+    "chopstick",
+    "tableware"
+  ],
+  "antenna": [
+    "transmitting_aerial",
+    "antenna",
+    "electrical_device"
+  ],
+  "burrito": [
+    "burrito"
+  ],
+  "cliff": [
+    "cliff",
+    "geological_formation"
+  ],
+  "shark": [
+    "elasmobranch",
+    "selachian",
+    "fish",
+    "shark"
+  ],
+  "satellite dish": [],
+  "broth": [
+    "broth",
+    "soup"
+  ],
+  "cotton": [
+    "plant_fiber",
+    "cotton_fiber",
+    "material",
+    "plant_fibre",
+    "cotton_wool",
+    "cotton"
+  ],
+  "appetizer": [
+    "appetizer",
+    "appetiser"
+  ],
+  "ice cubes": [],
+  "clock": [
+    "timepiece",
+    "horologe",
+    "clock"
+  ],
+  "goggles": [
+    "goggles",
+    "specs",
+    "glasses",
+    "spectacles",
+    "eyeglasses"
+  ],
+  "attic": [
+    "loft",
+    "garret",
+    "wall",
+    "floor",
+    "storey",
+    "attic"
+  ],
+  "waste basket": [],
+  "dressing": [
+    "dressing",
+    "sauce",
+    "salad_dressing",
+    "concoction",
+    "intermixture"
+  ],
+  "bell tower": [],
+  "seat": [
+    "location",
+    "centre",
+    "middle",
+    "center",
+    "seat"
+  ],
+  "crowd": [
+    "crowd",
+    "assemblage",
+    "gathering"
+  ],
+  "silk": [
+    "cloth",
+    "silk",
+    "fabric",
+    "textile"
+  ],
+  "power lines": [],
+  "spices": [
+    "preservative",
+    "spice"
+  ],
+  "pedestrians": [
+    "traveler",
+    "traveller",
+    "pedestrian"
+  ],
+  "soccer balls": [],
+  "horses": [
+    "horse",
+    "equid",
+    "Equus_caballus",
+    "equine"
+  ],
+  "cords": [
+    "fabric",
+    "cloth",
+    "trouser",
+    "corduroys",
+    "tie",
+    "textile",
+    "cords"
+  ],
+  "beet": [
+    "common_beet",
+    "Beta_vulgaris",
+    "beet"
+  ],
+  "concrete": [
+    "building_material",
+    "concrete",
+    "paving",
+    "cover",
+    "pavement",
+    "paving_material"
+  ],
+  "van": [
+    "van",
+    "artistic_movement",
+    "new_wave",
+    "avant-garde",
+    "art_movement"
+  ],
+  "corn": [
+    "cereal",
+    "maize",
+    "Indian_corn",
+    "corn",
+    "cereal_grass",
+    "Zea_mays"
+  ],
+  "mixer": [
+    "social",
+    "mixer",
+    "sociable"
+  ],
+  "tiger": [
+    "person",
+    "mortal",
+    "tiger",
+    "individual",
+    "somebody",
+    "someone"
+  ],
+  "hallway": [
+    "hall",
+    "hallway",
+    "corridor"
+  ],
+  "cheesecake": [
+    "cheesecake"
+  ],
+  "taking pictures": [],
+  "statue": [
+    "statue",
+    "sculpture"
+  ],
+  "serving tray": [],
+  "vests": [
+    "dress",
+    "apparel",
+    "garb",
+    "unmentionable",
+    "raiment",
+    "garment",
+    "waistcoat",
+    "undergarment",
+    "vest"
+  ],
+  "hot dogs": [],
+  "salt": [
+    "chemical_compound",
+    "salt",
+    "spice"
+  ],
+  "cigar": [
+    "cigar",
+    "roll_of_tobacco"
+  ],
+  "taking a photo": [],
+  "hand soap": [],
+  "mattresses": [
+    "mattress"
+  ],
+  "batter": [
+    "hitter",
+    "slugger",
+    "batsman",
+    "ballplayer",
+    "baseball_player",
+    "batter"
+  ],
+  "skateboarder": [
+    "skateboarder",
+    "skater"
+  ],
+  "octopus": [
+    "seafood",
+    "octopus"
+  ],
+  "toothpicks": [
+    "toothpick"
+  ],
+  "cameras": [
+    "camera",
+    "photographic_equipment",
+    "television_equipment",
+    "video_equipment",
+    "photographic_camera"
+  ],
+  "bracelet": [
+    "jewelry",
+    "watchstrap",
+    "jewellery",
+    "watch_bracelet",
+    "bracelet",
+    "watchband",
+    "wristband"
+  ],
+  "shoes": [
+    "shoes",
+    "situation"
+  ],
+  "trailer": [
+    "trailer",
+    "loafer",
+    "layabout",
+    "lagger",
+    "dawdler",
+    "idler",
+    "do-nothing",
+    "laggard"
+  ],
+  "diaper": [
+    "nappy",
+    "diaper",
+    "cloth",
+    "garment",
+    "fabric",
+    "textile"
+  ],
+  "hook": [
+    "implement",
+    "grab",
+    "slug",
+    "mechanical_device",
+    "hook",
+    "loop"
+  ],
+  "meal": [
+    "nourishment",
+    "alimentation",
+    "victuals",
+    "meal",
+    "nutriment",
+    "repast",
+    "sustenance",
+    "aliment",
+    "food_product"
+  ],
+  "bowls": [
+    "actuation",
+    "bowls",
+    "construction",
+    "bowling",
+    "lawn_bowling"
+  ],
+  "package": [
+    "bundle",
+    "collection",
+    "package",
+    "aggregation",
+    "packet"
+  ],
+  "coffee maker": [],
+  "headband": [
+    "headband"
+  ],
+  "almond": [
+    "almond",
+    "Prunus_amygdalus",
+    "almond_tree",
+    "Amygdalus_communis",
+    "Prunus_dulcis",
+    "sweet_almond"
+  ],
+  "curved": [
+    "sheer",
+    "slue",
+    "veer"
+  ],
+  "man": [
+    "skilled_worker",
+    "underling",
+    "adult",
+    "grownup",
+    "someone",
+    "person",
+    "male_person",
+    "trained_worker",
+    "individual",
+    "somebody",
+    "man",
+    "subsidiary",
+    "adult_male",
+    "mortal",
+    "homo",
+    "skilled_workman",
+    "body_servant",
+    "lover",
+    "male",
+    "subordinate",
+    "manservant"
+  ],
+  "tractor": [
+    "motortruck",
+    "truck",
+    "tractor",
+    "self-propelled_vehicle"
+  ],
+  "dish drainer": [],
+  "bicycle": [
+    "wheeled_vehicle",
+    "bicycle",
+    "bike"
+  ],
+  "pajamas": [
+    "nightwear",
+    "trouser",
+    "pajama",
+    "sleepwear",
+    "pyjama",
+    "nightclothes"
+  ],
+  "train station": [],
+  "wii game": [],
+  "lace": [
+    "twine",
+    "cord",
+    "lace",
+    "cloth",
+    "weave",
+    "fabric",
+    "textile"
+  ],
+  "grapes": [
+    "grape",
+    "edible_fruit"
+  ],
+  "no": [
+    "no",
+    "negative"
+  ],
+  "earrings": [
+    "jewellery",
+    "jewelry",
+    "earring"
+  ],
+  "groceries": [
+    "food_market",
+    "grocery_store",
+    "mart",
+    "market_place",
+    "grocery"
+  ],
+  "mountains": [
+    "mountain",
+    "natural_elevation"
+  ],
+  "sitting": [
+    "move",
+    "sitting",
+    "movement",
+    "travel",
+    "serve",
+    "posing"
+  ],
+  "athlete": [
+    "contestant",
+    "jock",
+    "athlete"
+  ],
+  "soldiers": [
+    "enlisted_person",
+    "soldier"
+  ],
+  "store": [
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "shop",
+    "sales_outlet",
+    "store"
+  ],
+  "rice": [
+    "food_grain",
+    "rice",
+    "starches"
+  ],
+  "skirt": [
+    "skirt",
+    "cloth_covering",
+    "garment"
+  ],
+  "adidas": [],
+  "microphone": [
+    "electro-acoustic_transducer",
+    "mike",
+    "microphone"
+  ],
+  "luggage cart": [],
+  "melons": [
+    "edible_fruit",
+    "melon"
+  ],
+  "avocado": [
+    "avocado",
+    "avocado_pear",
+    "edible_fruit",
+    "alligator_pear",
+    "aguacate"
+  ],
+  "pikachu": [],
+  "olive oil": [],
+  "road": [
+    "road"
+  ],
+  "unripe": [
+    "unripe",
+    "unripened"
+  ],
+  "pizzas": [
+    "pizza_pie",
+    "pizza"
+  ],
+  "living room": [],
+  "shelter": [
+    "shelter",
+    "protective_covering",
+    "living_accommodations",
+    "housing",
+    "protective_cover",
+    "lodging",
+    "structure"
+  ],
+  "ducks": [
+    "poultry",
+    "duck",
+    "anseriform_bird"
+  ],
+  "tool": [
+    "tool",
+    "implement"
+  ],
+  "couches": [
+    "couch",
+    "bed",
+    "sofa",
+    "lounge"
+  ],
+  "trumpet": [
+    "brass_instrument",
+    "cornet",
+    "horn",
+    "trumpet"
+  ],
+  "cups": [
+    "crockery",
+    "container",
+    "dishware",
+    "cup"
+  ],
+  "syrup": [
+    "syrup",
+    "sweetening",
+    "sweetener",
+    "sirup"
+  ],
+  "short sleeved": [],
+  "octagonal": [
+    "octagonal",
+    "octangular"
+  ],
+  "rhino": [
+    "perissodactyl",
+    "rhinoceros",
+    "rhino",
+    "odd-toed_ungulate",
+    "perissodactyl_mammal"
+  ],
+  "picture": [
+    "product",
+    "ikon",
+    "graphic_art",
+    "picture"
+  ],
+  "heater": [
+    "warmer",
+    "device",
+    "heater"
+  ],
+  "produce": [
+    "garden_truck",
+    "produce",
+    "green_goods",
+    "solid_food",
+    "green_groceries"
+  ],
+  "father": [
+    "antecedent",
+    "ancestor",
+    "begetter",
+    "father",
+    "male_parent",
+    "parent"
+  ],
+  "shoe": [
+    "dress",
+    "apparel",
+    "garb",
+    "raiment",
+    "footgear",
+    "garment",
+    "footwear",
+    "shoe"
+  ],
+  "cds": [
+    "Cd",
+    "metal",
+    "atomic_number_48",
+    "metallic_element",
+    "cadmium"
+  ],
+  "bamboo": [
+    "wood",
+    "bamboo"
+  ],
+  "pond": [
+    "lake",
+    "pond"
+  ],
+  "toaster oven": [],
+  "doors": [
+    "movable_barrier",
+    "door",
+    "room",
+    "structure"
+  ],
+  "donuts": [
+    "friedcake",
+    "donut",
+    "sinker"
+  ],
+  "hat": [
+    "hat",
+    "headgear",
+    "headdress",
+    "chapeau"
+  ],
+  "runway": [
+    "runway",
+    "chute",
+    "rails"
+  ],
+  "restaurant": [
+    "restaurant",
+    "edifice",
+    "eating_place",
+    "eating_house",
+    "eatery",
+    "building"
+  ],
+  "lemons": [
+    "citrus",
+    "lemon",
+    "citrus_fruit",
+    "citrous_fruit"
+  ],
+  "appetizers": [
+    "appetizer",
+    "appetiser"
+  ],
+  "cigarette": [
+    "cigarette",
+    "coffin_nail",
+    "cigaret",
+    "roll_of_tobacco"
+  ],
+  "face mask": [],
+  "plastic": [
+    "plastic",
+    "solid"
+  ],
+  "shirts": [
+    "raiment",
+    "dress",
+    "garment",
+    "shirt",
+    "garb",
+    "apparel"
+  ],
+  "shelf": [
+    "shelf"
+  ],
+  "shield": [
+    "shield",
+    "armor",
+    "protective_covering",
+    "protective_cover"
+  ],
+  "supermarket": [
+    "food_market",
+    "grocery_store",
+    "supermarket",
+    "grocery"
+  ],
+  "lily": [
+    "liliaceous_plant",
+    "lily"
+  ],
+  "bag": [
+    "luggage",
+    "container",
+    "bag",
+    "baseball_equipment",
+    "baggage"
+  ],
+  "metal": [
+    "mixture",
+    "chemical_element",
+    "metal",
+    "metallic_element"
+  ],
+  "spoon": [
+    "eating_utensil",
+    "spoon",
+    "cutlery",
+    "container"
+  ],
+  "earphones": [
+    "earphone",
+    "headphone",
+    "earpiece",
+    "electro-acoustic_transducer"
+  ],
+  "khaki": [
+    "cloth",
+    "khaki",
+    "fabric",
+    "textile"
+  ],
+  "beer bottle": [],
+  "jumping": [
+    "actuation",
+    "attack",
+    "jumping",
+    "track_and_field",
+    "plunge"
+  ],
+  "post": [
+    "post",
+    "place",
+    "position"
+  ],
+  "papers": [
+    "essay",
+    "document",
+    "written_material",
+    "written_document",
+    "papers",
+    "piece_of_writing"
+  ],
+  "silver": [
+    "silver",
+    "Ag",
+    "atomic_number_47",
+    "colour",
+    "noble_metal"
+  ],
+  "goose": [
+    "poultry",
+    "anseriform_bird",
+    "goose"
+  ],
+  "ring": [
+    "sound",
+    "ring"
+  ],
+  "tools": [
+    "tool",
+    "implement"
+  ],
+  "drinks": [
+    "helping",
+    "serving",
+    "drink"
+  ],
+  "iron": [
+    "atomic_number_26",
+    "metal",
+    "iron",
+    "metallic_element",
+    "Fe"
+  ],
+  "owl": [
+    "owl",
+    "raptor",
+    "bird_of_Minerva",
+    "bird_of_prey",
+    "bird_of_night",
+    "raptorial_bird"
+  ],
+  "outfit": [
+    "social_unit",
+    "outfit"
+  ],
+  "spear": [
+    "lance",
+    "weapon_system",
+    "implement",
+    "weapon",
+    "spear"
+  ],
+  "buns": [
+    "hindquarters",
+    "hind_end",
+    "tail",
+    "prat",
+    "tooshie",
+    "buns",
+    "arse",
+    "ass",
+    "rear_end",
+    "keister",
+    "nates",
+    "buttocks",
+    "fanny",
+    "body_part",
+    "derriere",
+    "rump",
+    "tush",
+    "behind",
+    "posterior"
+  ],
+  "baker": [
+    "merchandiser",
+    "baker",
+    "merchant"
+  ],
+  "branch": [
+    "branch",
+    "division"
+  ],
+  "tape": [
+    "tape",
+    "memory_device",
+    "measuring_system",
+    "measuring_instrument",
+    "storage_device",
+    "measuring_device"
+  ],
+  "sweatshirt": [
+    "slipover",
+    "sweatshirt",
+    "pullover"
+  ],
+  "tractors": [
+    "motortruck",
+    "truck",
+    "tractor",
+    "self-propelled_vehicle"
+  ],
+  "deer": [
+    "deer",
+    "ruminant",
+    "cervid"
+  ],
+  "school bus": [],
+  "tree branches": [],
+  "folding chair": [],
+  "full": [
+    "full_moon",
+    "phase_of_the_moon",
+    "full-of-the-moon",
+    "full",
+    "full_phase_of_the_moon"
+  ],
+  "teddy bear": [],
+  "banana bunches": [],
+  "dry-erase board": [],
+  "tv stand": [],
+  "christmas lights": [],
+  "up": [
+    "up"
+  ],
+  "coat": [
+    "overgarment",
+    "raiment",
+    "dress",
+    "outer_garment",
+    "coat",
+    "garment",
+    "cover",
+    "apparel",
+    "garb"
+  ],
+  "twig": [
+    "sprig",
+    "twig",
+    "branchlet"
+  ],
+  "mugs": [
+    "containerful",
+    "mugful",
+    "mug"
+  ],
+  "cross": [
+    "cover",
+    "cross",
+    "organism",
+    "coupling",
+    "emblem",
+    "structure"
+  ],
+  "ice maker": [],
+  "notepad": [
+    "notepad",
+    "pad",
+    "pad_of_paper"
+  ],
+  "tree leaves": [],
+  "male": [
+    "person",
+    "mortal",
+    "male",
+    "creature",
+    "individual",
+    "animal",
+    "somebody",
+    "brute",
+    "beast",
+    "animate_being",
+    "someone"
+  ],
+  "lamb": [
+    "lamb",
+    "innocent",
+    "dupe",
+    "bear",
+    "have",
+    "victim",
+    "young_mammal",
+    "inexperienced_person"
+  ],
+  "biscuit": [
+    "quick_bread",
+    "biscuit"
+  ],
+  "cloth": [
+    "cloth",
+    "artifact",
+    "fabric",
+    "artefact",
+    "textile"
+  ],
+  "coarse": [
+    "coarse"
+  ],
+  "taking photos": [],
+  "omelette": [
+    "omelet",
+    "omelette"
+  ],
+  "street light": [],
+  "cable": [
+    "telegram",
+    "cable",
+    "overseas_telegram",
+    "cablegram"
+  ],
+  "milk carton": [],
+  "school": [
+    "school",
+    "educational_institution"
+  ],
+  "white": [
+    "someone",
+    "person",
+    "individual",
+    "somebody",
+    "man",
+    "Caucasian",
+    "mortal",
+    "White",
+    "White_person"
+  ],
+  "washing machine": [],
+  "mixing bowl": [],
+  "walnut": [
+    "walnut",
+    "edible_nut"
+  ],
+  "wetsuit": [],
+  "harbor": [
+    "harbor",
+    "port",
+    "harbour",
+    "seaport"
+  ],
+  "wallet": [
+    "notecase",
+    "billfold",
+    "wallet"
+  ],
+  "backpack": [
+    "backpack",
+    "bag",
+    "packsack",
+    "back_pack",
+    "rucksack",
+    "knapsack",
+    "haversack"
+  ],
+  "cheese": [
+    "solid_food",
+    "cheese",
+    "food",
+    "dairy_product"
+  ],
+  "bicycles": [
+    "wheeled_vehicle",
+    "bicycle",
+    "bike"
+  ],
+  "hill": [
+    "hill",
+    "natural_elevation"
+  ],
+  "rain": [
+    "rain",
+    "rainfall"
+  ],
+  "dark": [
+    "darkness",
+    "condition",
+    "status",
+    "illumination",
+    "dark"
+  ],
+  "alarm clock": [],
+  "light bulb": [],
+  "tofu": [
+    "curd",
+    "bean_curd",
+    "tofu"
+  ],
+  "comb": [
+    "hairdressing",
+    "plate",
+    "tool",
+    "comb",
+    "device"
+  ],
+  "cables": [
+    "telegram",
+    "cable",
+    "overseas_telegram",
+    "cablegram"
+  ],
+  "street lights": [],
+  "donkeys": [
+    "donkey"
+  ],
+  "door": [
+    "movable_barrier",
+    "door",
+    "room",
+    "structure"
+  ],
+  "cabbage": [
+    "cabbage",
+    "cruciferous_vegetable"
+  ],
+  "sandwiches": [
+    "snack_food",
+    "sandwich"
+  ],
+  "tie": [
+    "neckwear",
+    "tie",
+    "necktie"
+  ],
+  "car": [
+    "automotive_vehicle",
+    "car",
+    "auto",
+    "wheeled_vehicle",
+    "machine",
+    "motor_vehicle",
+    "automobile",
+    "motorcar"
+  ],
+  "cans": [
+    "plumbing_fixture",
+    "room",
+    "container",
+    "can"
+  ],
+  "roadside": [
+    "roadside",
+    "edge",
+    "wayside"
+  ],
+  "mushrooms": [
+    "basidiomycete",
+    "agaric",
+    "mushroom",
+    "basidiomycetous_fungi"
+  ],
+  "stump": [
+    "tree_stump",
+    "plant_structure",
+    "plant_part",
+    "stump"
+  ],
+  "dogs": [
+    "domestic_animal",
+    "canid",
+    "scoundrel",
+    "fellow",
+    "chap",
+    "fella",
+    "domesticated_animal",
+    "domestic_dog",
+    "bloke",
+    "dog",
+    "unpleasant_woman",
+    "villain",
+    "disagreeable_woman",
+    "Canis_familiaris",
+    "lad"
+  ],
+  "color": [
+    "visual_property",
+    "timbre",
+    "color"
+  ],
+  "price tag": [],
+  "cart": [
+    "wheeled_vehicle",
+    "cart",
+    "wagon",
+    "waggon",
+    "transport"
+  ],
+  "life jacket": [],
+  "rocks": [
+    "rock",
+    "stone",
+    "natural_object"
+  ],
+  "river": [
+    "watercourse",
+    "river",
+    "stream"
+  ],
+  "ceiling light": [],
+  "candies": [
+    "confection",
+    "confect",
+    "candy"
+  ],
+  "pine trees": [],
+  "grape": [
+    "grape",
+    "edible_fruit"
+  ],
+  "roses": [
+    "shrub",
+    "bush",
+    "rose",
+    "rosebush"
+  ],
+  "cages": [
+    "enclosure",
+    "coop",
+    "cage"
+  ],
+  "umbrellas": [
+    "umbrella",
+    "canopy"
+  ],
+  "waitress": [
+    "server",
+    "waitress",
+    "waiter"
+  ],
+  "flamingo": [
+    "wading_bird",
+    "flamingo",
+    "wader"
+  ],
+  "tables": [
+    "array",
+    "table",
+    "tabular_array"
+  ],
+  "coffee pot": [],
+  "soft": [
+    "soft"
+  ],
+  "ear buds": [],
+  "towers": [
+    "tower",
+    "structure"
+  ],
+  "beverages": [
+    "potable",
+    "liquid",
+    "drinkable",
+    "beverage",
+    "nutrient",
+    "food"
+  ],
+  "coconuts": [
+    "coconut_meat",
+    "solid_food",
+    "coconut"
+  ],
+  "yogurt": [
+    "solid_food",
+    "yogurt",
+    "yoghurt",
+    "yoghourt",
+    "food",
+    "dairy_product"
+  ],
+  "dinosaur": [
+    "archosaurian",
+    "archosaurian_reptile",
+    "dinosaur",
+    "archosaur"
+  ],
+  "baseball players": [],
+  "bandana": [
+    "handkerchief",
+    "hankey",
+    "hankie",
+    "bandana",
+    "hanky",
+    "bandanna"
+  ],
+  "card": [
+    "paper",
+    "cardboard",
+    "card",
+    "composition_board"
+  ],
+  "televisions": [
+    "telecom_system",
+    "TV",
+    "telecom_equipment",
+    "telecasting",
+    "telecommunication_equipment",
+    "television",
+    "telecommunication_system"
+  ],
+  "jewelry": [
+    "jewellery",
+    "jewelry",
+    "adornment"
+  ],
+  "tangerine": [
+    "mandarin_orange_tree",
+    "tangerine",
+    "tangerine_tree",
+    "Citrus_reticulata",
+    "mandarin",
+    "mandarin_orange"
+  ],
+  "wedding": [
+    "ceremonial_occasion",
+    "wedding",
+    "wedding_ceremony",
+    "ceremonial",
+    "ceremony",
+    "nuptials",
+    "hymeneals"
+  ],
+  "cake": [
+    "bar",
+    "cake",
+    "block",
+    "cover",
+    "dish"
+  ],
+  "balcony": [
+    "balcony",
+    "structure"
+  ],
+  "rolling pin": [],
+  "officers": [
+    "military_man",
+    "serviceman",
+    "officer",
+    "military_officer"
+  ],
+  "telephone pole": [],
+  "whipped cream": [],
+  "chef": [
+    "cook",
+    "chef"
+  ],
+  "flatbread": [
+    "staff_of_life",
+    "flatbread",
+    "bread",
+    "breadstuff"
+  ],
+  "giraffe": [
+    "giraffe",
+    "Giraffa_camelopardalis",
+    "camelopard",
+    "ruminant"
+  ],
+  "tank top": [],
+  "murky": [
+    "murky",
+    "turbid",
+    "mirky"
+  ],
+  "can": [
+    "plumbing_fixture",
+    "room",
+    "container",
+    "can"
+  ],
+  "cone": [
+    "artifact",
+    "bevel",
+    "cone",
+    "chamfer",
+    "artefact"
+  ],
+  "beach chair": [],
+  "zoo": [
+    "facility",
+    "zoological_garden",
+    "zoo"
+  ],
+  "pizza boxes": [],
+  "toothbrushes": [
+    "toilet_articles",
+    "toothbrush",
+    "toiletry"
+  ],
+  "gift": [
+    "gift"
+  ],
+  "parking sign": [],
+  "church": [
+    "church",
+    "Christian_church",
+    "organized_religion"
+  ],
+  "mud": [
+    "mud",
+    "dirt",
+    "daub",
+    "clay"
+  ],
+  "undershirt": [
+    "singlet",
+    "undergarment",
+    "undershirt",
+    "unmentionable",
+    "vest"
+  ],
+  "rooftop": [
+    "upside",
+    "top_side",
+    "rooftop",
+    "upper_side"
+  ],
+  "auditorium": [
+    "auditorium"
+  ],
+  "keyboard": [
+    "holder",
+    "device",
+    "keyboard"
+  ],
+  "drum": [
+    "percussion_instrument",
+    "percussive_instrument",
+    "drum",
+    "tympan",
+    "membranophone"
+  ],
+  "homes": [
+    "location",
+    "origin",
+    "residence",
+    "source",
+    "place",
+    "home",
+    "abode"
+  ],
+  "pepperoni": [
+    "pepperoni",
+    "sausage"
+  ],
+  "fresh": [
+    "fresh"
+  ],
+  "collar": [
+    "collar",
+    "neckpiece"
+  ],
+  "desk": [
+    "desk"
+  ],
+  "stapler": [
+    "machine",
+    "stapler",
+    "stapling_machine"
+  ],
+  "breakfast": [
+    "meal",
+    "repast",
+    "breakfast",
+    "feed"
+  ],
+  "tag": [
+    "tag"
+  ],
+  "ocean": [
+    "ocean",
+    "body_of_water"
+  ],
+  "tablet": [
+    "cake",
+    "slab",
+    "tablet"
+  ],
+  "paint": [
+    "surface",
+    "colour",
+    "colouring_material",
+    "paint",
+    "war_paint",
+    "coat",
+    "coating",
+    "cover",
+    "pigment",
+    "coloring_material"
+  ],
+  "purple": [
+    "spectral_color",
+    "color",
+    "chromatic_colour",
+    "chromatic_color",
+    "spectral_colour",
+    "purpleness",
+    "purple"
+  ],
+  "printer": [
+    "skilled_workman",
+    "pressman",
+    "skilled_worker",
+    "trained_worker",
+    "printer"
+  ],
+  "antelopes": [
+    "bovid",
+    "antelope"
+  ],
+  "tent": [
+    "collapsible_shelter",
+    "shelter",
+    "tent"
+  ],
+  "skate park": [],
+  "outlets": [
+    "place_of_business",
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "sales_outlet",
+    "business_establishment"
+  ],
+  "baskets": [
+    "handbasket",
+    "basket",
+    "basketball_equipment",
+    "container"
+  ],
+  "herd": [
+    "animal_group",
+    "herd"
+  ],
+  "passengers": [
+    "traveller",
+    "passenger",
+    "traveler",
+    "rider"
+  ],
+  "beer": [
+    "brewage",
+    "beer",
+    "brew"
+  ],
+  "drawing": [
+    "graphics",
+    "artwork",
+    "drawing",
+    "nontextual_matter"
+  ],
+  "gravel": [
+    "gravel",
+    "crushed_rock"
+  ],
+  "crate": [
+    "box",
+    "crate"
+  ],
+  "snack": [
+    "collation",
+    "meal",
+    "repast",
+    "snack"
+  ],
+  "mustard": [
+    "mustard",
+    "cruciferous_plant",
+    "crucifer"
+  ],
+  "cookies": [
+    "cookie",
+    "biscuit"
+  ],
+  "phone": [
+    "electronic_equipment",
+    "telephone",
+    "telephone_set",
+    "electro-acoustic_transducer",
+    "phone"
+  ],
+  "sign": [
+    "sign",
+    "clue"
+  ],
+  "dolphin": [
+    "percoid",
+    "percoid_fish",
+    "percoidean",
+    "dolphin"
+  ],
+  "cobblestone": [
+    "paving_stone",
+    "cobble",
+    "sett",
+    "cobblestone"
+  ],
+  "tower": [
+    "tower",
+    "structure"
+  ],
+  "old": [
+    "yesteryear",
+    "past_times",
+    "old",
+    "past"
+  ],
+  "woman": [
+    "adult_female",
+    "female",
+    "adult",
+    "woman",
+    "grownup",
+    "female_person"
+  ],
+  "in the mirror": [],
+  "bull": [
+    "eutherian_mammal",
+    "cattle",
+    "bull",
+    "eutherian",
+    "oxen",
+    "Bos_taurus",
+    "placental_mammal",
+    "kine",
+    "placental",
+    "cows"
+  ],
+  "pears": [
+    "pome",
+    "edible_fruit",
+    "pear",
+    "false_fruit"
+  ],
+  "pudding": [
+    "dessert",
+    "pudding",
+    "afters"
+  ],
+  "theater": [
+    "edifice",
+    "theatre",
+    "house",
+    "building",
+    "theater"
+  ],
+  "goal": [
+    "mental_object",
+    "cognitive_content",
+    "goal"
+  ],
+  "desktop computer": [],
+  "waiter": [
+    "person",
+    "server",
+    "mortal",
+    "individual",
+    "dining-room_attendant",
+    "somebody",
+    "restaurant_attendant",
+    "waiter",
+    "someone"
+  ],
+  "airplanes": [
+    "airplane",
+    "plane",
+    "aeroplane",
+    "heavier-than-air_craft"
+  ],
+  "pretzel": [
+    "cracker",
+    "pretzel"
+  ],
+  "banana": [
+    "banana",
+    "banana_tree",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "outfits": [
+    "social_unit",
+    "outfit"
+  ],
+  "toast": [
+    "toast",
+    "breadstuff",
+    "staff_of_life",
+    "bread"
+  ],
+  "sink": [
+    "plumbing_fixture",
+    "sink",
+    "plant"
+  ],
+  "taking a picture": [],
+  "star": [
+    "heavenly_body",
+    "celestial_body",
+    "star"
+  ],
+  "blueberries": [
+    "shrub",
+    "blueberry",
+    "bush",
+    "blueberry_bush"
+  ],
+  "cathedral": [
+    "cathedral",
+    "church_building"
+  ],
+  "smooth": [
+    "accomplishment",
+    "smooth",
+    "achievement"
+  ],
+  "market": [
+    "activity",
+    "marketplace",
+    "change",
+    "market",
+    "deal",
+    "trade"
+  ],
+  "scissors": [
+    "compound_lever",
+    "scissors",
+    "edge_tool",
+    "pair_of_scissors"
+  ],
+  "camera": [
+    "camera",
+    "photographic_equipment",
+    "television_equipment",
+    "video_equipment",
+    "photographic_camera"
+  ],
+  "coin": [
+    "coin",
+    "coinage",
+    "mintage",
+    "specie",
+    "metal_money"
+  ],
+  "frame": [
+    "frame",
+    "supporting_structure",
+    "system"
+  ],
+  "antelope": [
+    "bovid",
+    "antelope"
+  ],
+  "fishing pole": [],
+  "rabbit": [
+    "coney",
+    "cony",
+    "leporid_mammal",
+    "rabbit",
+    "leporid"
+  ],
+  "soccer ball": [],
+  "cards": [
+    "card_game",
+    "cards",
+    "game"
+  ],
+  "elevator": [
+    "surface",
+    "control_surface",
+    "airfoil",
+    "aerofoil",
+    "lifting_device",
+    "elevator"
+  ],
+  "potato chips": [],
+  "resting": [],
+  "canopy": [
+    "shelter",
+    "cloth",
+    "canopy",
+    "cover",
+    "covering",
+    "fabric",
+    "textile"
+  ],
+  "dog food": [],
+  "nike": [
+    "Nike"
+  ],
+  "ornament": [
+    "deck",
+    "artifact",
+    "ornament",
+    "decoration",
+    "artefact"
+  ],
+  "lipstick": [
+    "lipstick",
+    "makeup",
+    "lip_rouge"
+  ],
+  "coffee beans": [],
+  "stove": [
+    "kitchen_stove",
+    "cooking_stove",
+    "stove",
+    "kitchen_range",
+    "kitchen_appliance"
+  ],
+  "immature": [
+    "immature"
+  ],
+  "shower curtain": [],
+  "chicken breast": [],
+  "puddle": [
+    "puddle",
+    "plant",
+    "covering_material"
+  ],
+  "purse": [
+    "purse",
+    "bag",
+    "handbag",
+    "container",
+    "round"
+  ],
+  "melon": [
+    "edible_fruit",
+    "melon"
+  ],
+  "dvds": [
+    "videodisk",
+    "DVD",
+    "optical_disk",
+    "videodisc",
+    "optical_disc"
+  ],
+  "necklace": [
+    "jewellery",
+    "jewelry",
+    "necklace"
+  ],
+  "cloudy": [
+    "nebulous",
+    "nebulose",
+    "cloudy"
+  ],
+  "baby": [
+    "someone",
+    "person",
+    "individual",
+    "somebody",
+    "offspring",
+    "progeny",
+    "mortal",
+    "infant",
+    "babe",
+    "baby"
+  ],
+  "rackets": [
+    "noise",
+    "racket"
+  ],
+  "riding boots": [],
+  "receipt": [
+    "pass",
+    "acquiring",
+    "receipt",
+    "getting"
+  ],
+  "peach": [
+    "peach",
+    "peach_tree",
+    "Prunus_persica",
+    "fruit_tree"
+  ],
+  "pavement": [
+    "artifact",
+    "paving",
+    "paved_surface",
+    "pavement",
+    "artefact"
+  ],
+  "oatmeal": [
+    "burgoo",
+    "oatmeal",
+    "meal",
+    "porridge"
+  ],
+  "sandy": [
+    "flaxen",
+    "sandy"
+  ],
+  "stones": [
+    "stone",
+    "rock",
+    "building_material",
+    "pericarp",
+    "natural_object",
+    "seed_vessel"
+  ],
+  "opaque": [
+    "opaque"
+  ],
+  "toppings": [
+    "garnish",
+    "topping"
+  ],
+  "below": [
+    "at_a_lower_place",
+    "below",
+    "to_a_lower_place",
+    "beneath"
+  ],
+  "short": [
+    "piece_of_land",
+    "tract",
+    "parcel_of_land",
+    "piece_of_ground",
+    "short"
+  ],
+  "cardboard": [
+    "paper",
+    "packing_material",
+    "composition_board",
+    "packing",
+    "wadding",
+    "cardboard"
+  ],
+  "snacks": [
+    "collation",
+    "meal",
+    "repast",
+    "snack"
+  ],
+  "strawberries": [
+    "berry",
+    "strawberry"
+  ],
+  "shoppers": [
+    "customer",
+    "shopper"
+  ],
+  "sticker": [
+    "pricker",
+    "sticker",
+    "aculeus",
+    "prickle",
+    "spikelet"
+  ],
+  "hillside": [
+    "hillside",
+    "slope",
+    "incline"
+  ],
+  "uniform": [
+    "habiliment",
+    "article_of_clothing",
+    "wearable",
+    "clothing",
+    "uniform"
+  ],
+  "fountain": [
+    "plumbing_fixture",
+    "fountain",
+    "structure"
+  ],
+  "hard drive": [],
+  "village": [
+    "small_town",
+    "community",
+    "village",
+    "settlement"
+  ],
+  "scarf": [
+    "garment",
+    "scarf"
+  ],
+  "cucumbers": [
+    "cucumber",
+    "cucumber_vine",
+    "melon_vine",
+    "Cucumis_sativus"
+  ],
+  "dining room": [],
+  "nuts": [
+    "seed",
+    "nut"
+  ],
+  "mall": [
+    "paseo",
+    "walkway",
+    "mall"
+  ],
+  "basil": [
+    "herbaceous_plant",
+    "herb",
+    "basil"
+  ],
+  "front": [
+    "front_end",
+    "forepart",
+    "front",
+    "side"
+  ],
+  "knee pad": [],
+  "numbers": [
+    "Book_of_Numbers",
+    "Numbers"
+  ],
+  "bedspread": [
+    "bedcover",
+    "bed_cover",
+    "bedclothes",
+    "bedding",
+    "bed_covering",
+    "counterpane",
+    "bed_clothing",
+    "bedspread"
+  ],
+  "dream catcher": [],
+  "faucet": [
+    "regulator",
+    "faucet"
+  ],
+  "elbow pad": [],
+  "irregular": [
+    "warrior",
+    "guerilla",
+    "insurgent",
+    "guerrilla",
+    "irregular"
+  ],
+  "bookshelf": [
+    "shelf",
+    "bookshelf"
+  ],
+  "waffles": [
+    "waffle"
+  ],
+  "bear": [
+    "carnivore",
+    "bear"
+  ],
+  "egg carton": [],
+  "hamburgers": [
+    "sandwich",
+    "hamburger",
+    "beefburger"
+  ],
+  "pine tree": [],
+  "vitamins": [
+    "nourishment",
+    "alimentation",
+    "vitamin",
+    "victuals",
+    "nutriment",
+    "aliment",
+    "sustenance"
+  ],
+  "magazines": [
+    "mag",
+    "public_press",
+    "publication",
+    "magazine"
+  ],
+  "potatoes": [
+    "tater",
+    "spud",
+    "Irish_potato",
+    "starches",
+    "solanaceous_vegetable",
+    "murphy",
+    "potato",
+    "root_vegetable"
+  ],
+  "heart": [
+    "hunch",
+    "mental_object",
+    "heart",
+    "suspicion",
+    "cognitive_content"
+  ],
+  "guitar": [
+    "stringed_instrument",
+    "guitar"
+  ],
+  "eggs": [
+    "eggs",
+    "food_product"
+  ],
+  "fence post": [],
+  "dryer": [
+    "dryer"
+  ],
+  "dugout": [
+    "munition",
+    "shelter",
+    "fortification",
+    "dugout"
+  ],
+  "vest": [
+    "dress",
+    "apparel",
+    "garb",
+    "unmentionable",
+    "raiment",
+    "garment",
+    "waistcoat",
+    "undergarment",
+    "vest"
+  ],
+  "bakery": [
+    "bakery",
+    "workplace",
+    "shop",
+    "bakehouse",
+    "bakeshop",
+    "store"
+  ],
+  "grater": [
+    "grater",
+    "kitchen_utensil"
+  ],
+  "hair dryer": [],
+  "cane": [
+    "cane",
+    "walking_stick"
+  ],
+  "marker": [
+    "writing_implement",
+    "artifact",
+    "marker",
+    "artefact"
+  ],
+  "students": [
+    "student",
+    "enrollee",
+    "educatee",
+    "intellectual",
+    "pupil"
+  ],
+  "jeep": [
+    "jeep",
+    "car",
+    "auto",
+    "landrover",
+    "automobile",
+    "motorcar"
+  ],
+  "bedroom": [
+    "chamber",
+    "room",
+    "sleeping_room",
+    "sleeping_accommodation",
+    "bedroom",
+    "bedchamber"
+  ],
+  "motorcycles": [
+    "automotive_vehicle",
+    "motorcycle",
+    "motor_vehicle",
+    "bike"
+  ],
+  "food": [
+    "substance",
+    "solid",
+    "nutrient",
+    "food"
+  ],
+  "egg": [
+    "egg_cell",
+    "egg",
+    "ovum"
+  ],
+  "sailboats": [
+    "sailing_vessel",
+    "sailboat",
+    "sailing_ship",
+    "sailing_boat"
+  ],
+  "wii": [],
+  "garage door": [],
+  "baking sheet": [],
+  "modern": [
+    "person",
+    "mortal",
+    "individual",
+    "modern",
+    "somebody",
+    "someone"
+  ],
+  "gym": [
+    "athletic_facility",
+    "gym"
+  ],
+  "spray bottle": [],
+  "alcohol": [
+    "potable",
+    "intoxicant",
+    "liquid",
+    "alcoholic_beverage",
+    "drinkable",
+    "alcoholic_drink",
+    "inebriant",
+    "street_drug",
+    "beverage",
+    "drug_of_abuse",
+    "alcohol"
+  ],
+  "moose": [
+    "deer",
+    "moose",
+    "Alces_alces",
+    "European_elk",
+    "elk",
+    "cervid"
+  ],
+  "seaweed": [
+    "algae",
+    "seaweed",
+    "alga"
+  ],
+  "red": [
+    "spectral_color",
+    "chromatic_colour",
+    "chromatic_color",
+    "red",
+    "spectral_colour"
+  ],
+  "beds": [
+    "surface",
+    "artefact",
+    "bedroom_furniture",
+    "bed",
+    "artifact"
+  ],
+  "bunny": [
+    "bunny",
+    "waitress",
+    "bunny_girl"
+  ],
+  "soup": [
+    "soup"
+  ],
+  "watermelon": [
+    "Citrullus_vulgaris",
+    "watermelon_vine",
+    "melon_vine",
+    "watermelon"
+  ],
+  "butterflies": [
+    "lepidopterous_insect",
+    "lepidopteran",
+    "butterfly",
+    "lepidopteron"
+  ],
+  "platform": [
+    "computing_system",
+    "horizontal_surface",
+    "ADP_system",
+    "computer_system",
+    "automatic_data_processing_system",
+    "shoe",
+    "ADPS",
+    "structure",
+    "platform"
+  ],
+  "sea": [
+    "body_of_water",
+    "sea"
+  ],
+  "wall": [
+    "partition",
+    "fence",
+    "wall",
+    "fencing",
+    "embankment",
+    "layer"
+  ],
+  "roast beef": [],
+  "floor lamp": [],
+  "small": [
+    "body_part",
+    "small"
+  ],
+  "cafe": [
+    "cafe",
+    "restaurant",
+    "coffee_bar",
+    "eating_place",
+    "eating_house",
+    "coffeehouse",
+    "eatery",
+    "coffee_shop"
+  ],
+  "beverage": [
+    "potable",
+    "liquid",
+    "drinkable",
+    "beverage",
+    "nutrient",
+    "food"
+  ],
+  "people": [
+    "group",
+    "people",
+    "grouping",
+    "folk"
+  ],
+  "canoe": [
+    "small_boat",
+    "canoe",
+    "boat"
+  ],
+  "words": [
+    "voice_communication",
+    "speech_communication",
+    "spoken_communication",
+    "oral_communication",
+    "words",
+    "spoken_language"
+  ],
+  "donut": [
+    "friedcake",
+    "donut",
+    "sinker"
+  ],
+  "gun": [
+    "weapon",
+    "armament",
+    "gun",
+    "pump",
+    "weapon_system"
+  ],
+  "mickey mouse": [],
+  "towel": [
+    "piece_of_material",
+    "towel",
+    "piece_of_cloth"
+  ],
+  "pizza box": [],
+  "kettle": [
+    "kettle",
+    "percussion_instrument",
+    "boiler",
+    "percussive_instrument",
+    "pot"
+  ],
+  "burner": [
+    "apparatus",
+    "setup",
+    "burner"
+  ],
+  "snowboarding": [
+    "snowboarding"
+  ],
+  "liquid": [
+    "liquid",
+    "fluid"
+  ],
+  "mask": [
+    "protective_cover",
+    "cover",
+    "protective_covering",
+    "covering",
+    "mask"
+  ],
+  "parent": [
+    "parent",
+    "organism",
+    "genitor"
+  ],
+  "tunnel": [
+    "passageway",
+    "tunnel"
+  ],
+  "sidewalk": [
+    "sidewalk",
+    "paseo",
+    "walkway"
+  ],
+  "cream cheese": [],
+  "steam": [
+    "vapour",
+    "steam",
+    "vapor"
+  ],
+  "plates": [
+    "home_base",
+    "dental_appliance",
+    "plate",
+    "bag",
+    "home_plate",
+    "receptacle"
+  ],
+  "mug": [
+    "containerful",
+    "mugful",
+    "mug"
+  ],
+  "pea": [
+    "pea"
+  ],
+  "grassy": [
+    "grassy"
+  ],
+  "animal": [
+    "creature",
+    "animal",
+    "brute",
+    "beast",
+    "organism",
+    "animate_being"
+  ],
+  "console": [
+    "scientific_instrument",
+    "console_table",
+    "console",
+    "wall_bracket"
+  ],
+  "elmo": [],
+  "performing trick": [],
+  "museum": [
+    "repository",
+    "depositary",
+    "depository",
+    "museum"
+  ],
+  "tablecloth": [
+    "tablecloth",
+    "napery",
+    "table_linen"
+  ],
+  "peas": [
+    "pea"
+  ],
+  "sausages": [
+    "meat",
+    "sausage"
+  ],
+  "clear": [
+    "clear"
+  ],
+  "cheeseburger": [
+    "beefburger",
+    "hamburger",
+    "cheeseburger"
+  ],
+  "young": [
+    "creature",
+    "animal",
+    "young",
+    "brute",
+    "beast",
+    "offspring",
+    "animate_being"
+  ],
+  "daughter": [
+    "daughter",
+    "female_offspring"
+  ],
+  "boulders": [
+    "bowlder",
+    "rock",
+    "boulder",
+    "stone"
+  ],
+  "pickles": [
+    "pickle"
+  ],
+  "shampoo bottle": [],
+  "stuffed dog": [],
+  "riding": [
+    "equitation",
+    "mock",
+    "sport",
+    "horseback_riding",
+    "riding",
+    "athletics"
+  ],
+  "flag": [
+    "flag",
+    "emblem",
+    "ornament"
+  ],
+  "croissant": [
+    "bun",
+    "croissant",
+    "crescent_roll"
+  ],
+  "pillow": [
+    "pillow"
+  ],
+  "arrow": [
+    "pointer",
+    "arrow"
+  ],
+  "cinnamon": [
+    "cinnamon_bark",
+    "bark",
+    "cinnamon"
+  ],
+  "shore": [
+    "shore",
+    "geological_formation"
+  ],
+  "outside": [
+    "exterior",
+    "outside",
+    "region"
+  ],
+  "policemen": [
+    "police_officer",
+    "law_officer",
+    "policeman",
+    "lawman",
+    "peace_officer"
+  ],
+  "brunette": [
+    "person",
+    "mortal",
+    "individual",
+    "brunet",
+    "somebody",
+    "brunette",
+    "someone"
+  ],
+  "posing": [
+    "carry",
+    "conduct",
+    "move",
+    "sitting",
+    "movement",
+    "throw",
+    "posing"
+  ],
+  "copper": [
+    "metal",
+    "copper",
+    "Cu",
+    "mahogany",
+    "atomic_number_29",
+    "metallic_element"
+  ],
+  "pomegranate": [
+    "pomegranate",
+    "Punica_granatum",
+    "pomegranate_tree",
+    "fruit_tree"
+  ],
+  "sea foam": [],
+  "floor": [
+    "flooring",
+    "horizontal_surface",
+    "surface",
+    "floor",
+    "room",
+    "structure"
+  ],
+  "lobby": [
+    "anteroom",
+    "lobby",
+    "foyer",
+    "antechamber",
+    "room",
+    "entrance_hall",
+    "vestibule"
+  ],
+  "ice cube": [],
+  "alien": [
+    "alien",
+    "traveler",
+    "foreigner",
+    "interloper",
+    "intruder",
+    "noncitizen",
+    "trespasser",
+    "traveller",
+    "outlander"
+  ],
+  "waterfall": [
+    "body_of_water",
+    "waterfall"
+  ],
+  "lighthouse": [
+    "tower",
+    "beacon_light",
+    "pharos",
+    "lighthouse"
+  ],
+  "cutting board": [],
+  "blazer": [
+    "sport_coat",
+    "sports_coat",
+    "sport_jacket",
+    "blazer",
+    "sports_jacket",
+    "jacket"
+  ],
+  "asparagus": [
+    "asparagus",
+    "Asparagus_officinales",
+    "edible_asparagus",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "map": [
+    "map",
+    "picture"
+  ],
+  "vanilla": [
+    "orchid",
+    "orchidaceous_plant",
+    "vanilla"
+  ],
+  "shop": [
+    "shop",
+    "store",
+    "mercantile_establishment",
+    "retail_store",
+    "outlet",
+    "sales_outlet"
+  ],
+  "cookbook": [
+    "reference_book",
+    "cookbook",
+    "book_of_facts",
+    "cookery_book",
+    "reference_work"
+  ],
+  "trees": [
+    "tree",
+    "woody_plant",
+    "dog",
+    "ligneous_plant"
+  ],
+  "pots": [
+    "plumbing_fixture",
+    "potential_divider",
+    "container",
+    "cooking_utensil",
+    "cookware",
+    "pot",
+    "implant",
+    "voltage_divider"
+  ],
+  "pepper shaker": [],
+  "vinegar": [
+    "condiment",
+    "vinegar"
+  ],
+  "pesto": [
+    "sauce",
+    "pesto"
+  ],
+  "tuna": [
+    "Opuntia_tuna",
+    "tuna",
+    "prickly_pear_cactus",
+    "prickly_pear"
+  ],
+  "sheet": [
+    "sheet"
+  ],
+  "trays": [
+    "receptacle",
+    "tray"
+  ],
+  "tongs": [
+    "pair_of_tongs",
+    "device",
+    "tongs"
+  ],
+  "pillowcase": [
+    "bed_linen",
+    "pillow_slip",
+    "pillowcase"
+  ],
+  "cheese cube": [],
+  "sleeping": [
+    "sleep",
+    "slumber",
+    "sleeping"
+  ],
+  "building": [
+    "base",
+    "building",
+    "edifice",
+    "structure"
+  ],
+  "figurine": [
+    "figurine",
+    "statuette"
+  ],
+  "traffic light": [],
+  "wine glass": [],
+  "spots": [
+    "muscae_volitantes",
+    "floater",
+    "musca_volitans",
+    "spots",
+    "symptom"
+  ],
+  "round": [
+    "call",
+    "unit_of_ammunition",
+    "round",
+    "ammo",
+    "rotating_mechanism",
+    "ammunition",
+    "one_shot"
+  ],
+  "tea kettle": [],
+  "ham": [
+    "ham",
+    "cut_of_pork",
+    "gammon",
+    "jambon"
+  ],
+  "olives": [
+    "olive",
+    "stone_fruit",
+    "fruit",
+    "drupe"
+  ],
+  "mirrors": [
+    "mirror",
+    "reflector"
+  ],
+  "hose": [
+    "hose",
+    "hosiery",
+    "footwear",
+    "garment"
+  ],
+  "vases": [
+    "vase",
+    "jar"
+  ],
+  "jars": [
+    "jar"
+  ],
+  "shaving cream": [],
+  "photographer": [
+    "creative_person",
+    "artist",
+    "photographer",
+    "lensman"
+  ],
+  "tan": [
+    "tan",
+    "hyperpigmentation",
+    "sunburn",
+    "suntan"
+  ],
+  "bending": [
+    "bending"
+  ],
+  "pecan": [
+    "pecan",
+    "wood"
+  ],
+  "salon": [
+    "sitting_room",
+    "parlour",
+    "living_room",
+    "parlor",
+    "living-room",
+    "front_room",
+    "picture_gallery",
+    "salon",
+    "art_gallery"
+  ],
+  "straw": [
+    "plant_fiber",
+    "straw",
+    "plant_fibre",
+    "plant_substance",
+    "plant_material"
+  ],
+  "vacuum": [
+    "vacuum",
+    "vacuity",
+    "emptiness"
+  ],
+  "utensil holder": [],
+  "berry": [
+    "berry",
+    "fruit",
+    "edible_fruit"
+  ],
+  "coffee shop": [],
+  "cranberries": [
+    "cranberry",
+    "shrub",
+    "bush"
+  ],
+  "strawberry": [
+    "berry",
+    "strawberry"
+  ],
+  "spray can": [],
+  "cow": [
+    "eutherian",
+    "kine",
+    "moo-cow",
+    "cow",
+    "placental_mammal",
+    "eutherian_mammal",
+    "oxen",
+    "placental",
+    "cows",
+    "cattle",
+    "Bos_taurus"
+  ],
+  "performer": [
+    "entertainer",
+    "performing_artist",
+    "performer"
+  ],
+  "vines": [
+    "vine",
+    "tracheophyte",
+    "vascular_plant"
+  ],
+  "flower": [
+    "angiosperm",
+    "flowering_plant",
+    "flower"
+  ],
+  "liquor": [
+    "John_Barleycorn",
+    "intoxicant",
+    "liquid",
+    "liquor",
+    "alcoholic_beverage",
+    "hard_drink",
+    "spirits",
+    "alcoholic_drink",
+    "hard_liquor",
+    "booze",
+    "inebriant",
+    "strong_drink",
+    "alcohol"
+  ],
+  "carts": [
+    "wheeled_vehicle",
+    "cart",
+    "wagon",
+    "waggon",
+    "transport"
+  ],
+  "socks": [
+    "hose",
+    "sock",
+    "hosiery"
+  ],
+  "baseball mitt": [],
+  "moon": [
+    "moon",
+    "Moon"
+  ],
+  "seeds": [
+    "ovule",
+    "seed",
+    "fruit"
+  ],
+  "newspaper": [
+    "public_press",
+    "newspaper"
+  ],
+  "coke": [
+    "coke",
+    "fuel"
+  ],
+  "grinder": [
+    "sub",
+    "sandwich",
+    "Cuban_sandwich",
+    "submarine_sandwich",
+    "grinder",
+    "hoagy",
+    "Italian_sandwich",
+    "poor_boy",
+    "hero_sandwich",
+    "hoagie",
+    "zep"
+  ],
+  "cd": [
+    "Cd",
+    "metal",
+    "atomic_number_48",
+    "metallic_element",
+    "cadmium"
+  ],
+  "chocolate": [
+    "potable",
+    "chocolate",
+    "drinkable",
+    "drinking_chocolate",
+    "hot_chocolate",
+    "cocoa",
+    "food",
+    "beverage"
+  ],
+  "life preserver": [],
+  "sheep": [
+    "sheep",
+    "bovid"
+  ],
+  "under": [
+    "under"
+  ],
+  "lambs": [
+    "lamb",
+    "innocent",
+    "dupe",
+    "bear",
+    "have",
+    "victim",
+    "young_mammal",
+    "inexperienced_person"
+  ],
+  "bears": [
+    "carnivore",
+    "bear"
+  ],
+  "stairs": [
+    "stairway",
+    "steps",
+    "stairs",
+    "staircase"
+  ],
+  "couch": [
+    "couch",
+    "bed",
+    "sofa",
+    "lounge"
+  ],
+  "bubbles": [
+    "bubble",
+    "globule"
+  ],
+  "dining table": [],
+  "soda bottle": [],
+  "amusement park": [],
+  "dishwasher": [
+    "dish_washer",
+    "dishwashing_machine",
+    "white_goods",
+    "dishwasher"
+  ],
+  "remote control": [],
+  "food container": [],
+  "shampoo": [
+    "cleanser",
+    "cleaner",
+    "cleansing_agent",
+    "shampoo"
+  ],
+  "balls": [
+    "game_equipment",
+    "toy",
+    "ball",
+    "plaything",
+    "structure"
+  ],
+  "apartment": [
+    "apartment",
+    "living_accommodations",
+    "housing",
+    "lodging"
+  ],
+  "crates": [
+    "box",
+    "crate"
+  ],
+  "staring": [],
+  "dome": [
+    "incurvation",
+    "incurvature",
+    "dome",
+    "concavity",
+    "concave_shape"
+  ],
+  "gas stove": [],
+  "pointing": [
+    "inform",
+    "indicate"
+  ],
+  "doorway": [
+    "entryway",
+    "entrance",
+    "entranceway",
+    "doorway",
+    "room_access"
+  ],
+  "almonds": [
+    "almond",
+    "Prunus_amygdalus",
+    "almond_tree",
+    "Amygdalus_communis",
+    "Prunus_dulcis",
+    "sweet_almond"
+  ],
+  "engineer": [
+    "person",
+    "applied_scientist",
+    "mortal",
+    "individual",
+    "engineer",
+    "manipulator",
+    "somebody",
+    "technologist",
+    "someone"
+  ],
+  "napkins": [
+    "napkin",
+    "serviette",
+    "napery",
+    "table_napkin",
+    "table_linen"
+  ],
+  "hot dog": [],
+  "stuffed animal": [],
+  "colorful": [
+    "colorful"
+  ],
+  "baseball bats": [],
+  "wardrobe": [
+    "article_of_furniture",
+    "piece_of_furniture",
+    "furniture",
+    "wardrobe"
+  ],
+  "utensil": [
+    "utensil",
+    "implement"
+  ],
+  "bush": [
+    "ligneous_plant",
+    "woody_plant",
+    "shrub",
+    "bush"
+  ],
+  "picture frame": [],
+  "honey": [
+    "sweetening",
+    "sweetener",
+    "honey"
+  ],
+  "crosswalk": [
+    "crosswalk"
+  ],
+  "cauliflower": [
+    "cruciferous_plant",
+    "Brassica_oleracea_botrytis",
+    "cauliflower",
+    "crucifer"
+  ],
+  "magazine": [
+    "mag",
+    "public_press",
+    "publication",
+    "magazine"
+  ],
+  "carriage": [
+    "car",
+    "passenger_car",
+    "horse-drawn_vehicle",
+    "railway_car",
+    "wheeled_vehicle",
+    "railcar",
+    "carriage",
+    "railroad_car"
+  ],
+  "briefcase": [
+    "briefcase"
+  ],
+  "controller": [
+    "person",
+    "mortal",
+    "controller",
+    "bourgeois",
+    "individual",
+    "someone",
+    "accountant",
+    "businessperson",
+    "somebody",
+    "comptroller"
+  ],
+  "street": [
+    "thoroughfare",
+    "street"
+  ],
+  "dress shirt": [],
+  "hippos": [
+    "Hippo_Regius",
+    "Hippo"
+  ],
+  "balloons": [
+    "lighter-than-air_craft",
+    "balloon"
+  ],
+  "decorations": [
+    "artifact",
+    "ornament",
+    "decoration",
+    "artefact"
+  ],
+  "panda": [
+    "panda_bear",
+    "procyonid",
+    "panda",
+    "Ailuropoda_melanoleuca",
+    "coon_bear",
+    "giant_panda"
+  ],
+  "stop sign": [],
+  "tennis balls": [],
+  "weeds": [
+    "widow's_weeds",
+    "garment",
+    "weeds"
+  ],
+  "wet": [
+    "wetness",
+    "moisture",
+    "wet"
+  ],
+  "hearts": [
+    "short_whist",
+    "long_whist",
+    "whist",
+    "hearts"
+  ],
+  "boots": [
+    "casing",
+    "footgear",
+    "footwear",
+    "boot"
+  ],
+  "beer can": [],
+  "silverware": [
+    "silverware",
+    "tableware"
+  ],
+  "men": [
+    "workforce",
+    "personnel",
+    "work_force",
+    "manpower",
+    "men"
+  ],
+  "ramekin": [
+    "ramequin",
+    "ramekin"
+  ],
+  "laptop": [
+    "laptop",
+    "portable_computer",
+    "laptop_computer"
+  ],
+  "windows": [
+    "Windows",
+    "operating_system"
+  ],
+  "mesh": [
+    "mesh",
+    "coordinate",
+    "linear_measure",
+    "linear_unit"
+  ],
+  "toothbrush": [
+    "toilet_articles",
+    "toothbrush",
+    "toiletry"
+  ],
+  "placemat": [],
+  "hilltop": [
+    "hilltop"
+  ],
+  "pigeons": [
+    "pigeon",
+    "columbiform_bird"
+  ],
+  "barrier": [
+    "impedimenta",
+    "obstruction",
+    "barrier"
+  ],
+  "bracelets": [
+    "jewelry",
+    "watchstrap",
+    "jewellery",
+    "watch_bracelet",
+    "bracelet",
+    "watchband",
+    "wristband"
+  ],
+  "blue": [
+    "blue",
+    "spectral_color",
+    "blueness",
+    "color",
+    "chromatic_colour",
+    "chromatic_color",
+    "spectral_colour"
+  ],
+  "cabin": [
+    "house",
+    "cabin"
+  ],
+  "steak": [
+    "steak",
+    "cut_of_meat"
+  ],
+  "raisin": [
+    "raisin",
+    "dried_fruit"
+  ],
+  "wicker": [
+    "wood",
+    "wicker"
+  ],
+  "onion rings": [],
+  "bucket": [
+    "pail",
+    "bucket",
+    "transport"
+  ],
+  "bushy": [
+    "shaggy-coated",
+    "bushy",
+    "shaggy",
+    "shaggy-haired"
+  ],
+  "barn": [
+    "farm_building",
+    "barn"
+  ],
+  "shallow": [
+    "shallow",
+    "body_of_water"
+  ],
+  "kite": [
+    "bank_check",
+    "kite",
+    "check",
+    "cheque"
+  ],
+  "chicken": [
+    "poulet",
+    "chicken",
+    "volaille"
+  ],
+  "cones": [
+    "artifact",
+    "bevel",
+    "cone",
+    "chamfer",
+    "artefact"
+  ],
+  "taco": [
+    "taco",
+    "wetback",
+    "greaser",
+    "Mexican"
+  ],
+  "platter": [
+    "platter",
+    "flatware"
+  ],
+  "television": [
+    "telecom_system",
+    "TV",
+    "telecom_equipment",
+    "telecasting",
+    "telecommunication_equipment",
+    "television",
+    "telecommunication_system"
+  ],
+  "herb": [
+    "vascular_plant",
+    "herbaceous_plant",
+    "tracheophyte",
+    "herb"
+  ],
+  "stroller": [
+    "ambler",
+    "pedestrian",
+    "saunterer",
+    "stroller"
+  ],
+  "crackers": [
+    "cracker",
+    "breadstuff",
+    "staff_of_life",
+    "bread"
+  ],
+  "heel": [
+    "underside",
+    "undersurface",
+    "end",
+    "tip",
+    "heel",
+    "bottom"
+  ],
+  "cream": [
+    "elite",
+    "cream",
+    "elite_group"
+  ],
+  "eagle": [
+    "bird_of_Jove",
+    "raptor",
+    "bird_of_prey",
+    "eagle",
+    "raptorial_bird"
+  ],
+  "chains": [
+    "hamper",
+    "irons",
+    "shackle",
+    "chains",
+    "trammel"
+  ],
+  "packages": [
+    "bundle",
+    "collection",
+    "package",
+    "aggregation",
+    "packet"
+  ],
+  "stuffed animals": [],
+  "ottoman": [
+    "Ottoman_Turk",
+    "Ottoman",
+    "Osmanli",
+    "Turk"
+  ],
+  "fries": [
+    "tater",
+    "spud",
+    "fries",
+    "Irish_potato",
+    "chips",
+    "murphy",
+    "french-fried_potatoes",
+    "french_fries",
+    "potato"
+  ],
+  "guy": [
+    "guy",
+    "hombre",
+    "man",
+    "steady",
+    "adult_male"
+  ],
+  "computer": [
+    "information_processing_system",
+    "computer",
+    "computing_machine",
+    "machine",
+    "electronic_computer",
+    "computing_device",
+    "data_processor"
+  ],
+  "pedestrian": [
+    "traveler",
+    "traveller",
+    "pedestrian"
+  ],
+  "menu": [
+    "carte",
+    "list",
+    "menu",
+    "bill_of_fare",
+    "listing",
+    "docket",
+    "carte_du_jour"
+  ],
+  "panda bears": [],
+  "soap dispenser": [],
+  "soft drink": [],
+  "soda": [
+    "soda",
+    "soda_ash",
+    "washing_soda",
+    "salt",
+    "sal_soda",
+    "sodium_carbonate"
+  ],
+  "flags": [
+    "flag",
+    "emblem",
+    "ornament"
+  ],
+  "hedges": [
+    "fence",
+    "fencing",
+    "hedge",
+    "hedgerow"
+  ],
+  "cherries": [
+    "wood",
+    "cherry"
+  ],
+  "label": [
+    "label"
+  ],
+  "dark brown": [],
+  "pepper": [
+    "pepper",
+    "Piper_nigrum",
+    "pepper_vine",
+    "Madagascar_pepper",
+    "black_pepper",
+    "white_pepper",
+    "bush",
+    "true_pepper",
+    "common_pepper",
+    "shrub"
+  ],
+  "juice": [
+    "juice",
+    "food_product"
+  ],
+  "office chair": [],
+  "pans": [
+    "cookware",
+    "pan",
+    "container",
+    "cooking_pan",
+    "cooking_utensil"
+  ],
+  "large": [
+    "large",
+    "size"
+  ],
+  "chain": [
+    "series",
+    "chain",
+    "formation"
+  ],
+  "ostrich": [
+    "person",
+    "mortal",
+    "ratite_bird",
+    "individual",
+    "ratite",
+    "flightless_bird",
+    "somebody",
+    "ostrich",
+    "someone"
+  ],
+  "skyscraper": [
+    "skyscraper",
+    "building",
+    "edifice"
+  ],
+  "pencil": [
+    "pencil",
+    "writing_implement",
+    "cosmetic"
+  ],
+  "light switch": [],
+  "vintage": [
+    "wine",
+    "vintage",
+    "vino"
+  ],
+  "kitchen towel": [],
+  "milkshake": [
+    "milk_shake",
+    "drink",
+    "milkshake"
+  ],
+  "peanuts": [
+    "amount_of_money",
+    "peanuts",
+    "amount",
+    "sum",
+    "sum_of_money"
+  ],
+  "robe": [
+    "robe",
+    "raiment",
+    "dress",
+    "garb",
+    "garment",
+    "cover",
+    "overclothes",
+    "apparel",
+    "outerwear"
+  ],
+  "lion": [
+    "king_of_beasts",
+    "Panthera_leo",
+    "cat",
+    "big_cat",
+    "lion"
+  ],
+  "storage box": [],
+  "grilled": [],
+  "potato salad": [],
+  "blankets": [
+    "bedclothes",
+    "cover",
+    "bedding",
+    "bed_clothing",
+    "layer",
+    "blanket"
+  ],
+  "toothpaste": [
+    "dentifrice",
+    "toothpaste"
+  ],
+  "library": [
+    "repository",
+    "depositary",
+    "edifice",
+    "room",
+    "library",
+    "depository",
+    "building"
+  ],
+  "swimsuit": [
+    "swimming_costume",
+    "bathing_suit",
+    "swimwear",
+    "garment",
+    "bathing_costume",
+    "swimsuit"
+  ],
+  "snoopy": [
+    "Snoopy"
+  ],
+  "tinted": [
+    "colorize",
+    "colourize",
+    "color_in",
+    "colour_in",
+    "tinct",
+    "colorise",
+    "colourise"
+  ],
+  "blouse": [
+    "blouse"
+  ],
+  "bus driver": [],
+  "paper": [
+    "paper",
+    "material",
+    "stuff"
+  ],
+  "peppers": [
+    "pepper",
+    "Piper_nigrum",
+    "pepper_vine",
+    "Madagascar_pepper",
+    "black_pepper",
+    "white_pepper",
+    "bush",
+    "true_pepper",
+    "common_pepper",
+    "shrub"
+  ],
+  "dvd players": [],
+  "watch": [
+    "watch",
+    "timepiece",
+    "horologe"
+  ],
+  "making a face": [],
+  "cereal box": [],
+  "huge": [
+    "huge",
+    "vast",
+    "immense"
+  ],
+  "cat": [
+    "true_cat",
+    "felid",
+    "cat",
+    "feline"
+  ],
+  "chairs": [
+    "chair",
+    "instrument_of_execution"
+  ],
+  "sunflower": [
+    "helianthus",
+    "sunflower",
+    "flower"
+  ],
+  "cupboard": [
+    "cupboard",
+    "closet",
+    "storage_space"
+  ],
+  "beautiful": [
+    "beautiful"
+  ],
+  "swimming pool": [],
+  "wines": [
+    "intoxicant",
+    "alcoholic_beverage",
+    "wine",
+    "treat",
+    "vino",
+    "alcoholic_drink",
+    "booze",
+    "inebriant",
+    "alcohol"
+  ],
+  "pork": [
+    "porc",
+    "meat",
+    "pork"
+  ],
+  "ski": [
+    "ski"
+  ],
+  "away": [
+    "away"
+  ],
+  "chili": [
+    "chili",
+    "chili_con_carne"
+  ],
+  "paintings": [
+    "cover",
+    "surface",
+    "painting",
+    "art",
+    "graphic_art",
+    "coating",
+    "picture"
+  ],
+  "stainless steel": [],
+  "sour cream": [],
+  "peaches": [
+    "peach",
+    "peach_tree",
+    "Prunus_persica",
+    "fruit_tree"
+  ],
+  "guacamole": [
+    "guacamole"
+  ],
+  "french toast": [],
+  "sugar packets": [],
+  "water bottles": [],
+  "palm tree": [],
+  "bouquet": [
+    "posy",
+    "bouquet",
+    "floral_arrangement",
+    "corsage",
+    "nosegay",
+    "flower_arrangement"
+  ],
+  "saucer": [
+    "disk",
+    "round_shape",
+    "saucer"
+  ],
+  "customers": [
+    "consumer",
+    "customer",
+    "client"
+  ],
+  "raspberry": [
+    "bramble_bush",
+    "raspberry",
+    "raspberry_bush"
+  ],
+  "bagels": [
+    "bagel",
+    "bun",
+    "beigel"
+  ],
+  "blossoms": [
+    "reproductive_structure",
+    "blossom"
+  ],
+  "jar": [
+    "jar"
+  ],
+  "bench": [
+    "bench",
+    "worktable",
+    "work_table",
+    "assembly"
+  ],
+  "toiletries": [
+    "toiletry",
+    "toilet_articles",
+    "instrumentation"
+  ],
+  "beads": [
+    "beads",
+    "string_of_beads"
+  ],
+  "plantains": [
+    "banana",
+    "banana_tree",
+    "herbaceous_plant",
+    "herb",
+    "plantain"
+  ],
+  "desserts": [
+    "dessert",
+    "afters"
+  ],
+  "happy": [
+    "happy"
+  ],
+  "sculpture": [
+    "sculpture",
+    "mold",
+    "art",
+    "plastic_art",
+    "solid_figure",
+    "three-dimensional_figure"
+  ],
+  "manhole cover": [],
+  "suitcases": [
+    "bag",
+    "travelling_bag",
+    "traveling_bag",
+    "baggage",
+    "luggage",
+    "suitcase"
+  ],
+  "handbag": [
+    "purse",
+    "bag",
+    "handbag",
+    "container"
+  ],
+  "garland": [
+    "Judy_Garland",
+    "Garland"
+  ],
+  "toolbox": [
+    "tool_chest",
+    "tool_cabinet",
+    "toolbox",
+    "tool_case"
+  ],
+  "american flag": [],
+  "suit": [
+    "suit_of_clothes",
+    "suit",
+    "garment"
+  ],
+  "dumplings": [
+    "dumplings",
+    "dumpling",
+    "alimentary_paste"
+  ],
+  "wire": [
+    "wire"
+  ],
+  "muffins": [
+    "muffin",
+    "quick_bread"
+  ],
+  "oreo": [
+    "oreo",
+    "cookie",
+    "oreo_cookie",
+    "biscuit"
+  ],
+  "trash bag": [],
+  "material": [
+    "substance",
+    "material",
+    "stuff"
+  ],
+  "pasture": [
+    "pastureland",
+    "pasture",
+    "grazing_land",
+    "ley",
+    "grassland"
+  ],
+  "spider": [
+    "arachnid",
+    "spider"
+  ],
+  "city": [
+    "administrative_division",
+    "territorial_division",
+    "metropolis",
+    "city",
+    "urban_center",
+    "administrative_district",
+    "municipality"
+  ],
+  "machine": [
+    "motor_vehicle",
+    "automotive_vehicle",
+    "mechanical_device",
+    "machine",
+    "device"
+  ],
+  "employee": [
+    "worker",
+    "employee"
+  ],
+  "nut": [
+    "seed",
+    "nut"
+  ],
+  "jumpsuit": [
+    "garment",
+    "jumpsuit",
+    "jump_suit"
+  ],
+  "logs": [
+    "wood",
+    "fell",
+    "log"
+  ],
+  "lounge": [
+    "couch",
+    "sofa",
+    "lounge"
+  ],
+  "angry bird": [],
+  "rope": [
+    "rope"
+  ],
+  "noodles": [
+    "noodle",
+    "alimentary_paste"
+  ],
+  "countertop": [
+    "tabletop",
+    "countertop"
+  ],
+  "black": [
+    "black",
+    "inkiness",
+    "color",
+    "achromatic_color",
+    "blackness",
+    "achromatic_colour"
+  ],
+  "pole": [
+    "pole",
+    "rod",
+    "sports_implement"
+  ],
+  "figurines": [
+    "figurine",
+    "statuette"
+  ],
+  "dresser": [
+    "article_of_furniture",
+    "cabinet",
+    "chest_of_drawers",
+    "furniture",
+    "piece_of_furniture",
+    "dresser"
+  ],
+  "toys": [
+    "replica",
+    "artifact",
+    "toy",
+    "device",
+    "plaything",
+    "artefact"
+  ],
+  "helmet": [
+    "helmet",
+    "plate_armor",
+    "headgear",
+    "armour_plate",
+    "plate_armour",
+    "headdress",
+    "armor_plating",
+    "armor_plate"
+  ],
+  "cupcake": [
+    "cupcake"
+  ],
+  "sticky notes": [],
+  "fake": [
+    "sham",
+    "fake"
+  ],
+  "snail": [
+    "univalve",
+    "gastropod",
+    "snail"
+  ],
+  "fans": [
+    "shake",
+    "fan",
+    "device",
+    "sieve"
+  ],
+  "wide": [
+    "wide"
+  ],
+  "computer monitor": [],
+  "foil": [
+    "picture",
+    "ikon",
+    "foil",
+    "cover",
+    "device",
+    "sheet_metal"
+  ],
+  "seafood": [
+    "seafood",
+    "solid_food"
+  ],
+  "marble": [
+    "marble"
+  ],
+  "unhealthy": [
+    "unhealthy"
+  ],
+  "train": [
+    "railroad_train",
+    "wheelwork",
+    "public_transport",
+    "piece_of_material",
+    "train",
+    "piece_of_cloth"
+  ],
+  "ugly": [
+    "ugly"
+  ],
+  "scarce": [
+    "scarce"
+  ],
+  "garden": [
+    "garden",
+    "plot_of_ground",
+    "plot_of_land",
+    "curtilage"
+  ],
+  "duck": [
+    "poultry",
+    "duck",
+    "anseriform_bird"
+  ],
+  "dense": [
+    "dense"
+  ],
+  "curly": [
+    "curly"
+  ],
+  "sushi": [
+    "sushi"
+  ],
+  "utensils": [
+    "utensil",
+    "implement"
+  ],
+  "gown": [
+    "intimate_apparel",
+    "lingerie",
+    "dress",
+    "apparel",
+    "garb",
+    "outerwear",
+    "frock",
+    "raiment",
+    "nightwear",
+    "garment",
+    "overclothes",
+    "sleepwear",
+    "nightclothes",
+    "gown"
+  ],
+  "shopping cart": [],
+  "eye glasses": [],
+  "xbox controller": [],
+  "bathroom": [
+    "bathroom",
+    "room"
+  ],
+  "wine glasses": [],
+  "calm": [
+    "disposition",
+    "equanimity",
+    "temperament",
+    "calmness",
+    "calm",
+    "composure"
+  ],
+  "soap dish": [],
+  "safety jacket": [],
+  "lying": [
+    "lying"
+  ],
+  "spoons": [
+    "eating_utensil",
+    "spoon",
+    "cutlery",
+    "container"
+  ],
+  "nightstand": [],
+  "chocolate chips": [],
+  "pig": [
+    "swine",
+    "Sus_scrofa",
+    "bear",
+    "pig"
+  ],
+  "reading": [
+    "reading"
+  ],
+  "shopping bag": [],
+  "feta cheese": [],
+  "anchovies": [
+    "anchovy"
+  ],
+  "gourd": [
+    "bottle",
+    "gourd"
+  ],
+  "butter": [
+    "solid_food",
+    "butter",
+    "food",
+    "dairy_product"
+  ],
+  "parachutes": [
+    "rescue_equipment",
+    "parachute",
+    "chute"
+  ],
+  "shaking hands": [],
+  "pilot": [
+    "airman",
+    "pilot",
+    "aviator",
+    "airplane_pilot",
+    "aeronaut"
+  ],
+  "salad dressing": [],
+  "square": [
+    "foursquare",
+    "regular_polygon",
+    "square",
+    "rectangle"
+  ],
+  "banana peel": [],
+  "bathtub": [
+    "bathtub",
+    "bathing_tub",
+    "bath",
+    "tub"
+  ],
+  "thick": [
+    "thick",
+    "midst",
+    "interior",
+    "inside"
+  ],
+  "box": [
+    "container",
+    "box"
+  ],
+  "light brown": [],
+  "hair": [
+    "hair",
+    "body_covering"
+  ],
+  "walls": [
+    "partition",
+    "fence",
+    "wall",
+    "fencing",
+    "embankment",
+    "layer"
+  ],
+  "blueberry": [
+    "shrub",
+    "blueberry",
+    "bush",
+    "blueberry_bush"
+  ],
+  "hippo": [
+    "Hippo_Regius",
+    "Hippo"
+  ],
+  "fruit": [
+    "reproductive_structure",
+    "fruit"
+  ],
+  "striped": [],
+  "cage": [
+    "enclosure",
+    "coop",
+    "cage"
+  ],
+  "restroom": [
+    "toilet",
+    "facility",
+    "lav",
+    "can",
+    "privy",
+    "public_toilet",
+    "lavatory",
+    "john",
+    "restroom",
+    "bathroom",
+    "comfort_station",
+    "toilet_facility",
+    "public_convenience",
+    "public_lavatory",
+    "wash_room"
+  ],
+  "grapefruit": [
+    "citrus_tree",
+    "grapefruit",
+    "Citrus_paradisi"
+  ],
+  "logo": [
+    "logo",
+    "logotype"
+  ],
+  "onion": [
+    "bulb",
+    "onion"
+  ],
+  "top": [
+    "topographic_point",
+    "place",
+    "top",
+    "side",
+    "reach",
+    "region",
+    "spot"
+  ],
+  "upward": [
+    "upward"
+  ],
+  "bedding": [
+    "cloth_covering",
+    "bedclothes",
+    "plant",
+    "bed_clothing",
+    "bedding"
+  ],
+  "game controller": [],
+  "uniforms": [
+    "habiliment",
+    "article_of_clothing",
+    "wearable",
+    "clothing",
+    "uniform"
+  ],
+  "flower pot": [],
+  "rose": [
+    "rose",
+    "rosebush",
+    "bush",
+    "shrub"
+  ],
+  "soldier": [
+    "enlisted_person",
+    "soldier"
+  ],
+  "oil": [
+    "lipoid",
+    "oil",
+    "lipid",
+    "edible_fat",
+    "lipide"
+  ],
+  "electric toothbrush": [],
+  "clean": [
+    "clean",
+    "weightlifting",
+    "weightlift",
+    "clean_and_jerk"
+  ],
+  "worker": [
+    "person",
+    "mortal",
+    "common_person",
+    "worker",
+    "individual",
+    "insect",
+    "somebody",
+    "commoner",
+    "common_man",
+    "someone"
+  ],
+  "snowsuit": [
+    "overgarment",
+    "outer_garment",
+    "snowsuit"
+  ],
+  "sleeveless": [
+    "sleeveless"
+  ],
+  "fire hydrant": [],
+  "zebra": [
+    "zebra",
+    "equid",
+    "equine"
+  ],
+  "driver": [
+    "manipulator",
+    "driver"
+  ],
+  "pizza": [
+    "pizza_pie",
+    "pizza"
+  ],
+  "broccoli": [
+    "broccoli",
+    "Brassica_oleracea_italica",
+    "cruciferous_plant",
+    "crucifer"
+  ],
+  "orchard": [
+    "garden",
+    "orchard",
+    "woodlet"
+  ],
+  "pizza pan": [],
+  "cash register": [],
+  "mouse pad": [],
+  "water bottle": [],
+  "beer cans": [],
+  "place": [
+    "geographic_region",
+    "area",
+    "abode",
+    "post",
+    "topographic_point",
+    "geographical_area",
+    "spot",
+    "geographical_region",
+    "residence",
+    "geographic_area",
+    "position",
+    "place"
+  ],
+  "trash": [
+    "trash",
+    "garbage",
+    "waste_material",
+    "waste",
+    "waste_product",
+    "rubbish",
+    "waste_matter"
+  ],
+  "blossom": [
+    "reproductive_structure",
+    "blossom"
+  ],
+  "pasta salad": [],
+  "door frame": [],
+  "horse": [
+    "horse",
+    "equid",
+    "Equus_caballus",
+    "equine"
+  ],
+  "controllers": [
+    "person",
+    "mortal",
+    "controller",
+    "bourgeois",
+    "individual",
+    "someone",
+    "accountant",
+    "businessperson",
+    "somebody",
+    "comptroller"
+  ],
+  "stone": [
+    "stone",
+    "rock",
+    "building_material",
+    "pericarp",
+    "natural_object",
+    "seed_vessel"
+  ],
+  "pens": [
+    "pen",
+    "writing_implement"
+  ],
+  "blinds": [
+    "people",
+    "blind"
+  ],
+  "turtle": [
+    "T-shirt",
+    "turtleneck",
+    "sweater",
+    "polo-neck",
+    "tee_shirt",
+    "turtle"
+  ],
+  "marina": [
+    "marina",
+    "docking_facility",
+    "dock"
+  ],
+  "ovens": [
+    "kitchen_appliance",
+    "oven"
+  ],
+  "carrot": [
+    "carrot",
+    "root"
+  ],
+  "raisins": [
+    "raisin",
+    "dried_fruit"
+  ],
+  "stick": [
+    "stick",
+    "sports_equipment",
+    "lever",
+    "ornament",
+    "implement"
+  ],
+  "bar stools": [],
+  "new": [
+    "new"
+  ],
+  "parking meter": [],
+  "cyclist": [
+    "bicyclist",
+    "bicycler",
+    "pedaller",
+    "pedaler",
+    "cyclist"
+  ],
+  "twigs": [
+    "sprig",
+    "twig",
+    "branchlet"
+  ],
+  "shopping center": [],
+  "armor": [
+    "armor",
+    "protective_covering",
+    "protective_cover"
+  ],
+  "dish soap": [],
+  "cooked": [
+    "create_from_raw_stuff",
+    "create_from_raw_material"
+  ],
+  "cabinets": [
+    "cabinet",
+    "article_of_furniture",
+    "piece_of_furniture",
+    "furniture",
+    "housing"
+  ],
+  "bartender": [
+    "bartender",
+    "barman",
+    "employee",
+    "barkeeper",
+    "barkeep",
+    "mixologist"
+  ],
+  "armchair": [
+    "armchair",
+    "chair"
+  ],
+  "christmas light": [],
+  "stars": [
+    "heavenly_body",
+    "celestial_body",
+    "star"
+  ],
+  "cloths": [
+    "cloth",
+    "artifact",
+    "fabric",
+    "artefact",
+    "textile"
+  ],
+  "seal": [
+    "sealing_wax",
+    "surface",
+    "holdfast",
+    "fastening",
+    "seal",
+    "device"
+  ],
+  "thin": [
+    "change_state",
+    "thin"
+  ],
+  "skater": [
+    "skater",
+    "jock",
+    "athlete"
+  ],
+  "asian": [
+    "Asian",
+    "denizen",
+    "person_of_color",
+    "habitant",
+    "Asiatic",
+    "person_of_colour",
+    "inhabitant",
+    "dweller"
+  ],
+  "wild": [
+    "wild",
+    "state_of_nature",
+    "natural_state"
+  ],
+  "bun": [
+    "bun",
+    "breadstuff",
+    "staff_of_life",
+    "bread"
+  ],
+  "customer": [
+    "consumer",
+    "customer",
+    "client"
+  ],
+  "mozzarella": [
+    "mozzarella",
+    "cheese"
+  ],
+  "action figure": [],
+  "goat": [
+    "caprine_animal",
+    "goat",
+    "bovid"
+  ],
+  "polar bear": [],
+  "bottles": [
+    "bottle"
+  ],
+  "bed": [
+    "surface",
+    "artefact",
+    "bedroom_furniture",
+    "bed",
+    "artifact"
+  ],
+  "packet": [
+    "bundle",
+    "collection",
+    "package",
+    "aggregation",
+    "packet"
+  ],
+  "meat": [
+    "solid_food",
+    "meat"
+  ],
+  "dress": [
+    "dress",
+    "habiliment",
+    "woman's_clothing",
+    "article_of_clothing",
+    "frock",
+    "clothing",
+    "attire",
+    "ornament",
+    "wearable"
+  ],
+  "overcast": [
+    "inclementness",
+    "inclemency",
+    "cloudiness",
+    "overcast",
+    "cloud_cover",
+    "bad_weather"
+  ],
+  "clay": [
+    "dirt",
+    "clay"
+  ],
+  "girls": [
+    "adult_female",
+    "miss",
+    "missy",
+    "young_lady",
+    "fille",
+    "girl",
+    "female",
+    "female_offspring",
+    "lover",
+    "woman",
+    "young_woman",
+    "female_person"
+  ],
+  "passenger": [
+    "traveller",
+    "passenger",
+    "traveler",
+    "rider"
+  ],
+  "sunflowers": [
+    "helianthus",
+    "sunflower",
+    "flower"
+  ],
+  "tea": [
+    "potable",
+    "tea",
+    "drinkable",
+    "meal",
+    "repast",
+    "beverage"
+  ],
+  "cheetah": [
+    "cheetah",
+    "chetah",
+    "cat",
+    "big_cat",
+    "Acinonyx_jubatus"
+  ],
+  "apartment building": [],
+  "calculator": [
+    "reckoner",
+    "calculator",
+    "estimator",
+    "expert",
+    "figurer"
+  ],
+  "coffee cup": [],
+  "field": [
+    "geographical_region",
+    "piece_of_land",
+    "tract",
+    "field",
+    "parcel_of_land",
+    "geographic_area",
+    "geographical_area",
+    "geographic_region",
+    "piece_of_ground",
+    "region"
+  ],
+  "artichokes": [
+    "artichoke_plant",
+    "globe_artichoke",
+    "Cynara_scolymus",
+    "artichoke"
+  ],
+  "soccer": [
+    "association_football",
+    "football",
+    "football_game",
+    "soccer"
+  ],
+  "soap bottle": [],
+  "shower": [
+    "plumbing_fixture",
+    "ware",
+    "shower",
+    "ply"
+  ],
+  "books": [
+    "publication",
+    "book"
+  ],
+  "lush": [
+    "lush",
+    "sot",
+    "drunk",
+    "dipsomaniac",
+    "inebriate",
+    "rummy",
+    "boozer",
+    "drunkard",
+    "alky",
+    "wino",
+    "souse",
+    "alcoholic"
+  ],
+  "puppy": [
+    "dog",
+    "young_person",
+    "puppy",
+    "whelp",
+    "youth",
+    "younker",
+    "domestic_dog",
+    "spring_chicken",
+    "pup",
+    "Canis_familiaris"
+  ],
+  "bikes": [
+    "automotive_vehicle",
+    "motorcycle",
+    "wheeled_vehicle",
+    "motor_vehicle",
+    "bike"
+  ],
+  "fur": [
+    "fur",
+    "pelt",
+    "animal_skin"
+  ],
+  "kiwi": [
+    "vine",
+    "Actinidia_chinensis",
+    "Actinidia_deliciosa",
+    "denizen",
+    "kiwi",
+    "habitant",
+    "kiwi_vine",
+    "Chinese_gooseberry",
+    "inhabitant",
+    "dweller"
+  ],
+  "glasses": [
+    "refracting_telescope",
+    "specs",
+    "container",
+    "optical_instrument",
+    "mirror",
+    "eyeglasses",
+    "glasses",
+    "spectacles"
+  ],
+  "microwave oven": [],
+  "raspberries": [
+    "bramble_bush",
+    "raspberry",
+    "raspberry_bush"
+  ],
+  "flames": [
+    "combustion",
+    "flaming",
+    "flame"
+  ],
+  "lake": [
+    "lake",
+    "body_of_water"
+  ],
+  "bridge": [
+    "cover",
+    "cross",
+    "dental_plate",
+    "denture",
+    "circuit",
+    "electrical_circuit",
+    "electric_circuit",
+    "bridge",
+    "structure"
+  ],
+  "antique": [
+    "old_geezer",
+    "graybeard",
+    "greybeard",
+    "gaffer",
+    "old_man",
+    "antique"
+  ],
+  "air": [
+    "air"
+  ],
+  "skating": [
+    "athletics",
+    "sport",
+    "skating"
+  ],
+  "helicopter": [
+    "whirlybird",
+    "helicopter",
+    "heavier-than-air_craft",
+    "eggbeater"
+  ],
+  "frog": [
+    "anuran",
+    "toad",
+    "toad_frog",
+    "batrachian",
+    "salientian",
+    "frog"
+  ],
+  "buses": [
+    "bus",
+    "public_transport",
+    "motorcoach",
+    "car",
+    "auto",
+    "passenger_vehicle",
+    "double-decker",
+    "transport",
+    "motorbus",
+    "machine",
+    "automobile",
+    "charabanc",
+    "autobus",
+    "jitney",
+    "motorcar"
+  ],
+  "pizza shop": [],
+  "table": [
+    "array",
+    "table",
+    "tabular_array"
+  ],
+  "orchid": [
+    "orchidaceous_plant",
+    "orchid",
+    "flower"
+  ],
+  "cemetery": [
+    "graveyard",
+    "burial_site",
+    "land_site",
+    "burying_ground",
+    "cemetery",
+    "necropolis",
+    "site",
+    "memorial_park",
+    "burial_ground"
+  ],
+  "eiffel tower": [],
+  "pouch": [
+    "bag",
+    "pouch"
+  ],
+  "letters": [
+    "learning",
+    "letters"
+  ],
+  "biscuits": [
+    "quick_bread",
+    "biscuit"
+  ],
+  "bison": [
+    "bison",
+    "bovid"
+  ],
+  "hangar": [
+    "repair_shed",
+    "hangar",
+    "structure",
+    "airdock"
+  ],
+  "pandas": [
+    "panda_bear",
+    "procyonid",
+    "panda",
+    "Ailuropoda_melanoleuca",
+    "coon_bear",
+    "giant_panda"
+  ],
+  "pretzels": [
+    "cracker",
+    "pretzel"
+  ],
+  "sausage": [
+    "meat",
+    "sausage"
+  ],
+  "poodle": [
+    "dog",
+    "domestic_dog",
+    "Canis_familiaris",
+    "poodle",
+    "poodle_dog"
+  ],
+  "narrow": [
+    "strait",
+    "narrow"
+  ],
+  "radiator": [
+    "radiator",
+    "natural_object"
+  ],
+  "kitten": [
+    "bear",
+    "have",
+    "kitten",
+    "young_mammal"
+  ],
+  "earring": [
+    "jewellery",
+    "jewelry",
+    "earring"
+  ],
+  "wristwatch": [
+    "wrist_watch",
+    "watch",
+    "wristwatch"
+  ],
+  "ceramic": [
+    "ceramic",
+    "instrumentation"
+  ],
+  "palm trees": [],
+  "standing": [
+    "standing",
+    "status"
+  ],
+  "vegetable": [
+    "garden_truck",
+    "produce",
+    "green_goods",
+    "vegetable",
+    "green_groceries",
+    "veg",
+    "veggie"
+  ],
+  "park": [
+    "parkland",
+    "piece_of_land",
+    "tract",
+    "parcel_of_land",
+    "park",
+    "piece_of_ground"
+  ],
+  "plants": [
+    "building_complex",
+    "industrial_plant",
+    "plant",
+    "works",
+    "contrivance"
+  ],
+  "vine": [
+    "vine",
+    "tracheophyte",
+    "vascular_plant"
+  ],
+  "guys": [
+    "guy",
+    "hombre",
+    "man",
+    "steady",
+    "adult_male"
+  ],
+  "lamp": [
+    "lamp",
+    "article_of_furniture",
+    "piece_of_furniture",
+    "furniture",
+    "source_of_illumination"
+  ],
+  "family": [
+    "association",
+    "clan",
+    "family",
+    "tribe",
+    "gangland",
+    "kinship_group",
+    "assemblage",
+    "menage",
+    "organized_crime",
+    "kindred",
+    "social_unit",
+    "kin_group",
+    "gangdom",
+    "household"
+  ],
+  "wave": [
+    "moving_ridge",
+    "rise",
+    "wave",
+    "twist"
+  ],
+  "crouching": [],
+  "vendor": [
+    "vendor",
+    "merchandiser",
+    "trafficker",
+    "marketer",
+    "merchant",
+    "seller",
+    "vender"
+  ],
+  "toasted": [
+    "crispen"
+  ],
+  "unpaved": [
+    "unpaved"
+  ],
+  "stuffed bear": [],
+  "blender": [
+    "blender",
+    "liquidizer",
+    "liquidiser"
+  ],
+  "eggplant": [
+    "eggplant",
+    "solanaceous_vegetable"
+  ],
+  "mountain peak": [],
+  "tissue": [
+    "body_part",
+    "tissue"
+  ],
+  "net": [
+    "game_equipment",
+    "fabric",
+    "cloth",
+    "internet",
+    "trap",
+    "computer_network",
+    "net",
+    "cyberspace",
+    "textile"
+  ],
+  "spectator": [
+    "witness",
+    "observer",
+    "beholder",
+    "spectator",
+    "perceiver",
+    "watcher",
+    "percipient",
+    "viewer",
+    "looker"
+  ],
+  "screen": [
+    "strainer",
+    "block",
+    "protective_covering",
+    "surface",
+    "partition",
+    "projection_screen",
+    "silver_screen",
+    "video_display",
+    "covering",
+    "protective_cover",
+    "canvas",
+    "screen"
+  ],
+  "unhappy": [
+    "unhappy"
+  ],
+  "beneath": [
+    "at_a_lower_place",
+    "below",
+    "to_a_lower_place",
+    "beneath"
+  ],
+  "beige": [
+    "beige",
+    "light_brown",
+    "ecru"
+  ],
+  "son": [
+    "male_offspring",
+    "son",
+    "man-child",
+    "boy"
+  ],
+  "apron": [
+    "protective_garment",
+    "apron"
+  ],
+  "knife block": [],
+  "cell phone": [],
+  "student": [
+    "student",
+    "enrollee",
+    "educatee",
+    "intellectual",
+    "pupil"
+  ],
+  "rubber": [
+    "rubber",
+    "gum_elastic",
+    "synthetic_substance",
+    "latex",
+    "caoutchouc",
+    "synthetic",
+    "India_rubber",
+    "natural_rubber"
+  ],
+  "monkey": [
+    "monkey",
+    "nestling"
+  ],
+  "clouds": [
+    "physical_phenomenon",
+    "atmospheric_phenomenon",
+    "cloud"
+  ],
+  "cinnamon roll": [],
+  "spatula": [
+    "food_turner",
+    "spatula",
+    "hand_tool"
+  ],
+  "muffin": [
+    "muffin",
+    "quick_bread"
+  ],
+  "mailbox": [
+    "box",
+    "mailbox"
+  ],
+  "sneakers": [
+    "shoe",
+    "sneaker",
+    "gym_shoe",
+    "tennis_shoe"
+  ],
+  "boat": [
+    "boat",
+    "dish"
+  ],
+  "monitors": [
+    "proctor",
+    "supervisor",
+    "monitor"
+  ],
+  "match": [
+    "cope",
+    "match",
+    "friction_match",
+    "duplicate",
+    "grapple"
+  ],
+  "cake pan": [],
+  "kitchen": [
+    "room",
+    "kitchen"
+  ],
+  "food processor": [],
+  "character": [
+    "fictitious_character",
+    "imaginary_creature",
+    "imaginary_being",
+    "character",
+    "fictional_character"
+  ],
+  "sand": [
+    "sand",
+    "dirt"
+  ],
+  "peacock": [
+    "brush-footed_butterfly",
+    "peacock",
+    "peacock_butterfly",
+    "nymphalid",
+    "Inachis_io",
+    "four-footed_butterfly",
+    "nymphalid_butterfly"
+  ],
+  "cucumber": [
+    "cucumber",
+    "cucumber_vine",
+    "melon_vine",
+    "Cucumis_sativus"
+  ],
+  "urinal": [
+    "plumbing_fixture",
+    "urinal"
+  ],
+  "cell phones": [],
+  "ravioli": [
+    "ravioli",
+    "cappelletti",
+    "alimentary_paste"
+  ],
+  "scaffolding": [
+    "system",
+    "scaffolding"
+  ],
+  "sauce": [
+    "condiment",
+    "sauce"
+  ],
+  "aquarium": [
+    "fish_tank",
+    "marine_museum",
+    "storage_tank",
+    "vivarium",
+    "aquarium",
+    "tank"
+  ],
+  "curled": [
+    "change_surface"
+  ],
+  "bat": [
+    "bat",
+    "eutherian_mammal",
+    "eutherian",
+    "chiropteran",
+    "placental_mammal",
+    "placental"
+  ],
+  "comforter": [
+    "person",
+    "mortal",
+    "sympathizer",
+    "individual",
+    "communicator",
+    "somebody",
+    "comforter",
+    "sympathiser",
+    "someone"
+  ],
+  "snow boots": [],
+  "shopper": [
+    "customer",
+    "shopper"
+  ],
+  "little": [
+    "small_indefinite_amount",
+    "little",
+    "small_indefinite_quantity"
+  ],
+  "sconce": [
+    "sconce",
+    "shelter",
+    "fortress",
+    "earthwork"
+  ],
+  "costume": [
+    "raiment",
+    "dress",
+    "costume",
+    "attire",
+    "garment",
+    "apparel",
+    "garb"
+  ],
+  "curtains": [
+    "drape",
+    "drapery",
+    "curtain",
+    "screen",
+    "furnishing",
+    "barrier"
+  ],
+  "wristband": [
+    "wristband"
+  ],
+  "foggy": [
+    "stuporous",
+    "logy",
+    "foggy",
+    "groggy"
+  ],
+  "cafeteria": [
+    "eatery",
+    "restaurant",
+    "eating_place",
+    "eating_house",
+    "cafeteria"
+  ],
+  "vending machine": [],
+  "bird cage": [],
+  "champagne": [
+    "champagne",
+    "sparkling_wine",
+    "bubbly"
+  ],
+  "hospital": [
+    "healthcare_facility",
+    "infirmary",
+    "hospital",
+    "health_facility",
+    "medical_building"
+  ],
+  "bird house": [],
+  "trash can": [],
+  "decoration": [
+    "artifact",
+    "ornament",
+    "decoration",
+    "artefact"
+  ],
+  "soap": [
+    "soap",
+    "cleanser",
+    "cleaner",
+    "cleansing_agent"
+  ],
+  "canisters": [
+    "ammunition",
+    "ammo",
+    "canister",
+    "case_shot",
+    "canister_shot",
+    "container"
+  ],
+  "coconut": [
+    "coconut_meat",
+    "solid_food",
+    "coconut"
+  ],
+  "antennas": [
+    "transmitting_aerial",
+    "antenna",
+    "electrical_device"
+  ],
+  "pie": [
+    "pie"
+  ],
+  "orchids": [
+    "orchidaceous_plant",
+    "orchid",
+    "flower"
+  ],
+  "medicine cabinet": [],
+  "female": [
+    "person",
+    "mortal",
+    "creature",
+    "individual",
+    "animal",
+    "female",
+    "somebody",
+    "brute",
+    "beast",
+    "animate_being",
+    "someone"
+  ],
+  "bus stop": [],
+  "team": [
+    "squad",
+    "social_unit",
+    "team"
+  ],
+  "rounded": [],
+  "terminal": [
+    "electronic_equipment",
+    "terminal",
+    "depot",
+    "station"
+  ],
+  "clocks": [
+    "alfilaria",
+    "filaria",
+    "storksbill",
+    "clocks",
+    "filaree",
+    "Erodium_cicutarium",
+    "alfileria",
+    "redstem_storksbill",
+    "pin_grass",
+    "pin_clover",
+    "heron's_bill"
+  ],
+  "bomb": [
+    "weapons_system",
+    "weaponry",
+    "munition",
+    "arms",
+    "implements_of_war",
+    "calorimeter",
+    "explosive_device",
+    "bomb"
+  ],
+  "boats": [
+    "boat",
+    "dish"
+  ],
+  "squash": [
+    "vine",
+    "squash",
+    "squash_vine"
+  ],
+  "pizza cutter": [],
+  "waiting": [
+    "move",
+    "work",
+    "waiting"
+  ],
+  "town": [
+    "administrative_division",
+    "territorial_division",
+    "town",
+    "administrative_district",
+    "municipality"
+  ],
+  "food truck": [],
+  "sofa": [
+    "sofa",
+    "couch",
+    "lounge"
+  ],
+  "wii controllers": [],
+  "dinosaurs": [
+    "archosaurian",
+    "archosaurian_reptile",
+    "dinosaur",
+    "archosaur"
+  ],
+  "beef": [
+    "Bos_taurus",
+    "kine",
+    "oxen",
+    "cows",
+    "cattle",
+    "beef_cattle",
+    "beef"
+  ],
+  "sweet potato": [],
+  "ladle": [
+    "ladle"
+  ],
+  "audience": [
+    "assemblage",
+    "conference",
+    "audience",
+    "gathering"
+  ],
+  "steel": [
+    "steel",
+    "alloy"
+  ],
+  "planter": [
+    "husbandman",
+    "granger",
+    "worker",
+    "sodbuster",
+    "farmer",
+    "planter",
+    "plantation_owner"
+  ],
+  "drawings": [
+    "graphics",
+    "artwork",
+    "drawing",
+    "nontextual_matter"
+  ],
+  "pita": [
+    "flatbread",
+    "pita",
+    "pocket_bread"
+  ],
+  "bowl": [
+    "bowl",
+    "container",
+    "dish",
+    "ball",
+    "structure"
+  ],
+  "wolf": [
+    "wolf",
+    "canid"
+  ],
+  "projector": [
+    "projector",
+    "optical_device",
+    "optical_instrument"
+  ],
+  "egg yolk": [],
+  "bread box": [],
+  "checkered": [],
+  "branches": [
+    "branch",
+    "division"
+  ],
+  "dresses": [
+    "dress",
+    "habiliment",
+    "woman's_clothing",
+    "article_of_clothing",
+    "frock",
+    "clothing",
+    "attire",
+    "ornament",
+    "wearable"
+  ],
+  "ripe": [
+    "ripe"
+  ],
+  "shape": [
+    "shape",
+    "spatiality",
+    "spatial_property"
+  ],
+  "radio": [
+    "wireless",
+    "communication_system",
+    "radio",
+    "radiocommunication"
+  ],
+  "backyard": [
+    "backyard",
+    "curtilage"
+  ],
+  "skinny": [
+    "information",
+    "skinny",
+    "info"
+  ],
+  "gravy": [
+    "juice",
+    "gravy",
+    "sauce"
+  ],
+  "curtain": [
+    "drape",
+    "drapery",
+    "curtain",
+    "screen",
+    "furnishing",
+    "barrier"
+  ],
+  "butter knife": [],
+  "gifts": [
+    "gift"
+  ],
+  "smoothie": [
+    "dissimulator",
+    "smoothy",
+    "smoothie",
+    "phoney",
+    "hypocrite",
+    "dissembler",
+    "sweet_talker",
+    "phony",
+    "charmer"
+  ],
+  "chandelier": [
+    "chandelier",
+    "lighting_fixture",
+    "pendant",
+    "pendent"
+  ],
+  "closet": [
+    "toilet",
+    "closet",
+    "lav",
+    "privy",
+    "lavatory",
+    "john",
+    "room",
+    "bathroom",
+    "storage_space",
+    "cupboard"
+  ],
+  "wok": [
+    "wok",
+    "cooking_pan",
+    "pan"
+  ],
+  "dough": [
+    "dough",
+    "concoction",
+    "intermixture"
+  ],
+  "juice box": [],
+  "child": [
+    "kid",
+    "tike",
+    "child",
+    "small_fry",
+    "someone",
+    "person",
+    "individual",
+    "somebody",
+    "tiddler",
+    "offspring",
+    "descendent",
+    "progeny",
+    "mortal",
+    "juvenile_person",
+    "youngster",
+    "juvenile",
+    "shaver",
+    "minor",
+    "nestling",
+    "descendant",
+    "nipper"
+  ],
+  "tissue box": [],
+  "lego": [
+    "Lego",
+    "toy",
+    "Lego_set",
+    "plaything"
+  ],
+  "lizard": [
+    "lizard",
+    "saurian"
+  ],
+  "sock": [
+    "hose",
+    "sock",
+    "hosiery"
+  ],
+  "orange": [
+    "citrus",
+    "orange",
+    "citrus_fruit",
+    "citrous_fruit"
+  ],
+  "visitor": [
+    "traveller",
+    "traveler",
+    "visitor",
+    "visitant"
+  ],
+  "trains": [
+    "railroad_train",
+    "wheelwork",
+    "public_transport",
+    "piece_of_material",
+    "train",
+    "piece_of_cloth"
+  ],
+  "bath towel": [],
+  "dish": [
+    "crockery",
+    "directional_antenna",
+    "container",
+    "dishware",
+    "dish",
+    "ply"
+  ],
+  "stormy": [
+    "stormy"
+  ],
+  "cakes": [
+    "bar",
+    "cake",
+    "block",
+    "cover",
+    "dish"
+  ],
+  "cake stand": [],
+  "gadget": [
+    "appliance",
+    "contraption",
+    "device",
+    "contrivance",
+    "gadget"
+  ],
+  "tennis": [
+    "court_game",
+    "tennis",
+    "lawn_tennis"
+  ],
+  "toilet": [
+    "toilet",
+    "lav",
+    "plumbing_fixture",
+    "privy",
+    "john",
+    "lavatory",
+    "room",
+    "bathroom"
+  ],
+  "computer desk": [],
+  "walnuts": [
+    "walnut",
+    "edible_nut"
+  ],
+  "blackberries": [
+    "berry",
+    "blackberry",
+    "drupelet"
+  ],
+  "running": [
+    "running_play",
+    "football_play",
+    "running_game",
+    "running"
+  ],
+  "paper towels": [],
+  "pizza slice": [],
+  "angry": [
+    "angry"
+  ],
+  "speakers": [
+    "presiding_officer",
+    "articulator",
+    "verbaliser",
+    "speaker",
+    "utterer",
+    "talker",
+    "verbalizer"
+  ],
+  "dip": [
+    "dip",
+    "taper"
+  ],
+  "rocky": [
+    "stony",
+    "bouldery",
+    "rocky",
+    "bouldered"
+  ],
+  "taking notes": [],
+  "gas station": [],
+  "watermelons": [
+    "Citrullus_vulgaris",
+    "watermelon_vine",
+    "melon_vine",
+    "watermelon"
+  ],
+  "still": [
+    "photograph",
+    "still",
+    "pic",
+    "picture",
+    "photo"
+  ],
+  "gorilla": [
+    "great_ape",
+    "pongid",
+    "gorilla",
+    "Gorilla_gorilla"
+  ],
+  "taxi": [
+    "taxicab",
+    "car",
+    "auto",
+    "taxi",
+    "automobile",
+    "motorcar"
+  ],
+  "toilet paper": [],
+  "pumpkin": [
+    "pumpkin",
+    "Cucurbita_pepo",
+    "squash",
+    "squash_vine",
+    "autumn_pumpkin",
+    "pumpkin_vine"
+  ],
+  "ladles": [
+    "ladle"
+  ],
+  "peanut": [
+    "edible_nut",
+    "seedpod",
+    "peanut"
+  ],
+  "off": [
+    "bump_off",
+    "slay",
+    "off"
+  ],
+  "cookie dough": [],
+  "desert": [
+    "piece_of_ground",
+    "biome",
+    "piece_of_land",
+    "tract",
+    "parcel_of_land",
+    "desert"
+  ],
+  "meadow": [
+    "meadow",
+    "grassland",
+    "hayfield"
+  ],
+  "toaster": [
+    "toaster",
+    "protagonist",
+    "booster",
+    "friend",
+    "admirer",
+    "supporter"
+  ],
+  "soda can": [],
+  "lemon": [
+    "citrus",
+    "lemon",
+    "citrus_fruit",
+    "citrous_fruit"
+  ],
+  "cappuccino": [
+    "coffee_cappuccino",
+    "cappuccino_coffee",
+    "cappuccino",
+    "coffee"
+  ],
+  "green": [
+    "viridity",
+    "spectral_color",
+    "color",
+    "chromatic_colour",
+    "chromatic_color",
+    "green",
+    "spectral_colour"
+  ],
+  "sky": [
+    "sky"
+  ],
+  "heavy": [
+    "histrion",
+    "thespian",
+    "actor",
+    "heavy"
+  ],
+  "oak tree": [],
+  "jersey": [
+    "Garden_State",
+    "New_Jersey",
+    "NJ",
+    "Jersey"
+  ],
+  "sack": [
+    "sack",
+    "carrier_bag",
+    "bag",
+    "bed",
+    "paper_bag"
+  ],
+  "lunch": [
+    "dejeuner",
+    "tiffin",
+    "luncheon",
+    "meal",
+    "repast",
+    "lunch",
+    "feed"
+  ],
+  "kiosk": [
+    "stall",
+    "closet",
+    "cubicle",
+    "kiosk"
+  ],
+  "letter": [
+    "textual_matter",
+    "document",
+    "print",
+    "text",
+    "letter",
+    "missive"
+  ],
+  "hardwood": [
+    "wood",
+    "hardwood"
+  ],
+  "cabinet": [
+    "cabinet",
+    "article_of_furniture",
+    "piece_of_furniture",
+    "furniture",
+    "housing"
+  ],
+  "fan": [
+    "shake",
+    "fan",
+    "device",
+    "sieve"
+  ],
+  "paper towel": [],
+  "broom": [
+    "broom",
+    "cleaning_equipment",
+    "cleaning_implement",
+    "cleaning_device"
+  ],
+  "wolves": [
+    "wolf",
+    "canid"
+  ],
+  "swamp": [
+    "swampland",
+    "swamp",
+    "wetland"
+  ],
+  "leaf": [
+    "leafage",
+    "plant_organ",
+    "foliage",
+    "leaf"
+  ],
+  "hammer": [
+    "hammer",
+    "sports_equipment",
+    "power_tool"
+  ],
+  "crab": [
+    "decapod_crustacean",
+    "louse",
+    "someone",
+    "person",
+    "individual",
+    "crab",
+    "somebody",
+    "mortal",
+    "fish",
+    "sucking_louse",
+    "decapod"
+  ],
+  "papaya": [
+    "Carica_papaya",
+    "fruit_tree",
+    "pawpaw",
+    "papaia",
+    "melon_tree",
+    "papaya",
+    "papaya_tree"
+  ],
+  "helmets": [
+    "helmet",
+    "plate_armor",
+    "headgear",
+    "armour_plate",
+    "plate_armour",
+    "headdress",
+    "armor_plating",
+    "armor_plate"
+  ],
+  "choppy": [
+    "choppy"
+  ],
+  "yard": [
+    "cubature_unit",
+    "cubic_content_unit",
+    "displacement_unit",
+    "yard",
+    "capacity_unit",
+    "cubic_measure",
+    "linear_measure",
+    "capacity_measure",
+    "linear_unit",
+    "volume_unit",
+    "cubage_unit"
+  ],
+  "leopard": [
+    "fur",
+    "pelt",
+    "leopard"
+  ],
+  "suitcase": [
+    "bag",
+    "travelling_bag",
+    "traveling_bag",
+    "baggage",
+    "luggage",
+    "suitcase"
+  ],
+  "roasted": [],
+  "sticks": [
+    "stick",
+    "sports_equipment",
+    "lever",
+    "ornament",
+    "implement"
+  ],
+  "sunglasses": [
+    "shades",
+    "converging_lens",
+    "glasses",
+    "dark_glasses",
+    "sunglasses",
+    "specs",
+    "eyeglasses",
+    "spectacles",
+    "convex_lens"
+  ],
+  "right": [
+    "right",
+    "abstraction",
+    "abstract"
+  ],
+  "athletic shoe": [],
+  "word": [
+    "word",
+    "linguistic_unit",
+    "language_unit"
+  ],
+  "umbrella": [
+    "umbrella",
+    "canopy"
+  ],
+  "rough": [
+    "site",
+    "rough",
+    "land_site"
+  ],
+  "beans": [
+    "bean",
+    "edible_bean"
+  ],
+  "canister": [
+    "ammunition",
+    "ammo",
+    "canister",
+    "case_shot",
+    "canister_shot",
+    "container"
+  ],
+  "dull": [
+    "dull"
+  ],
+  "donkey": [
+    "donkey"
+  ],
+  "computer mouse": [],
+  "pasta": [
+    "pasta",
+    "food"
+  ],
+  "pancake": [
+    "flannel_cake",
+    "griddlecake",
+    "hotcake",
+    "battercake",
+    "flapjack",
+    "flapcake",
+    "hot_cake",
+    "flannel-cake",
+    "pancake"
+  ],
+  "olive": [
+    "olive",
+    "stone_fruit",
+    "fruit",
+    "drupe"
+  ],
+  "sparse": [
+    "sparse"
+  ],
+  "granola": [
+    "granola",
+    "cold_cereal",
+    "dry_cereal"
+  ],
+  "paper container": [],
+  "games": [
+    "wager",
+    "frolic",
+    "activity",
+    "recreation",
+    "gambol",
+    "occupation",
+    "contest",
+    "job",
+    "diversion",
+    "line_of_work",
+    "game"
+  ],
+  "bone": [
+    "bone",
+    "connective_tissue"
+  ],
+  "dolphins": [
+    "percoid",
+    "percoid_fish",
+    "percoidean",
+    "dolphin"
+  ],
+  "flip flop": [],
+  "entertainment center": [],
+  "powdered sugar": [],
+  "calf": [
+    "young_mammal",
+    "calf"
+  ],
+  "pastries": [
+    "pastry_dough",
+    "pastry",
+    "dough"
+  ],
+  "window": [
+    "panel",
+    "window"
+  ],
+  "buoy": [
+    "reference_point",
+    "point_of_reference",
+    "buoy"
+  ],
+  "camel": [
+    "even-toed_ungulate",
+    "artiodactyl_mammal",
+    "camel",
+    "artiodactyl"
+  ],
+  "airport": [
+    "airfield",
+    "drome",
+    "flying_field",
+    "landing_field",
+    "airdrome",
+    "airport",
+    "aerodrome"
+  ],
+  "bread loaf": [],
+  "cupcakes": [
+    "cupcake"
+  ],
+  "cookie jar": [],
+  "fireplace": [
+    "hearth",
+    "open_fireplace",
+    "fireplace"
+  ],
+  "printers": [
+    "skilled_workman",
+    "pressman",
+    "skilled_worker",
+    "trained_worker",
+    "printer"
+  ],
+  "looking up": [],
+  "cereal": [
+    "grass",
+    "cereal",
+    "cereal_grass"
+  ],
+  "sprinkles": [
+    "sprinkles",
+    "chocolate_candy",
+    "jimmies"
+  ],
+  "workers": [
+    "person",
+    "mortal",
+    "common_person",
+    "worker",
+    "individual",
+    "insect",
+    "somebody",
+    "commoner",
+    "common_man",
+    "someone"
+  ],
+  "drawer": [
+    "drawer",
+    "storage_space",
+    "container"
+  ],
+  "forest": [
+    "vegetation",
+    "set",
+    "woods",
+    "forest",
+    "flora",
+    "botany"
+  ],
+  "kiwis": [
+    "vine",
+    "Actinidia_chinensis",
+    "Actinidia_deliciosa",
+    "denizen",
+    "kiwi",
+    "habitant",
+    "kiwi_vine",
+    "Chinese_gooseberry",
+    "inhabitant",
+    "dweller"
+  ],
+  "raw": [
+    "nudity",
+    "nakedness",
+    "birthday_suit",
+    "nudeness",
+    "altogether",
+    "raw"
+  ],
+  "lobster": [
+    "shellfish",
+    "lobster"
+  ],
+  "train tracks": [],
+  "gate": [
+    "gate",
+    "movable_barrier"
+  ],
+  "ship": [
+    "ship"
+  ],
+  "player": [
+    "person",
+    "mortal",
+    "performing_artist",
+    "individual",
+    "player",
+    "performer",
+    "somebody",
+    "participant",
+    "contestant",
+    "someone"
+  ],
+  "number": [
+    "size",
+    "limit",
+    "number"
+  ],
+  "dark blue": [],
+  "suits": [
+    "suit_of_clothes",
+    "suit",
+    "garment"
+  ],
+  "bats": [
+    "bat",
+    "eutherian_mammal",
+    "eutherian",
+    "chiropteran",
+    "placental_mammal",
+    "placental"
+  ],
+  "pitcher": [
+    "twirler",
+    "hurler",
+    "ballplayer",
+    "baseball_player",
+    "thrower",
+    "pitcher"
+  ],
+  "uncomfortable": [
+    "uncomfortable"
+  ],
+  "hills": [
+    "hill",
+    "natural_elevation"
+  ],
+  "belt": [
+    "belt"
+  ],
+  "towels": [
+    "piece_of_material",
+    "towel",
+    "piece_of_cloth"
+  ],
+  "stew": [
+    "swither",
+    "agitation",
+    "fret",
+    "stew"
+  ],
+  "pear": [
+    "pome",
+    "edible_fruit",
+    "pear",
+    "false_fruit"
+  ],
+  "paint brush": [],
+  "nest": [
+    "nest",
+    "natural_object"
+  ],
+  "cupboards": [
+    "cupboard",
+    "closet",
+    "storage_space"
+  ],
+  "bricks": [
+    "building_material",
+    "ceramic",
+    "brick"
+  ],
+  "wine bottle": [],
+  "classroom": [
+    "schoolroom",
+    "classroom",
+    "room"
+  ],
+  "tea pot": [],
+  "partly cloudy": [],
+  "hard": [
+    "hard",
+    "difficult"
+  ],
+  "pineapple": [
+    "pineapple",
+    "pineapple_plant",
+    "Ananas_comosus",
+    "herbaceous_plant",
+    "herb"
+  ],
+  "leaves": [
+    "leafage",
+    "foliage",
+    "plant_organ",
+    "leaf"
+  ],
+  "necklaces": [
+    "jewellery",
+    "jewelry",
+    "necklace"
+  ],
+  "porcelain": [
+    "ceramic_ware",
+    "porcelain"
+  ],
+  "taking bath": [],
+  "popcorn": [
+    "Zea_mays_everta",
+    "Indian_corn",
+    "maize",
+    "corn",
+    "popcorn",
+    "Zea_mays"
+  ],
+  "driving": [
+    "travelling",
+    "driving",
+    "golf_stroke",
+    "travel",
+    "traveling",
+    "golf_shot"
+  ],
+  "triangular": [
+    "triangular"
+  ],
+  "beach umbrella": [],
+  "panda bear": [],
+  "temple": [
+    "house_of_worship",
+    "place_of_worship",
+    "edifice",
+    "building",
+    "house_of_God",
+    "house_of_prayer",
+    "temple"
+  ],
+  "gray": [
+    "grayness",
+    "greyness",
+    "color",
+    "gray",
+    "achromatic_color",
+    "achromatic_colour"
+  ],
+  "aluminum": [
+    "aluminum",
+    "atomic_number_13",
+    "metal",
+    "Al",
+    "aluminium",
+    "metallic_element"
+  ],
+  "spectators": [
+    "witness",
+    "observer",
+    "beholder",
+    "spectator",
+    "perceiver",
+    "watcher",
+    "percipient",
+    "viewer",
+    "looker"
+  ],
+  "sponge": [
+    "sponge",
+    "absorbent_material",
+    "absorbent"
+  ],
+  "pocket watch": [],
+  "paper dispenser": [],
+  "backpacks": [
+    "backpack",
+    "bag",
+    "packsack",
+    "back_pack",
+    "rucksack",
+    "knapsack",
+    "haversack"
+  ],
+  "pen": [
+    "pen",
+    "writing_implement"
+  ],
+  "knives": [
+    "knife",
+    "edge_tool"
+  ],
+  "envelope": [
+    "bag",
+    "cover",
+    "envelope",
+    "wrapping",
+    "container"
+  ],
+  "coffee cups": [],
+  "flour": [
+    "flour",
+    "food_product"
+  ],
+  "pants": [
+    "knickers",
+    "pants",
+    "underpants",
+    "bloomers",
+    "garment",
+    "drawers"
+  ],
+  "sheets": [
+    "sheet"
+  ],
+  "salmon": [
+    "fish",
+    "salmon",
+    "salmonid",
+    "food_fish"
+  ],
+  "mint": [
+    "muckle",
+    "large_indefinite_quantity",
+    "great_deal",
+    "mickle",
+    "tidy_sum",
+    "slew",
+    "good_deal",
+    "large_indefinite_amount",
+    "hatful",
+    "quite_a_little",
+    "peck",
+    "passel",
+    "mint",
+    "lot",
+    "spate"
+  ],
+  "brass": [
+    "copper-base_alloy",
+    "brass"
+  ],
+  "topping": [
+    "garnish",
+    "topping"
+  ],
+  "beer mug": [],
+  "underwear": [
+    "underclothing",
+    "undergarment",
+    "underclothes",
+    "unmentionable",
+    "underwear"
+  ],
+  "roadway": [
+    "road",
+    "roadway"
+  ],
+  "suv": [
+    "sport_utility_vehicle",
+    "car",
+    "S.U.V.",
+    "auto",
+    "sport_utility",
+    "SUV",
+    "automobile",
+    "motorcar"
+  ],
+  "cranberry": [
+    "cranberry",
+    "shrub",
+    "bush"
+  ],
+  "sugar": [
+    "sugar",
+    "sweetening",
+    "sweetener",
+    "refined_sugar"
+  ],
+  "crystal": [
+    "crystal",
+    "natural_glass",
+    "solid"
+  ],
+  "wooden": [
+    "wooden"
+  ],
+  "fine": [
+    "fine",
+    "amercement",
+    "mulct"
+  ],
+  "wallpaper": [
+    "paper",
+    "wallpaper"
+  ],
+  "pastry": [
+    "pastry_dough",
+    "pastry",
+    "dough"
+  ],
+  "brownies": [
+    "Girl_Scout",
+    "Brownie"
+  ],
+  "lunch box": [],
+  "metallic": [
+    "thread",
+    "metallic",
+    "cloth",
+    "fabric",
+    "textile"
+  ],
+  "hotel": [
+    "hotel",
+    "building",
+    "edifice"
+  ],
+  "glaze": [
+    "surface",
+    "topping",
+    "glaze",
+    "coating"
+  ],
+  "phones": [
+    "electronic_equipment",
+    "telephone",
+    "telephone_set",
+    "electro-acoustic_transducer",
+    "phone"
+  ],
+  "kittens": [
+    "bear",
+    "have",
+    "kitten",
+    "young_mammal"
+  ],
+  "seagull": [
+    "sea_gull",
+    "seagull",
+    "larid"
+  ],
+  "stickers": [
+    "pricker",
+    "sticker",
+    "aculeus",
+    "prickle",
+    "spikelet"
+  ],
+  "sugar packet": [],
+  "children": [
+    "kid",
+    "tike",
+    "child",
+    "small_fry",
+    "someone",
+    "person",
+    "individual",
+    "somebody",
+    "tiddler",
+    "offspring",
+    "descendent",
+    "progeny",
+    "mortal",
+    "juvenile_person",
+    "youngster",
+    "juvenile",
+    "shaver",
+    "minor",
+    "nestling",
+    "descendant",
+    "nipper"
+  ],
+  "tennis ball": [],
+  "trucks": [
+    "automotive_vehicle",
+    "cart",
+    "handcart",
+    "motor_vehicle",
+    "truck",
+    "motortruck",
+    "transport",
+    "pushcart"
+  ],
+  "mayonnaise": [
+    "salad_dressing",
+    "mayonnaise",
+    "dressing",
+    "mayo"
+  ],
+  "music": [
+    "music",
+    "auditory_communication"
+  ],
+  "owls": [
+    "owl",
+    "raptor",
+    "bird_of_Minerva",
+    "bird_of_prey",
+    "bird_of_night",
+    "raptorial_bird"
+  ],
+  "wagon": [
+    "car",
+    "auto",
+    "wheeled_vehicle",
+    "machine",
+    "automobile",
+    "wagon",
+    "waggon",
+    "motorcar"
+  ],
+  "poster": [
+    "placard",
+    "poster",
+    "posting"
+  ],
+  "frisbee": [
+    "disc",
+    "Frisbee",
+    "toy",
+    "plaything"
+  ],
+  "fire truck": [],
+  "goats": [
+    "caprine_animal",
+    "goat",
+    "bovid"
+  ],
+  "seagulls": [
+    "sea_gull",
+    "seagull",
+    "larid"
+  ],
+  "out": [
+    "out",
+    "failure"
+  ],
+  "jacket": [
+    "dress",
+    "cover",
+    "apparel",
+    "garb",
+    "wrapping",
+    "wrap",
+    "raiment",
+    "coat",
+    "garment",
+    "jacket",
+    "wrapper"
+  ],
+  "chrome": [
+    "atomic_number_24",
+    "chrome",
+    "Cr",
+    "chromium"
+  ],
+  "stir fry": [],
+  "sunny": [
+    "sunny",
+    "cheery"
+  ],
+  "sweet potatoes": [],
+  "garlic": [
+    "garlic",
+    "alliaceous_plant",
+    "Allium_sativum"
+  ],
+  "keypad": [
+    "keypad",
+    "input_device",
+    "keyboard",
+    "computer_keyboard",
+    "data_input_device"
+  ],
+  "fork": [
+    "eating_utensil",
+    "fork"
+  ],
+  "grill": [
+    "grill",
+    "restaurant",
+    "grillroom",
+    "eating_place",
+    "eating_house",
+    "eatery"
+  ],
+  "walkway": [
+    "walkway",
+    "paseo"
+  ],
+  "boys": [
+    "male",
+    "man-child",
+    "male_person",
+    "male_child",
+    "Black_man",
+    "man",
+    "male_offspring",
+    "adult_male",
+    "boy"
+  ],
+  "entrance": [
+    "entryway",
+    "entrance",
+    "entranceway"
+  ],
+  "tags": [
+    "tag"
+  ],
+  "traffic sign": [],
+  "buoys": [
+    "reference_point",
+    "point_of_reference",
+    "buoy"
+  ],
+  "pancakes": [
+    "flannel_cake",
+    "griddlecake",
+    "hotcake",
+    "battercake",
+    "flapjack",
+    "flapcake",
+    "hot_cake",
+    "flannel-cake",
+    "pancake"
+  ],
+  "trunk": [
+    "tree_trunk",
+    "trunk"
+  ],
+  "hamburger": [
+    "sandwich",
+    "hamburger",
+    "beefburger"
+  ],
+  "ketchup bottle": [],
+  "blenders": [
+    "blender",
+    "liquidizer",
+    "liquidiser"
+  ],
+  "bug": [
+    "microorganism",
+    "bug",
+    "insect",
+    "micro-organism"
+  ],
+  "highway": [
+    "main_road",
+    "road",
+    "highway"
+  ],
+  "candy": [
+    "confection",
+    "confect",
+    "candy"
+  ],
+  "intersection": [
+    "intersection_point",
+    "point_of_intersection",
+    "point",
+    "intersection"
+  ],
+  "picnic tables": [],
+  "taking a photograph": [],
+  "jet": [
+    "aeroplane",
+    "plane",
+    "jet_plane",
+    "airplane",
+    "jet-propelled_plane",
+    "jet"
+  ],
+  "wine": [
+    "intoxicant",
+    "alcoholic_beverage",
+    "wine",
+    "treat",
+    "vino",
+    "alcoholic_drink",
+    "booze",
+    "inebriant",
+    "alcohol"
+  ],
+  "wii controller": [],
+  "pub": [
+    "pub",
+    "pothouse",
+    "saloon",
+    "gin_mill",
+    "tavern",
+    "taphouse",
+    "tap_house",
+    "public_house"
+  ],
+  "alligator": [
+    "alligator",
+    "leather"
+  ],
+  "cream colored": [],
+  "bronze": [
+    "copper-base_alloy",
+    "bronze"
+  ],
+  "aircraft": [
+    "aircraft"
+  ],
+  "milk": [
+    "potable",
+    "milk",
+    "drinkable",
+    "aliment",
+    "nourishment",
+    "alimentation",
+    "victuals",
+    "nutriment",
+    "sustenance",
+    "dairy_product",
+    "beverage",
+    "food_product"
+  ],
+  "nutella": [],
+  "castle": [
+    "castle",
+    "manse",
+    "palace",
+    "fortification",
+    "mansion_house"
+  ],
+  "sweater": [
+    "sweater",
+    "garment"
+  ],
+  "charger": [
+    "charger"
+  ],
+  "black and white": [],
+  "drain": [
+    "evacuation",
+    "voidance",
+    "drain",
+    "emptying",
+    "depletion",
+    "drainage"
+  ],
+  "sandwich": [
+    "snack_food",
+    "sandwich"
+  ],
+  "cockpit": [
+    "cockpit"
+  ],
+  "ice cream": [],
+  "batteries": [
+    "squad",
+    "artillery_unit",
+    "battery",
+    "team"
+  ],
+  "ladder": [
+    "steps",
+    "stairs",
+    "ladder"
+  ],
+  "benches": [
+    "bench",
+    "worktable",
+    "work_table",
+    "assembly"
+  ],
+  "tree branch": [],
+  "kimono": [
+    "robe",
+    "kimono"
+  ],
+  "skin": [
+    "tegument",
+    "body_covering",
+    "skin",
+    "cutis",
+    "connective_tissue"
+  ],
+  "closed": [
+    "shut"
+  ],
+  "whisk": [
+    "broom",
+    "whisk"
+  ],
+  "bar stool": [],
+  "rice cooker": [],
+  "seed": [
+    "ovule",
+    "seed",
+    "fruit"
+  ],
+  "hummus": [
+    "hommos",
+    "humous",
+    "hummus",
+    "hoummos"
+  ],
+  "flip flops": [],
+  "styrofoam": [
+    "polystyrene",
+    "Styrofoam"
+  ],
+  "frosting": [
+    "frosting",
+    "topping",
+    "cover"
+  ],
+  "bagel": [
+    "bagel",
+    "bun",
+    "beigel"
+  ],
+  "container": [
+    "container",
+    "instrumentation"
+  ],
+  "keyboards": [
+    "holder",
+    "device",
+    "keyboard"
+  ],
+  "lab coat": [],
+  "mangoes": [
+    "mango",
+    "Mangifera_indica",
+    "mango_tree",
+    "fruit_tree"
+  ],
+  "umpire": [
+    "judge",
+    "umpire",
+    "ump"
+  ],
+  "dried": [],
+  "tissues": [
+    "body_part",
+    "tissue"
+  ],
+  "graffiti": [
+    "graffiti",
+    "ornament",
+    "decoration",
+    "graffito"
+  ],
+  "giraffes": [
+    "giraffe",
+    "Giraffa_camelopardalis",
+    "camelopard",
+    "ruminant"
+  ],
+  "characters": [
+    "fictitious_character",
+    "imaginary_creature",
+    "imaginary_being",
+    "character",
+    "fictional_character"
+  ],
+  "towel dispenser": [],
+  "ribs": [
+    "rib",
+    "knit",
+    "structure",
+    "moulding"
+  ],
+  "blond": [
+    "person",
+    "mortal",
+    "individual",
+    "somebody",
+    "blonde",
+    "blond",
+    "someone"
+  ],
+  "mound": [
+    "baseball_equipment",
+    "pitcher's_mound",
+    "structure",
+    "mound"
+  ],
+  "sandal": [
+    "sandal",
+    "shoe"
+  ],
+  "apple logo": [],
+  "wavy": [
+    "wavy"
+  ],
+  "mexican food": [],
+  "horse hoof": [],
+  "tomato sauce": [],
+  "birds": [
+    "bird",
+    "craniate",
+    "vertebrate"
+  ],
+  "croissants": [
+    "bun",
+    "croissant",
+    "crescent_roll"
+  ],
+  "bags": [
+    "luggage",
+    "container",
+    "bag",
+    "baseball_equipment",
+    "baggage"
+  ],
+  "old fashioned": [],
+  "hedge": [
+    "fence",
+    "fencing",
+    "hedge",
+    "hedgerow"
+  ],
+  "rock": [
+    "rock",
+    "stone",
+    "natural_object"
+  ],
+  "talking": [
+    "talking",
+    "talk",
+    "conversation"
+  ],
+  "plain": [
+    "plain",
+    "terra_firma",
+    "solid_ground",
+    "ground",
+    "champaign",
+    "dry_land"
+  ],
+  "down": [
+    "hair",
+    "down_feather",
+    "feather",
+    "plumage",
+    "down"
+  ],
+  "avocados": [
+    "avocado",
+    "avocado_pear",
+    "edible_fruit",
+    "alligator_pear",
+    "aguacate"
+  ],
+  "light fixture": [],
+  "dvd player": [],
+  "cats": [
+    "true_cat",
+    "felid",
+    "cat",
+    "feline"
+  ],
+  "lamps": [
+    "lamp",
+    "article_of_furniture",
+    "piece_of_furniture",
+    "furniture",
+    "source_of_illumination"
+  ],
+  "pigeon": [
+    "pigeon",
+    "columbiform_bird"
+  ],
+  "clock tower": [],
+  "fat": [
+    "fat",
+    "lipoid",
+    "lipid",
+    "lipide"
+  ],
+  "bottle": [
+    "bottle"
+  ],
+  "stage": [
+    "stage",
+    "time_period",
+    "period_of_time",
+    "phase",
+    "period"
+  ],
+  "pistachio": [
+    "nut_tree",
+    "Pistacia_vera",
+    "pistachio_tree",
+    "pistachio"
+  ],
+  "basket": [
+    "handbasket",
+    "basket",
+    "basketball_equipment",
+    "container"
+  ],
+  "chinese food": [],
+  "back": [
+    "dorsum",
+    "skeletal_structure",
+    "back",
+    "body_part"
+  ],
+  "crumbs": [
+    "small_indefinite_amount",
+    "crumb",
+    "small_indefinite_quantity",
+    "morsel",
+    "bit"
+  ],
+  "open": [
+    "outside",
+    "exterior",
+    "open",
+    "area"
+  ],
+  "refrigerator": [
+    "white_goods",
+    "refrigerator",
+    "icebox"
+  ],
+  "heels": [
+    "underside",
+    "undersurface",
+    "end",
+    "tip",
+    "heel",
+    "bottom"
+  ],
+  "geese": [
+    "poultry",
+    "anseriform_bird",
+    "goose"
+  ],
+  "wool": [
+    "woollen",
+    "wool",
+    "cloth",
+    "woolen",
+    "fabric",
+    "textile"
+  ],
+  "lettuce": [
+    "boodle",
+    "pelf",
+    "moolah",
+    "shekels",
+    "lettuce",
+    "money",
+    "simoleons",
+    "lucre",
+    "wampum",
+    "lolly",
+    "gelt",
+    "kale",
+    "clams",
+    "dinero"
+  ],
+  "ostriches": [
+    "person",
+    "mortal",
+    "ratite_bird",
+    "individual",
+    "ratite",
+    "flightless_bird",
+    "somebody",
+    "ostrich",
+    "someone"
+  ],
+  "deep": [
+    "deep"
+  ],
+  "baseball": [
+    "baseball",
+    "baseball_game",
+    "ball_game"
+  ],
+  "control panel": [],
+  "racket": [
+    "noise",
+    "racket"
+  ],
+  "cars": [
+    "automotive_vehicle",
+    "car",
+    "auto",
+    "wheeled_vehicle",
+    "machine",
+    "motor_vehicle",
+    "automobile",
+    "motorcar"
+  ],
+  "candles": [
+    "lamp",
+    "wax_light",
+    "candle"
+  ],
+  "dirty": [
+    "colly",
+    "begrime",
+    "dirty",
+    "bemire"
+  ],
+  "snowy": [
+    "snowy"
+  ],
+  "cowboy hat": [],
+  "toy": [
+    "replica",
+    "artifact",
+    "toy",
+    "device",
+    "plaything",
+    "artefact"
+  ],
+  "pump": [
+    "mechanical_device",
+    "pump"
+  ],
+  "paddle": [
+    "oar",
+    "paddle"
+  ],
+  "snow": [
+    "snow",
+    "snowfall"
+  ],
+  "pan": [
+    "cookware",
+    "pan",
+    "container",
+    "cooking_pan",
+    "cooking_utensil"
+  ],
+  "coffee mug": [],
+  "rhinos": [
+    "perissodactyl",
+    "rhinoceros",
+    "rhino",
+    "odd-toed_ungulate",
+    "perissodactyl_mammal"
+  ],
+  "snake": [
+    "diapsid",
+    "serpent",
+    "diapsid_reptile",
+    "ophidian",
+    "snake"
+  ],
+  "yes": [
+    "affirmative",
+    "yes"
+  ],
+  "dirt": [
+    "dirt",
+    "fecal_matter",
+    "BM",
+    "faeces",
+    "feces",
+    "ordure",
+    "faecal_matter"
+  ],
+  "chef hat": [],
+  "mango": [
+    "mango",
+    "Mangifera_indica",
+    "mango_tree",
+    "fruit_tree"
+  ],
+  "parrots": [
+    "bird",
+    "copycat",
+    "ape",
+    "parrot",
+    "emulator",
+    "aper"
+  ],
+  "mother": [
+    "mother",
+    "female_parent",
+    "parent"
+  ],
+  "fire": [
+    "occurrence",
+    "onset",
+    "occurrent",
+    "natural_event",
+    "tribulation",
+    "happening",
+    "onslaught",
+    "fire",
+    "visitation"
+  ],
+  "apple": [
+    "pome",
+    "edible_fruit",
+    "false_fruit",
+    "apple"
+  ],
+  "video camera": [],
+  "biker": [],
+  "peanut butter": [],
+  "wood": [
+    "wood",
+    "plant_substance",
+    "plant_material"
+  ],
+  "bike": [
+    "automotive_vehicle",
+    "motorcycle",
+    "wheeled_vehicle",
+    "motor_vehicle",
+    "bike"
+  ],
+  "shut": [
+    "shut"
+  ],
+  "tomatoes": [
+    "tomato",
+    "solanaceous_vegetable"
+  ],
+  "plant": [
+    "building_complex",
+    "industrial_plant",
+    "plant",
+    "works",
+    "contrivance"
+  ],
+  "rainbow colored": [],
+  "egg roll": [],
+  "snow flakes": [],
+  "daisy": [
+    "daisy",
+    "flower"
+  ],
+  "cooking": [
+    "cookery",
+    "change_of_state",
+    "cooking",
+    "preparation"
+  ],
+  "book": [
+    "publication",
+    "book"
+  ],
+  "empty": [
+    "empty",
+    "container"
+  ],
+  "garage": [
+    "outbuilding",
+    "store",
+    "garage"
+  ],
+  "napkin": [
+    "napkin",
+    "serviette",
+    "napery",
+    "table_napkin",
+    "table_linen"
+  ],
+  "bell": [
+    "percussion_instrument",
+    "signaling_device",
+    "percussive_instrument",
+    "bell",
+    "acoustic_device",
+    "button",
+    "push_button"
+  ],
+  "brownie": [
+    "Girl_Scout",
+    "Brownie"
+  ],
+  "ball": [
+    "game_equipment",
+    "toy",
+    "ball",
+    "plaything",
+    "structure"
+  ],
+  "table lamp": [],
+  "toddler": [
+    "nipper",
+    "kid",
+    "minor",
+    "yearling",
+    "child",
+    "youngster",
+    "bambino",
+    "tiddler",
+    "toddler"
+  ],
+  "feeder": [
+    "domestic_animal",
+    "creature",
+    "domesticated_animal",
+    "animal",
+    "beast",
+    "feeder",
+    "consumer",
+    "animate_being"
+  ],
+  "bookcase": [
+    "piece_of_furniture",
+    "article_of_furniture",
+    "furniture",
+    "bookcase"
+  ],
+  "dragons": [
+    "dragon",
+    "mythical_monster",
+    "mythical_creature",
+    "firedrake"
+  ],
+  "banana bunch": [],
+  "courtyard": [
+    "courtyard"
+  ],
+  "snowboard": [
+    "snowboard"
+  ],
+  "unpeeled": [],
+  "bubble": [
+    "bubble",
+    "globule"
+  ],
+  "notebook": [
+    "book",
+    "notebook"
+  ],
+  "porch": [
+    "structure",
+    "porch"
+  ],
+  "lemonade": [
+    "lemonade",
+    "ade",
+    "fruit_drink"
+  ],
+  "dotted": [
+    "constellate"
+  ],
+  "carrots": [
+    "carrot",
+    "root"
+  ],
+  "pillows": [
+    "pillow"
+  ],
+  "high": [
+    "high",
+    "level",
+    "degree"
+  ],
+  "spice": [
+    "preservative",
+    "spice"
+  ],
+  "houses": [
+    "shelter",
+    "house",
+    "dwelling",
+    "building",
+    "edifice",
+    "dwelling_house"
+  ],
+  "toy car": [],
+  "wheelchair": [
+    "chair",
+    "wheelchair"
+  ],
+  "uncooked": [
+    "uncooked"
+  ],
+  "blood": [
+    "body_fluid",
+    "liquid_body_substance",
+    "blood",
+    "bodily_fluid"
+  ],
+  "battery": [
+    "squad",
+    "artillery_unit",
+    "battery",
+    "team"
+  ],
+  "cotton dessert": [],
+  "side table": [],
+  "oranges": [
+    "citrus",
+    "orange",
+    "citrus_fruit",
+    "citrous_fruit"
+  ],
+  "boot": [
+    "casing",
+    "footgear",
+    "footwear",
+    "boot"
+  ],
+  "ipod": [
+    "stereophony",
+    "stereophonic_system",
+    "stereo",
+    "stereo_system",
+    "iPod"
+  ],
+  "tiles": [
+    "roofing_material",
+    "slab",
+    "tile",
+    "cover"
+  ],
+  "step": [
+    "move",
+    "measure",
+    "tactical_manoeuvre",
+    "tactical_maneuver",
+    "step"
+  ],
+  "dragon": [
+    "dragon",
+    "mythical_monster",
+    "mythical_creature",
+    "firedrake"
+  ],
+  "coach": [
+    "trainer",
+    "coach"
+  ],
+  "tree": [
+    "tree",
+    "woody_plant",
+    "dog",
+    "ligneous_plant"
+  ],
+  "zucchini": [
+    "zucchini",
+    "marrow_squash",
+    "courgette",
+    "vegetable_marrow",
+    "summer_squash"
+  ],
+  "covered": [
+    "enclose",
+    "envelop",
+    "enfold",
+    "enwrap"
+  ],
+  "smoke": [
+    "aerosol",
+    "smoke",
+    "fume"
+  ],
+  "mountain": [
+    "mountain",
+    "natural_elevation"
+  ],
+  "bacon": [
+    "cut_of_pork",
+    "bacon"
+  ],
+  "hotel room": [],
+  "drinking": [
+    "uptake",
+    "intake",
+    "consumption",
+    "ingestion",
+    "drinking",
+    "imbibing"
+  ]
+}

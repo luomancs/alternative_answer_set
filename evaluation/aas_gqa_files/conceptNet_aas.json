@@ -1,0 +1,7186 @@
+{
+    "puddle": {
+        "water": 0.874,
+        "puddle": 1.0
+    },
+    "soap": {
+        "soap": 1.0
+    },
+    "wallet": {
+        "wallet": 1.0
+    },
+    "cabin": {
+        "building": 0.58,
+        "cabin": 1.0
+    },
+    "muffin": {
+        "muffins": 0.93,
+        "muffin": 1.0
+    },
+    "water glass": {
+        "glass": 0.972,
+        "water glass": 1.0
+    },
+    "restroom": {
+        "bathroom": 0.966,
+        "toilet": 0.778,
+        "restroom": 1.0
+    },
+    "mangoes": {
+        "mango": 0.982,
+        "mangoes": 1.0
+    },
+    "gown": {
+        "dress": 0.846,
+        "garment": 0.977,
+        "gown": 1.0
+    },
+    "baseball players": {
+        "baseball players": 1.0
+    },
+    "tinted": {
+        "tinted": 1.0
+    },
+    "umpire": {
+        "umpire": 1.0
+    },
+    "fan": {
+        "fans": 0.892,
+        "fan": 1.0
+    },
+    "zebra": {
+        "zebras": 0.909,
+        "zebra": 1.0
+    },
+    "apple": {
+        "fruit": 0.934,
+        "apples": 0.958,
+        "apple": 1.0
+    },
+    "broom": {
+        "broom": 1.0
+    },
+    "village": {
+        "town": 0.88,
+        "village": 1.0
+    },
+    "jar": {
+        "container": 0.961,
+        "jars": 0.943,
+        "jar": 1.0
+    },
+    "porch": {
+        "porch": 1.0
+    },
+    "tape": {
+        "tape": 1.0
+    },
+    "upwards": {
+        "upward": 0.986,
+        "up": 0.987,
+        "upwards": 1.0
+    },
+    "curtain": {
+        "curtains": 0.919,
+        "barrier": 0.665,
+        "curtain": 1.0
+    },
+    "spear": {
+        "spear": 1.0
+    },
+    "pumpkins": {
+        "pumpkin": 0.959,
+        "pumpkins": 1.0
+    },
+    "brownies": {
+        "brownie": 0.941,
+        "brownies": 1.0
+    },
+    "child": {
+        "children": 0.955,
+        "child": 1.0
+    },
+    "comb": {
+        "tool": 0.954,
+        "comb": 1.0
+    },
+    "rock": {
+        "rocks": 0.96,
+        "stone": 0.959,
+        "rock": 1.0
+    },
+    "words": {
+        "word": 0.944,
+        "words": 1.0
+    },
+    "visitor": {
+        "visitors": 0.979,
+        "visitor": 1.0
+    },
+    "desk lamp": {
+        "lamp": 0.97,
+        "desk lamp": 1.0
+    },
+    "hospital": {
+        "building": 0.865,
+        "hospital": 1.0
+    },
+    "egg roll": {
+        "dish": 0.953,
+        "egg roll": 1.0
+    },
+    "cross": {
+        "cross": 1.0
+    },
+    "juice box": {
+        "juice box": 1.0
+    },
+    "skateboarding": {
+        "skating": 0.981,
+        "skateboard": 0.981,
+        "skateboarding": 1.0
+    },
+    "wicker": {
+        "wicker": 1.0
+    },
+    "color": {
+        "color": 1.0
+    },
+    "tent": {
+        "shelter": 0.943,
+        "tents": 0.952,
+        "tent": 1.0
+    },
+    "murky": {
+        "dark": 0.879,
+        "murky": 1.0
+    },
+    "parmesan cheese": {
+        "cheese": 0.986,
+        "parmesan cheese": 1.0
+    },
+    "motorcycles": {
+        "motorcycle": 0.957,
+        "motorcycles": 1.0
+    },
+    "knee pads": {
+        "knee pad": 0.981,
+        "knee pads": 1.0
+    },
+    "swamp": {
+        "swamp": 1.0
+    },
+    "rose": {
+        "plant": 0.95,
+        "flower": 0.956,
+        "roses": 0.947,
+        "rose": 1.0
+    },
+    "tree branch": {
+        "tree branches": 0.93,
+        "tree branch": 1.0
+    },
+    "laptop": {
+        "computer": 0.973,
+        "laptops": 0.924,
+        "laptop": 1.0
+    },
+    "bench": {
+        "benches": 0.943,
+        "seat": 0.951,
+        "bench": 1.0
+    },
+    "vegetables": {
+        "vegetable": 0.96,
+        "plants": 0.889,
+        "vegetables": 1.0
+    },
+    "plantains": {
+        "plantains": 1.0
+    },
+    "twigs": {
+        "twig": 0.888,
+        "twigs": 1.0
+    },
+    "satellite dish": {
+        "satellite dish": 1.0
+    },
+    "tall": {
+        "tall": 1.0
+    },
+    "waitress": {
+        "waitress": 1.0
+    },
+    "out": {
+        "out": 1.0
+    },
+    "charger": {
+        "charger": 1.0
+    },
+    "graffiti": {
+        "graffiti": 1.0
+    },
+    "kimono": {
+        "kimono": 1.0
+    },
+    "skateboard": {
+        "skateboards": 0.962,
+        "skateboarding": 0.959,
+        "skateboard": 1.0
+    },
+    "fisherman": {
+        "worker": 0.814,
+        "fisherman": 1.0
+    },
+    "gas station": {
+        "store": 0.722,
+        "gas station": 1.0
+    },
+    "bagel": {
+        "bagels": 0.95,
+        "bread": 0.68,
+        "bagel": 1.0
+    },
+    "pond": {
+        "pond": 1.0
+    },
+    "modern": {
+        "modern": 1.0
+    },
+    "wire": {
+        "wires": 0.957,
+        "cable": 0.506,
+        "wire": 1.0
+    },
+    "crates": {
+        "crate": 0.965,
+        "crates": 1.0
+    },
+    "lace": {
+        "cloth": 0.882,
+        "lace": 1.0
+    },
+    "horse hoof": {
+        "horse hoof": 1.0
+    },
+    "icing": {
+        "ice": 0.943,
+        "frosting": 0.919,
+        "icing": 1.0
+    },
+    "station": {
+        "place": 0.853,
+        "station": 1.0
+    },
+    "indoors": {
+        "indoors": 1.0
+    },
+    "horse": {
+        "horses": 0.961,
+        "horse": 1.0
+    },
+    "doorway": {
+        "entrance": 0.877,
+        "door": 0.951,
+        "doorway": 1.0
+    },
+    "flag": {
+        "flags": 0.605,
+        "flag": 1.0
+    },
+    "stuffed bears": {
+        "stuffed bears": 1.0
+    },
+    "palm tree": {
+        "tree": 0.962,
+        "palm trees": 0.925,
+        "palm tree": 1.0
+    },
+    "frog": {
+        "frog": 1.0
+    },
+    "stones": {
+        "stone": 0.934,
+        "stones": 1.0
+    },
+    "coarse": {
+        "coarse": 1.0
+    },
+    "coffee beans": {
+        "coffee beans": 1.0
+    },
+    "blinds": {
+        "blind": 0.964,
+        "blinds": 1.0
+    },
+    "shelves": {
+        "shelf": 0.969,
+        "shelves": 1.0
+    },
+    "oven": {
+        "ovens": 0.943,
+        "oven": 1.0
+    },
+    "chocolate": {
+        "dessert": 0.838,
+        "chocolate": 1.0
+    },
+    "mailbox": {
+        "box": 0.97,
+        "mailbox": 1.0
+    },
+    "cone": {
+        "cones": 0.943,
+        "cone": 1.0
+    },
+    "snowboarder": {
+        "snowboarder": 1.0
+    },
+    "sandals": {
+        "sandal": 0.973,
+        "sandals": 1.0
+    },
+    "stars": {
+        "star": 0.945,
+        "stars": 1.0
+    },
+    "down": {
+        "downward": 0.983,
+        "down": 1.0
+    },
+    "helmets": {
+        "helmet": 0.981,
+        "helmets": 1.0
+    },
+    "apron": {
+        "garment": 0.977,
+        "apron": 1.0
+    },
+    "celery": {
+        "vegetable": 0.97,
+        "plant": 0.965,
+        "herb": 0.949,
+        "celery": 1.0
+    },
+    "light fixture": {
+        "lamp": 0.552,
+        "light fixture": 1.0
+    },
+    "beach chair": {
+        "chair": 0.981,
+        "beach chair": 1.0
+    },
+    "hedge": {
+        "hedges": 0.913,
+        "hedge": 1.0
+    },
+    "match": {
+        "match": 1.0
+    },
+    "ahead": {
+        "forward": 0.975,
+        "ahead": 1.0
+    },
+    "pudding": {
+        "dish": 0.87,
+        "dessert": 0.87,
+        "pudding": 1.0
+    },
+    "shower": {
+        "shower": 1.0
+    },
+    "containers": {
+        "container": 0.935,
+        "containers": 1.0
+    },
+    "skinny": {
+        "thin": 0.972,
+        "skinny": 1.0
+    },
+    "pecan": {
+        "nut": 0.962,
+        "fruit": 0.952,
+        "tree": 0.903,
+        "wood": 0.944,
+        "pecan": 1.0
+    },
+    "tissues": {
+        "tissue": 0.977,
+        "tissues": 1.0
+    },
+    "dispenser": {
+        "container": 0.964,
+        "dispenser": 1.0
+    },
+    "mattresses": {
+        "mattress": 0.982,
+        "mattresses": 1.0
+    },
+    "light blue": {
+        "blue": 0.985,
+        "light blue": 1.0
+    },
+    "mirrors": {
+        "mirror": 0.969,
+        "mirrors": 1.0
+    },
+    "chef": {
+        "worker": 0.843,
+        "chef": 1.0
+    },
+    "aquarium": {
+        "container": 0.933,
+        "aquarium": 1.0
+    },
+    "moose": {
+        "moose": 1.0
+    },
+    "snowboarding": {
+        "snowboard": 0.983,
+        "snowboarding": 1.0
+    },
+    "coffee cup": {
+        "coffee cups": 0.954,
+        "cup": 0.979,
+        "coffee cup": 1.0
+    },
+    "earrings": {
+        "earring": 0.966,
+        "earrings": 1.0
+    },
+    "jet": {
+        "jet": 1.0
+    },
+    "amusement park": {
+        "park": 0.947,
+        "amusement park": 1.0
+    },
+    "fur": {
+        "garment": 0.89,
+        "coat": 0.585,
+        "fur": 1.0
+    },
+    "poodle": {
+        "dog": 0.962,
+        "poodle": 1.0
+    },
+    "beer mug": {
+        "mug": 0.979,
+        "container": 0.967,
+        "beer mug": 1.0
+    },
+    "sandwiches": {
+        "sandwich": 0.968,
+        "sandwiches": 1.0
+    },
+    "ducks": {
+        "duck": 0.97,
+        "ducks": 1.0
+    },
+    "sheet": {
+        "sheets": 0.966,
+        "paper": 0.722,
+        "sheet": 1.0
+    },
+    "students": {
+        "student": 0.98,
+        "students": 1.0
+    },
+    "shuttle": {
+        "shuttle": 1.0
+    },
+    "symbol": {
+        "symbol": 1.0
+    },
+    "flamingo": {
+        "bird": 0.928,
+        "flamingo": 1.0
+    },
+    "appetizer": {
+        "appetizers": 0.957,
+        "appetizer": 1.0
+    },
+    "guitar": {
+        "guitar": 1.0
+    },
+    "jars": {
+        "jar": 0.958,
+        "containers": 0.94,
+        "jars": 1.0
+    },
+    "spices": {
+        "spice": 0.938,
+        "spices": 1.0
+    },
+    "beneath": {
+        "underneath": 0.968,
+        "below": 0.978,
+        "under": 0.968,
+        "beneath": 1.0
+    },
+    "old fashioned": {
+        "old fashioned": 1.0
+    },
+    "trash bag": {
+        "container": 0.899,
+        "bag": 0.974,
+        "trash bag": 1.0
+    },
+    "mother": {
+        "woman": 0.973,
+        "parent": 0.908,
+        "mother": 1.0
+    },
+    "table": {
+        "platform": 0.567,
+        "tables": 0.968,
+        "table": 1.0
+    },
+    "mayonnaise": {
+        "dressing": 0.828,
+        "mayonnaise": 1.0
+    },
+    "oak tree": {
+        "tree": 0.979,
+        "oak tree": 1.0
+    },
+    "train tracks": {
+        "train tracks": 1.0
+    },
+    "dog": {
+        "dogs": 0.956,
+        "dog": 1.0
+    },
+    "nutella": {
+        "nutella": 1.0
+    },
+    "tiles": {
+        "tiles": 1.0
+    },
+    "bears": {
+        "bear": 0.95,
+        "bears": 1.0
+    },
+    "chickpeas": {
+        "chickpeas": 1.0
+    },
+    "dry": {
+        "dried": 0.98,
+        "dry": 1.0
+    },
+    "sad": {
+        "sad": 1.0
+    },
+    "ostrich": {
+        "bird": 0.961,
+        "ostriches": 0.909,
+        "ostrich": 1.0
+    },
+    "family": {
+        "house": 0.633,
+        "family": 1.0
+    },
+    "dining room": {
+        "dining room": 1.0
+    },
+    "uncomfortable": {
+        "uncomfortable": 1.0
+    },
+    "onion rings": {
+        "onion ring": 0.968,
+        "onion rings": 1.0
+    },
+    "macaroni": {
+        "pasta": 0.808,
+        "macaroni": 1.0
+    },
+    "butterfly": {
+        "butterflies": 0.874,
+        "butterfly": 1.0
+    },
+    "bat": {
+        "bats": 0.945,
+        "bat": 1.0
+    },
+    "beets": {
+        "beet": 0.976,
+        "beets": 1.0
+    },
+    "wok": {
+        "dish": 0.927,
+        "pan": 0.907,
+        "wok": 1.0
+    },
+    "balls": {
+        "ball": 0.967,
+        "balls": 1.0
+    },
+    "orchid": {
+        "orchids": 0.943,
+        "flower": 0.963,
+        "orchid": 1.0
+    },
+    "bartender": {
+        "worker": 0.942,
+        "employee": 0.96,
+        "bartender": 1.0
+    },
+    "life preserver": {
+        "life preserver": 1.0
+    },
+    "octopus": {
+        "seafood": 0.816,
+        "octopus": 1.0
+    },
+    "cakes": {
+        "cake": 0.982,
+        "cakes": 1.0
+    },
+    "maroon": {
+        "maroon": 1.0
+    },
+    "drawers": {
+        "drawer": 0.956,
+        "drawers": 1.0
+    },
+    "pesto": {
+        "sauce": 0.918,
+        "pesto": 1.0
+    },
+    "olive": {
+        "fruit": 0.797,
+        "tree": 0.701,
+        "olives": 0.957,
+        "olive": 1.0
+    },
+    "alligator": {
+        "alligator": 1.0
+    },
+    "vine": {
+        "plant": 0.954,
+        "vines": 0.934,
+        "vine": 1.0
+    },
+    "pine trees": {
+        "pine tree": 0.941,
+        "pine trees": 1.0
+    },
+    "snow": {
+        "white": 0.786,
+        "snow": 1.0
+    },
+    "roadway": {
+        "pavement": 0.61,
+        "road": 0.97,
+        "roadway": 1.0
+    },
+    "pink": {
+        "pink": 1.0
+    },
+    "herb": {
+        "herbs": 0.868,
+        "herb": 1.0
+    },
+    "grapes": {
+        "grape": 0.958,
+        "grapes": 1.0
+    },
+    "broth": {
+        "broth": 1.0
+    },
+    "classroom": {
+        "classroom": 1.0
+    },
+    "garden": {
+        "outdoors": 0.967,
+        "garden": 1.0
+    },
+    "van": {
+        "van": 1.0
+    },
+    "peacock": {
+        "bird": 0.973,
+        "peacock": 1.0
+    },
+    "watch": {
+        "watch": 1.0
+    },
+    "long": {
+        "long": 1.0
+    },
+    "dragon": {
+        "dragons": 0.901,
+        "dragon": 1.0
+    },
+    "leopard": {
+        "cat": 0.942,
+        "fur": 0.795,
+        "leopard": 1.0
+    },
+    "parent": {
+        "parent": 1.0
+    },
+    "black": {
+        "black": 1.0
+    },
+    "faucet": {
+        "faucet": 1.0
+    },
+    "student": {
+        "students": 0.956,
+        "student": 1.0
+    },
+    "cooker": {
+        "cooker": 1.0
+    },
+    "pie": {
+        "pastry": 0.835,
+        "pie": 1.0
+    },
+    "bunny": {
+        "rabbit": 0.975,
+        "bunny": 1.0
+    },
+    "lions": {
+        "lion": 0.975,
+        "lions": 1.0
+    },
+    "football": {
+        "ball": 0.96,
+        "game": 0.768,
+        "football": 1.0
+    },
+    "balloon": {
+        "balloons": 0.951,
+        "balloon": 1.0
+    },
+    "elephants": {
+        "elephant": 0.929,
+        "elephants": 1.0
+    },
+    "cat food": {
+        "cat food": 1.0
+    },
+    "squirrel": {
+        "fur": 0.846,
+        "squirrel": 1.0
+    },
+    "headband": {
+        "headband": 1.0
+    },
+    "bicycles": {
+        "bicycle": 0.966,
+        "bicycles": 1.0
+    },
+    "pumpkin": {
+        "pumpkins": 0.954,
+        "squash": 0.516,
+        "vegetable": 0.945,
+        "pumpkin": 1.0
+    },
+    "customer": {
+        "customers": 0.951,
+        "customer": 1.0
+    },
+    "wide": {
+        "wide": 1.0
+    },
+    "soft": {
+        "soft": 1.0
+    },
+    "catcher": {
+        "player": 0.959,
+        "catcher": 1.0
+    },
+    "crystal": {
+        "crystal": 1.0
+    },
+    "yes": {
+        "yes": 1.0
+    },
+    "building": {
+        "buildings": 0.926,
+        "building": 1.0
+    },
+    "leafy": {
+        "leafy": 1.0
+    },
+    "shelter": {
+        "shelter": 1.0
+    },
+    "light bulb": {
+        "light bulbs": 0.942,
+        "light bulb": 1.0
+    },
+    "walnut": {
+        "nut": 0.978,
+        "fruit": 0.785,
+        "tree": 0.925,
+        "wood": 0.973,
+        "walnuts": 0.961,
+        "walnut": 1.0
+    },
+    "milkshake": {
+        "beverage": 0.942,
+        "drink": 0.883,
+        "milkshake": 1.0
+    },
+    "ceiling light": {
+        "light fixture": 0.98,
+        "ceiling light": 1.0
+    },
+    "tomatoes": {
+        "fruit": 0.841,
+        "vegetable": 0.944,
+        "vegetables": 0.931,
+        "tomato": 0.965,
+        "tomatoes": 1.0
+    },
+    "trains": {
+        "train": 0.948,
+        "trains": 1.0
+    },
+    "open": {
+        "open": 1.0
+    },
+    "apartment": {
+        "building": 0.845,
+        "apartment": 1.0
+    },
+    "keyboard": {
+        "keyboards": 0.898,
+        "keyboard": 1.0
+    },
+    "cotton dessert": {
+        "cotton dessert": 1.0
+    },
+    "sticker": {
+        "stickers": 0.939,
+        "sticker": 1.0
+    },
+    "sheets": {
+        "sheet": 0.974,
+        "sheets": 1.0
+    },
+    "cord": {
+        "cords": 0.924,
+        "cable": 0.772,
+        "cord": 1.0
+    },
+    "cereal": {
+        "cereal": 1.0
+    },
+    "asparagus": {
+        "vegetable": 0.974,
+        "plant": 0.964,
+        "herb": 0.895,
+        "asparagus": 1.0
+    },
+    "video games": {
+        "video game": 0.961,
+        "video games": 1.0
+    },
+    "above": {
+        "above": 1.0
+    },
+    "radiator": {
+        "radiator": 1.0
+    },
+    "salmon": {
+        "fish": 0.98,
+        "salmon": 1.0
+    },
+    "beach": {
+        "shore": 0.961,
+        "beach": 1.0
+    },
+    "ramekin": {
+        "dish": 0.895,
+        "ramekin": 1.0
+    },
+    "obstacle": {
+        "obstacle": 1.0
+    },
+    "teal": {
+        "teal": 1.0
+    },
+    "branch": {
+        "branches": 0.936,
+        "branch": 1.0
+    },
+    "stew": {
+        "dish": 0.897,
+        "stew": 1.0
+    },
+    "plant": {
+        "plants": 0.956,
+        "plant": 1.0
+    },
+    "onions": {
+        "onion": 0.974,
+        "plants": 0.918,
+        "onions": 1.0
+    },
+    "fresh": {
+        "fresh": 1.0
+    },
+    "sunglasses": {
+        "glasses": 0.847,
+        "sunglasses": 1.0
+    },
+    "cages": {
+        "cage": 0.912,
+        "cages": 1.0
+    },
+    "sideways": {
+        "sideways": 1.0
+    },
+    "grapefruit": {
+        "fruit": 0.969,
+        "grapefruit": 1.0
+    },
+    "shop": {
+        "store": 0.946,
+        "shops": 0.961,
+        "shop": 1.0
+    },
+    "short": {
+        "shorts": 0.875,
+        "little": 0.907,
+        "short": 1.0
+    },
+    "meatballs": {
+        "meatballs": 1.0
+    },
+    "wristband": {
+        "wristband": 1.0
+    },
+    "hair clip": {
+        "hair clip": 1.0
+    },
+    "ribs": {
+        "ribs": 1.0
+    },
+    "sign": {
+        "sign": 1.0
+    },
+    "powder": {
+        "powder": 1.0
+    },
+    "fine": {
+        "fine": 1.0
+    },
+    "milk carton": {
+        "milk carton": 1.0
+    },
+    "oil": {
+        "liquid": 0.971,
+        "oil": 1.0
+    },
+    "vacuum": {
+        "vacuum": 1.0
+    },
+    "pineapples": {
+        "pineapple": 0.799,
+        "pineapples": 1.0
+    },
+    "urinal": {
+        "urinal": 1.0
+    },
+    "binder": {
+        "binder": 1.0
+    },
+    "donkey": {
+        "donkeys": 0.969,
+        "donkey": 1.0
+    },
+    "counter": {
+        "counter": 1.0
+    },
+    "opaque": {
+        "opaque": 1.0
+    },
+    "rifle": {
+        "gun": 0.966,
+        "rifle": 1.0
+    },
+    "baked": {
+        "baked": 1.0
+    },
+    "chinese food": {
+        "chinese food": 1.0
+    },
+    "soup": {
+        "dish": 0.87,
+        "liquid": 0.975,
+        "soup": 1.0
+    },
+    "bottle": {
+        "container": 0.948,
+        "bottles": 0.946,
+        "bottle": 1.0
+    },
+    "baseball bats": {
+        "baseball bat": 0.94,
+        "baseball bats": 1.0
+    },
+    "mattress": {
+        "mattresses": 0.961,
+        "mattress": 1.0
+    },
+    "bus stop": {
+        "bus stop": 1.0
+    },
+    "dish drainer": {
+        "dish drainer": 1.0
+    },
+    "styrofoam": {
+        "styrofoam": 1.0
+    },
+    "hose": {
+        "garment": 0.942,
+        "pipe": 0.652,
+        "hose": 1.0
+    },
+    "wool": {
+        "coat": 0.745,
+        "wool": 1.0
+    },
+    "boot": {
+        "boots": 0.819,
+        "shoe": 0.884,
+        "boot": 1.0
+    },
+    "rooftop": {
+        "roof": 0.874,
+        "top": 0.961,
+        "rooftop": 1.0
+    },
+    "snack": {
+        "meal": 0.972,
+        "snacks": 0.956,
+        "snack": 1.0
+    },
+    "shirts": {
+        "shirt": 0.975,
+        "shirts": 1.0
+    },
+    "lamb": {
+        "meat": 0.903,
+        "lambs": 0.929,
+        "lamb": 1.0
+    },
+    "soccer player": {
+        "player": 0.981,
+        "athlete": 0.968,
+        "soccer player": 1.0
+    },
+    "mountain side": {
+        "mountain side": 1.0
+    },
+    "church": {
+        "building": 0.892,
+        "church": 1.0
+    },
+    "grinder": {
+        "grinder": 1.0
+    },
+    "tree branches": {
+        "tree branch": 0.833,
+        "tree branches": 1.0
+    },
+    "armchair": {
+        "chair": 0.974,
+        "armchair": 1.0
+    },
+    "pub": {
+        "building": 0.83,
+        "pub": 1.0
+    },
+    "shoe laces": {
+        "shoe laces": 1.0
+    },
+    "geese": {
+        "goose": 0.962,
+        "birds": 0.951,
+        "geese": 1.0
+    },
+    "water bottle": {
+        "bottle": 0.97,
+        "water bottles": 0.925,
+        "water bottle": 1.0
+    },
+    "biscuit": {
+        "biscuits": 0.929,
+        "biscuit": 1.0
+    },
+    "coffee pot": {
+        "coffee pot": 1.0
+    },
+    "ladles": {
+        "ladle": 0.946,
+        "ladles": 1.0
+    },
+    "french toast": {
+        "dish": 0.927,
+        "french toast": 1.0
+    },
+    "photographer": {
+        "photographer": 1.0
+    },
+    "bag": {
+        "bags": 0.963,
+        "bag": 1.0
+    },
+    "buns": {
+        "bun": 0.967,
+        "buns": 1.0
+    },
+    "athlete": {
+        "athlete": 1.0
+    },
+    "mushroom": {
+        "vegetable": 0.846,
+        "mushrooms": 0.961,
+        "mushroom": 1.0
+    },
+    "phones": {
+        "phone": 0.969,
+        "phones": 1.0
+    },
+    "bandage": {
+        "dressing": 0.944,
+        "bandage": 1.0
+    },
+    "tree leaves": {
+        "tree leaves": 1.0
+    },
+    "gold": {
+        "gold": 1.0
+    },
+    "cats": {
+        "cat": 0.97,
+        "cats": 1.0
+    },
+    "dull": {
+        "dull": 1.0
+    },
+    "cabinet": {
+        "cabinets": 0.971,
+        "cabinet": 1.0
+    },
+    "baseball": {
+        "ball": 0.964,
+        "game": 0.641,
+        "baseball": 1.0
+    },
+    "lobby": {
+        "lobby": 1.0
+    },
+    "cds": {
+        "cd": 0.952,
+        "cds": 1.0
+    },
+    "deer": {
+        "deer": 1.0
+    },
+    "carts": {
+        "cart": 0.953,
+        "carts": 1.0
+    },
+    "terminal": {
+        "station": 0.729,
+        "terminal": 1.0
+    },
+    "televisions": {
+        "television": 0.973,
+        "televisions": 1.0
+    },
+    "pedestrian": {
+        "pedestrians": 0.93,
+        "pedestrian": 1.0
+    },
+    "clocks": {
+        "clock": 0.967,
+        "clocks": 1.0
+    },
+    "soda bottle": {
+        "soda bottle": 1.0
+    },
+    "roadside": {
+        "roadside": 1.0
+    },
+    "shoe": {
+        "shoes": 0.96,
+        "shoe": 1.0
+    },
+    "bird": {
+        "birds": 0.933,
+        "bird": 1.0
+    },
+    "taking bath": {
+        "taking bath": 1.0
+    },
+    "couple": {
+        "couple": 1.0
+    },
+    "cupboards": {
+        "cupboard": 0.976,
+        "cupboards": 1.0
+    },
+    "microwave oven": {
+        "oven": 0.966,
+        "microwave": 0.946,
+        "tool": 0.877,
+        "microwave oven": 1.0
+    },
+    "wires": {
+        "wire": 0.967,
+        "wires": 1.0
+    },
+    "unpaved": {
+        "unpaved": 1.0
+    },
+    "serving dish": {
+        "dish": 0.968,
+        "serving dish": 1.0
+    },
+    "ski": {
+        "skis": 0.978,
+        "skiing": 0.978,
+        "ski": 1.0
+    },
+    "chrome": {
+        "metal": 0.968,
+        "chrome": 1.0
+    },
+    "video game": {
+        "video games": 0.97,
+        "game": 0.985,
+        "video game": 1.0
+    },
+    "necklace": {
+        "jewelry": 0.978,
+        "necklaces": 0.897,
+        "necklace": 1.0
+    },
+    "teddy bear": {
+        "bear": 0.957,
+        "teddy bears": 0.938,
+        "stuffed animal": 0.937,
+        "teddy bear": 1.0
+    },
+    "drum": {
+        "container": 0.899,
+        "drum": 1.0
+    },
+    "living room": {
+        "living room": 1.0
+    },
+    "bomb": {
+        "bomb": 1.0
+    },
+    "bicycle": {
+        "bicycles": 0.941,
+        "bike": 0.975,
+        "bicycle": 1.0
+    },
+    "toys": {
+        "toy": 0.92,
+        "toys": 1.0
+    },
+    "yogurt": {
+        "yogurt": 1.0
+    },
+    "rabbit": {
+        "meat": 0.503,
+        "rabbit": 1.0
+    },
+    "birds": {
+        "bird": 0.959,
+        "birds": 1.0
+    },
+    "wine glass": {
+        "dish": 0.668,
+        "wine glasses": 0.956,
+        "wine glass": 1.0
+    },
+    "pine tree": {
+        "tree": 0.96,
+        "pine trees": 0.932,
+        "pine tree": 1.0
+    },
+    "duck": {
+        "bird": 0.97,
+        "ducks": 0.942,
+        "duck": 1.0
+    },
+    "omelette": {
+        "omelette": 1.0
+    },
+    "underwear": {
+        "garment": 0.957,
+        "underwear": 1.0
+    },
+    "desert": {
+        "desert": 1.0
+    },
+    "mountains": {
+        "mountain": 0.942,
+        "mountains": 1.0
+    },
+    "cathedral": {
+        "church": 0.938,
+        "cathedral": 1.0
+    },
+    "blouse": {
+        "shirt": 0.967,
+        "top": 0.968,
+        "blouse": 1.0
+    },
+    "beer bottle": {
+        "bottle": 0.972,
+        "beer bottle": 1.0
+    },
+    "rainy": {
+        "rainy": 1.0
+    },
+    "airport": {
+        "airport": 1.0
+    },
+    "crust": {
+        "crust": 1.0
+    },
+    "balloons": {
+        "balloon": 0.958,
+        "balloons": 1.0
+    },
+    "gravel": {
+        "rock": 0.577,
+        "gravel": 1.0
+    },
+    "seal": {
+        "seal": 1.0
+    },
+    "hay": {
+        "hay": 1.0
+    },
+    "team": {
+        "team": 1.0
+    },
+    "bread box": {
+        "bread box": 1.0
+    },
+    "fence": {
+        "obstacle": 0.881,
+        "barrier": 0.926,
+        "fence": 1.0
+    },
+    "hook": {
+        "hook": 1.0
+    },
+    "pizza pan": {
+        "dish": 0.936,
+        "pizza pan": 1.0
+    },
+    "carrot": {
+        "vegetable": 0.966,
+        "carrots": 0.955,
+        "herb": 0.861,
+        "carrot": 1.0
+    },
+    "ladle": {
+        "ladles": 0.947,
+        "ladle": 1.0
+    },
+    "refrigerator": {
+        "machine": 0.852,
+        "refrigerator": 1.0
+    },
+    "hamburgers": {
+        "meat": 0.984,
+        "hamburger": 0.97,
+        "hamburgers": 1.0
+    },
+    "hair dryer": {
+        "hair dryer": 1.0
+    },
+    "grassy": {
+        "grassy": 1.0
+    },
+    "biscuits": {
+        "biscuit": 0.95,
+        "biscuits": 1.0
+    },
+    "floor": {
+        "floor": 1.0
+    },
+    "pocket watch": {
+        "watch": 0.98,
+        "pocket watch": 1.0
+    },
+    "blind": {
+        "people": 0.589,
+        "blinds": 0.961,
+        "blind": 1.0
+    },
+    "meadow": {
+        "meadow": 1.0
+    },
+    "sandwich": {
+        "sandwiches": 0.897,
+        "sandwich": 1.0
+    },
+    "brownie": {
+        "brownies": 0.942,
+        "dessert": 0.843,
+        "brownie": 1.0
+    },
+    "tourist": {
+        "tourists": 0.963,
+        "tourist": 1.0
+    },
+    "under": {
+        "beneath": 0.972,
+        "underneath": 0.971,
+        "below": 0.984,
+        "under": 1.0
+    },
+    "angry bird": {
+        "angry bird": 1.0
+    },
+    "beds": {
+        "bed": 0.962,
+        "beds": 1.0
+    },
+    "waves": {
+        "water": 0.958,
+        "wave": 0.985,
+        "waves": 1.0
+    },
+    "bee": {
+        "bee": 1.0
+    },
+    "receipt": {
+        "receipt": 1.0
+    },
+    "ground": {
+        "ground": 1.0
+    },
+    "shirt": {
+        "garment": 0.98,
+        "shirts": 0.947,
+        "top": 0.958,
+        "shirt": 1.0
+    },
+    "lily": {
+        "lilies": 0.904,
+        "plant": 0.956,
+        "flower": 0.958,
+        "lily": 1.0
+    },
+    "mango": {
+        "fruit": 0.951,
+        "tree": 0.839,
+        "plant": 0.951,
+        "mangoes": 0.931,
+        "mango": 1.0
+    },
+    "cranberry": {
+        "fruit": 0.981,
+        "berry": 0.958,
+        "cranberries": 0.975,
+        "cranberry": 1.0
+    },
+    "candy": {
+        "candies": 0.97,
+        "candy": 1.0
+    },
+    "cutting board": {
+        "tool": 0.876,
+        "cutting board": 1.0
+    },
+    "cookbook": {
+        "book": 0.953,
+        "cookbook": 1.0
+    },
+    "potted": {
+        "pot": 0.97,
+        "potted": 1.0
+    },
+    "lion": {
+        "lions": 0.935,
+        "lion": 1.0
+    },
+    "cars": {
+        "car": 0.967,
+        "cars": 1.0
+    },
+    "fountain": {
+        "fountain": 1.0
+    },
+    "gray": {
+        "gray": 1.0
+    },
+    "barn": {
+        "building": 0.873,
+        "barn": 1.0
+    },
+    "shaking hands": {
+        "shaking hands": 1.0
+    },
+    "turkey": {
+        "bird": 0.965,
+        "turkey": 1.0
+    },
+    "temple": {
+        "building": 0.93,
+        "temple": 1.0
+    },
+    "kiwis": {
+        "kiwi": 0.979,
+        "kiwis": 1.0
+    },
+    "soda": {
+        "soft drink": 0.63,
+        "beverage": 0.952,
+        "drink": 0.923,
+        "soda": 1.0
+    },
+    "unhealthy": {
+        "unhealthy": 1.0
+    },
+    "vinegar": {
+        "liquid": 0.967,
+        "vinegar": 1.0
+    },
+    "numbers": {
+        "number": 0.973,
+        "numbers": 1.0
+    },
+    "flowers": {
+        "flower": 0.961,
+        "flowers": 1.0
+    },
+    "metal": {
+        "metallic": 0.97,
+        "metal": 1.0
+    },
+    "baker": {
+        "worker": 0.923,
+        "baker": 1.0
+    },
+    "silk": {
+        "silk": 1.0
+    },
+    "riding boots": {
+        "riding boots": 1.0
+    },
+    "newspaper": {
+        "paper": 0.972,
+        "newspaper": 1.0
+    },
+    "carpet": {
+        "rug": 0.958,
+        "carpet": 1.0
+    },
+    "dried": {
+        "dry": 0.978,
+        "dried": 1.0
+    },
+    "knife": {
+        "knives": 0.792,
+        "tool": 0.939,
+        "knife": 1.0
+    },
+    "butter knife": {
+        "silverware": 0.724,
+        "knife": 0.975,
+        "butter knife": 1.0
+    },
+    "suitcase": {
+        "suitcases": 0.961,
+        "suitcase": 1.0
+    },
+    "unhappy": {
+        "unhappy": 1.0
+    },
+    "luggage": {
+        "luggage": 1.0
+    },
+    "american flag": {
+        "symbol": 0.583,
+        "flag": 0.985,
+        "american flag": 1.0
+    },
+    "leafless": {
+        "leafless": 1.0
+    },
+    "cameras": {
+        "camera": 0.96,
+        "cameras": 1.0
+    },
+    "pan": {
+        "container": 0.864,
+        "pans": 0.938,
+        "tool": 0.642,
+        "pan": 1.0
+    },
+    "jumping": {
+        "jumping": 1.0
+    },
+    "soldiers": {
+        "people": 0.964,
+        "soldier": 0.965,
+        "soldiers": 1.0
+    },
+    "display": {
+        "display": 1.0
+    },
+    "arrow": {
+        "arrow": 1.0
+    },
+    "sweater": {
+        "garment": 0.98,
+        "top": 0.74,
+        "sweater": 1.0
+    },
+    "shops": {
+        "shop": 0.951,
+        "shops": 1.0
+    },
+    "microwave": {
+        "microwave oven": 0.78,
+        "microwave": 1.0
+    },
+    "bamboo": {
+        "wood": 0.53,
+        "plant": 0.916,
+        "bamboo": 1.0
+    },
+    "foggy": {
+        "foggy": 1.0
+    },
+    "adult": {
+        "adult": 1.0
+    },
+    "outlets": {
+        "outlet": 0.948,
+        "outlets": 1.0
+    },
+    "seafood": {
+        "fish": 0.858,
+        "seafood": 1.0
+    },
+    "father": {
+        "man": 0.972,
+        "parent": 0.893,
+        "father": 1.0
+    },
+    "sun": {
+        "sun": 1.0
+    },
+    "tuna": {
+        "meat": 0.797,
+        "fish": 0.973,
+        "tuna": 1.0
+    },
+    "benches": {
+        "bench": 0.907,
+        "benches": 1.0
+    },
+    "wagon": {
+        "container": 0.856,
+        "wagon": 1.0
+    },
+    "spice": {
+        "spices": 0.903,
+        "spice": 1.0
+    },
+    "drape": {
+        "curtain": 0.74,
+        "drapes": 0.941,
+        "drape": 1.0
+    },
+    "gloves": {
+        "glove": 0.968,
+        "gloves": 1.0
+    },
+    "office": {
+        "building": 0.901,
+        "office": 1.0
+    },
+    "piano": {
+        "keyboard": 0.971,
+        "piano": 1.0
+    },
+    "radio": {
+        "radio": 1.0
+    },
+    "video camera": {
+        "camera": 0.988,
+        "video camera": 1.0
+    },
+    "field": {
+        "field": 1.0
+    },
+    "vending machine": {
+        "machine": 0.976,
+        "vending machine": 1.0
+    },
+    "granola": {
+        "cereal": 0.842,
+        "granola": 1.0
+    },
+    "backpack": {
+        "backpacks": 0.932,
+        "bag": 0.506,
+        "backpack": 1.0
+    },
+    "grater": {
+        "grater": 1.0
+    },
+    "wardrobe": {
+        "closet": 0.567,
+        "wardrobe": 1.0
+    },
+    "bull": {
+        "bull": 1.0
+    },
+    "tablet": {
+        "tablet": 1.0
+    },
+    "peach": {
+        "fruit": 0.952,
+        "peaches": 0.977,
+        "peach": 1.0
+    },
+    "peanut butter": {
+        "peanut": 0.911,
+        "peanut butter": 1.0
+    },
+    "tree": {
+        "plant": 0.928,
+        "trees": 0.924,
+        "tree": 1.0
+    },
+    "marina": {
+        "marina": 1.0
+    },
+    "baby": {
+        "child": 0.961,
+        "baby": 1.0
+    },
+    "table lamp": {
+        "lamp": 0.96,
+        "table lamp": 1.0
+    },
+    "shoe lace": {
+        "shoe lace": 1.0
+    },
+    "shrimp": {
+        "shrimp": 1.0
+    },
+    "chimney": {
+        "chimney": 1.0
+    },
+    "monitor": {
+        "display": 0.934,
+        "monitors": 0.918,
+        "monitor": 1.0
+    },
+    "characters": {
+        "character": 0.973,
+        "characters": 1.0
+    },
+    "boy": {
+        "child": 0.947,
+        "boys": 0.97,
+        "boy": 1.0
+    },
+    "dog food": {
+        "dog food": 1.0
+    },
+    "shark": {
+        "fish": 0.923,
+        "shark": 1.0
+    },
+    "glaze": {
+        "topping": 0.855,
+        "glaze": 1.0
+    },
+    "toaster oven": {
+        "oven": 0.971,
+        "toaster": 0.958,
+        "toaster oven": 1.0
+    },
+    "shaving cream": {
+        "shaving cream": 1.0
+    },
+    "waiting": {
+        "waiting": 1.0
+    },
+    "ravioli": {
+        "pasta": 0.966,
+        "ravioli": 1.0
+    },
+    "supermarket": {
+        "store": 0.955,
+        "supermarket": 1.0
+    },
+    "son": {
+        "child": 0.946,
+        "boy": 0.825,
+        "son": 1.0
+    },
+    "sign post": {
+        "sign post": 1.0
+    },
+    "airplanes": {
+        "airplane": 0.964,
+        "airplanes": 1.0
+    },
+    "tags": {
+        "tag": 0.967,
+        "tags": 1.0
+    },
+    "marble": {
+        "stone": 0.75,
+        "rock": 0.771,
+        "marble": 1.0
+    },
+    "driving": {
+        "driving": 1.0
+    },
+    "box": {
+        "container": 0.919,
+        "boxes": 0.947,
+        "package": 0.699,
+        "box": 1.0
+    },
+    "stadium": {
+        "stadium": 1.0
+    },
+    "pancake": {
+        "cake": 0.667,
+        "pancakes": 0.868,
+        "pancake": 1.0
+    },
+    "wine bottles": {
+        "wine bottle": 0.968,
+        "wine bottles": 1.0
+    },
+    "sleeveless": {
+        "sleeveless": 1.0
+    },
+    "gummy bear": {
+        "gummy bear": 1.0
+    },
+    "salt shaker": {
+        "salt shaker": 1.0
+    },
+    "wolves": {
+        "wolf": 0.969,
+        "wolves": 1.0
+    },
+    "workers": {
+        "worker": 0.98,
+        "workers": 1.0
+    },
+    "picnic table": {
+        "table": 0.974,
+        "picnic tables": 0.909,
+        "picnic table": 1.0
+    },
+    "back": {
+        "back": 1.0
+    },
+    "sidewalk": {
+        "walkway": 0.967,
+        "sidewalk": 1.0
+    },
+    "young": {
+        "young": 1.0
+    },
+    "thick": {
+        "dense": 0.983,
+        "thick": 1.0
+    },
+    "cotton": {
+        "cotton": 1.0
+    },
+    "ring": {
+        "jewelry": 0.947,
+        "ring": 1.0
+    },
+    "standing": {
+        "standing": 1.0
+    },
+    "bathroom": {
+        "restroom": 0.974,
+        "toilet": 0.563,
+        "bathroom": 1.0
+    },
+    "dense": {
+        "thick": 0.978,
+        "dense": 1.0
+    },
+    "pipe": {
+        "pipes": 0.95,
+        "container": 0.588,
+        "pipe": 1.0
+    },
+    "pocket": {
+        "pouch": 0.725,
+        "pocket": 1.0
+    },
+    "lime": {
+        "fruit": 0.927,
+        "lime": 1.0
+    },
+    "planter": {
+        "planter": 1.0
+    },
+    "hedges": {
+        "hedge": 0.893,
+        "hedges": 1.0
+    },
+    "coats": {
+        "coat": 0.974,
+        "coats": 1.0
+    },
+    "fruits": {
+        "fruit": 0.965,
+        "fruits": 1.0
+    },
+    "grass": {
+        "plant": 0.886,
+        "grass": 1.0
+    },
+    "carrots": {
+        "carrot": 0.958,
+        "carrots": 1.0
+    },
+    "sconce": {
+        "shelter": 0.893,
+        "light": 0.771,
+        "sconce": 1.0
+    },
+    "knives": {
+        "knife": 0.966,
+        "knives": 1.0
+    },
+    "toilet brush": {
+        "brush": 0.974,
+        "tool": 0.932,
+        "toilet brush": 1.0
+    },
+    "cigar": {
+        "cigar": 1.0
+    },
+    "cake stand": {
+        "cake stand": 1.0
+    },
+    "magazines": {
+        "magazine": 0.945,
+        "magazines": 1.0
+    },
+    "cows": {
+        "cow": 0.969,
+        "cows": 1.0
+    },
+    "player": {
+        "players": 0.909,
+        "player": 1.0
+    },
+    "dip": {
+        "dip": 1.0
+    },
+    "stapler": {
+        "machine": 0.811,
+        "tool": 0.891,
+        "stapler": 1.0
+    },
+    "costume": {
+        "costume": 1.0
+    },
+    "triangular": {
+        "triangular": 1.0
+    },
+    "looking up": {
+        "looking up": 1.0
+    },
+    "paintings": {
+        "painting": 0.972,
+        "paintings": 1.0
+    },
+    "caucasian": {
+        "caucasian": 1.0
+    },
+    "mesh": {
+        "net": 0.64,
+        "mesh": 1.0
+    },
+    "brown": {
+        "brown": 1.0
+    },
+    "backpacks": {
+        "backpack": 0.961,
+        "backpacks": 1.0
+    },
+    "ornaments": {
+        "ornament": 0.964,
+        "ornaments": 1.0
+    },
+    "bouquet": {
+        "bouquet": 1.0
+    },
+    "pastries": {
+        "pastry": 0.976,
+        "pastries": 1.0
+    },
+    "no": {
+        "no": 1.0
+    },
+    "tea kettle": {
+        "tea kettle": 1.0
+    },
+    "hilltop": {
+        "hilltop": 1.0
+    },
+    "cherry": {
+        "fruit": 0.948,
+        "tree": 0.755,
+        "wood": 0.93,
+        "cherries": 0.949,
+        "cherry": 1.0
+    },
+    "cloth": {
+        "material": 0.932,
+        "cloths": 0.972,
+        "cloth": 1.0
+    },
+    "at the camera": {
+        "at the camera": 1.0
+    },
+    "soap dish": {
+        "dish": 0.965,
+        "soap dish": 1.0
+    },
+    "onion ring": {
+        "onion rings": 0.951,
+        "onion ring": 1.0
+    },
+    "utensil holder": {
+        "utensil holder": 1.0
+    },
+    "roasted": {
+        "roasted": 1.0
+    },
+    "antelope": {
+        "antelopes": 0.968,
+        "antelope": 1.0
+    },
+    "intersection": {
+        "intersection": 1.0
+    },
+    "attic": {
+        "attic": 1.0
+    },
+    "doll": {
+        "dolls": 0.833,
+        "doll": 1.0
+    },
+    "ovens": {
+        "oven": 0.972,
+        "ovens": 1.0
+    },
+    "tortilla": {
+        "tortilla": 1.0
+    },
+    "tunnel": {
+        "tunnel": 1.0
+    },
+    "cake": {
+        "cakes": 0.954,
+        "dessert": 0.913,
+        "cake": 1.0
+    },
+    "platform": {
+        "platform": 1.0
+    },
+    "khaki": {
+        "khaki": 1.0
+    },
+    "silver": {
+        "metal": 0.539,
+        "silver": 1.0
+    },
+    "audience": {
+        "audience": 1.0
+    },
+    "cage": {
+        "container": 0.876,
+        "cages": 0.94,
+        "cage": 1.0
+    },
+    "dryer": {
+        "dryer": 1.0
+    },
+    "action figure": {
+        "action figure": 1.0
+    },
+    "snowboard": {
+        "snowboarding": 0.956,
+        "snowboard": 1.0
+    },
+    "television": {
+        "machine": 0.812,
+        "televisions": 0.939,
+        "television": 1.0
+    },
+    "sugar": {
+        "sugar": 1.0
+    },
+    "toy": {
+        "toys": 0.939,
+        "toy": 1.0
+    },
+    "vase": {
+        "vases": 0.946,
+        "container": 0.952,
+        "vase": 1.0
+    },
+    "lipstick": {
+        "lipstick": 1.0
+    },
+    "museum": {
+        "museum": 1.0
+    },
+    "place": {
+        "place": 1.0
+    },
+    "bike": {
+        "bikes": 0.951,
+        "bicycle": 0.975,
+        "bike": 1.0
+    },
+    "computer monitor": {
+        "monitor": 0.969,
+        "computer monitor": 1.0
+    },
+    "power line": {
+        "power lines": 0.941,
+        "power line": 1.0
+    },
+    "bookcase": {
+        "bookcase": 1.0
+    },
+    "cup": {
+        "cups": 0.944,
+        "container": 0.931,
+        "cup": 1.0
+    },
+    "mexican food": {
+        "mexican food": 1.0
+    },
+    "taco": {
+        "dish": 0.962,
+        "taco": 1.0
+    },
+    "walnuts": {
+        "walnut": 0.98,
+        "walnuts": 1.0
+    },
+    "lying": {
+        "lying": 1.0
+    },
+    "beige": {
+        "beige": 1.0
+    },
+    "below": {
+        "beneath": 0.964,
+        "under": 0.958,
+        "below": 1.0
+    },
+    "sleeping": {
+        "sleeping": 1.0
+    },
+    "new": {
+        "fresh": 0.907,
+        "young": 0.674,
+        "new": 1.0
+    },
+    "trucks": {
+        "truck": 0.969,
+        "trucks": 1.0
+    },
+    "saucer": {
+        "dish": 0.922,
+        "saucer": 1.0
+    },
+    "cupcakes": {
+        "cupcake": 0.953,
+        "cupcakes": 1.0
+    },
+    "garage": {
+        "garage": 1.0
+    },
+    "diaper": {
+        "garment": 0.984,
+        "diaper": 1.0
+    },
+    "sugar packet": {
+        "sugar packet": 1.0
+    },
+    "magnet": {
+        "magnets": 0.956,
+        "magnet": 1.0
+    },
+    "bending": {
+        "bending": 1.0
+    },
+    "kitten": {
+        "cat": 0.97,
+        "kittens": 0.933,
+        "kitten": 1.0
+    },
+    "shore": {
+        "shore": 1.0
+    },
+    "lambs": {
+        "lamb": 0.955,
+        "lambs": 1.0
+    },
+    "hats": {
+        "hat": 0.977,
+        "hats": 1.0
+    },
+    "crown": {
+        "symbol": 0.755,
+        "crown": 1.0
+    },
+    "canoe": {
+        "boat": 0.597,
+        "canoe": 1.0
+    },
+    "making a face": {
+        "making a face": 1.0
+    },
+    "antenna": {
+        "antennas": 0.938,
+        "antenna": 1.0
+    },
+    "vines": {
+        "vine": 0.965,
+        "vines": 1.0
+    },
+    "couch": {
+        "couches": 0.96,
+        "sofa": 0.967,
+        "couch": 1.0
+    },
+    "curved": {
+        "curved": 1.0
+    },
+    "cloudy": {
+        "cloudy": 1.0
+    },
+    "policeman": {
+        "man": 0.941,
+        "policemen": 0.975,
+        "officer": 0.978,
+        "policeman": 1.0
+    },
+    "earring": {
+        "jewelry": 0.977,
+        "earrings": 0.888,
+        "earring": 1.0
+    },
+    "plain": {
+        "plain": 1.0
+    },
+    "motorcycle": {
+        "bike": 0.814,
+        "motorcycles": 0.937,
+        "motorcycle": 1.0
+    },
+    "tables": {
+        "table": 0.971,
+        "tables": 1.0
+    },
+    "monkey": {
+        "monkey": 1.0
+    },
+    "anchovies": {
+        "anchovies": 1.0
+    },
+    "behind": {
+        "behind": 1.0
+    },
+    "safety jacket": {
+        "safety jacket": 1.0
+    },
+    "railroad": {
+        "railroad": 1.0
+    },
+    "adidas": {
+        "adidas": 1.0
+    },
+    "giraffe": {
+        "giraffes": 0.877,
+        "giraffe": 1.0
+    },
+    "jackets": {
+        "jacket": 0.975,
+        "jackets": 1.0
+    },
+    "game controller": {
+        "controller": 0.983,
+        "game controller": 1.0
+    },
+    "rhino": {
+        "rhinos": 0.948,
+        "rhino": 1.0
+    },
+    "bottom": {
+        "ship": 0.789,
+        "bottom": 1.0
+    },
+    "fans": {
+        "people": 0.943,
+        "fan": 0.948,
+        "fans": 1.0
+    },
+    "bags": {
+        "bag": 0.978,
+        "bags": 1.0
+    },
+    "beef": {
+        "meat": 0.967,
+        "beef": 1.0
+    },
+    "drinking": {
+        "drink": 0.831,
+        "drinking": 1.0
+    },
+    "calm": {
+        "calm": 1.0
+    },
+    "entertainment center": {
+        "entertainment center": 1.0
+    },
+    "skillet": {
+        "pan": 0.973,
+        "skillet": 1.0
+    },
+    "cinnamon roll": {
+        "roll": 0.981,
+        "cinnamon roll": 1.0
+    },
+    "casserole": {
+        "dish": 0.963,
+        "casserole": 1.0
+    },
+    "frosting": {
+        "ice": 0.729,
+        "icing": 0.966,
+        "topping": 0.948,
+        "frosting": 1.0
+    },
+    "blender": {
+        "blenders": 0.959,
+        "tool": 0.929,
+        "blender": 1.0
+    },
+    "soldier": {
+        "worker": 0.802,
+        "soldiers": 0.934,
+        "soldier": 1.0
+    },
+    "smoke stack": {
+        "smoke stack": 1.0
+    },
+    "luggage cart": {
+        "luggage cart": 1.0
+    },
+    "fence post": {
+        "fence post": 1.0
+    },
+    "children": {
+        "people": 0.968,
+        "child": 0.97,
+        "children": 1.0
+    },
+    "figurines": {
+        "figurine": 0.939,
+        "figurines": 1.0
+    },
+    "garage door": {
+        "door": 0.976,
+        "garage door": 1.0
+    },
+    "meats": {
+        "meat": 0.983,
+        "meats": 1.0
+    },
+    "bakery": {
+        "store": 0.603,
+        "shop": 0.887,
+        "bakery": 1.0
+    },
+    "croissant": {
+        "croissants": 0.888,
+        "croissant": 1.0
+    },
+    "chicken breast": {
+        "meat": 0.951,
+        "chicken breast": 1.0
+    },
+    "moss": {
+        "moss": 1.0
+    },
+    "oranges": {
+        "orange": 0.975,
+        "oranges": 1.0
+    },
+    "stained": {
+        "stained": 1.0
+    },
+    "hillside": {
+        "hillside": 1.0
+    },
+    "tray": {
+        "trays": 0.969,
+        "tray": 1.0
+    },
+    "daughter": {
+        "child": 0.953,
+        "daughter": 1.0
+    },
+    "library": {
+        "building": 0.917,
+        "library": 1.0
+    },
+    "tangerine": {
+        "tangerine": 1.0
+    },
+    "sandal": {
+        "shoe": 0.972,
+        "sandals": 0.937,
+        "sandal": 1.0
+    },
+    "coffee cups": {
+        "coffee cup": 0.953,
+        "coffee cups": 1.0
+    },
+    "chains": {
+        "chain": 0.964,
+        "chains": 1.0
+    },
+    "still": {
+        "still": 1.0
+    },
+    "bandana": {
+        "bandana": 1.0
+    },
+    "rectangular": {
+        "rectangular": 1.0
+    },
+    "dugout": {
+        "shelter": 0.939,
+        "dugout": 1.0
+    },
+    "stuffed animals": {
+        "stuffed animal": 0.959,
+        "stuffed animals": 1.0
+    },
+    "snow boots": {
+        "snow boots": 1.0
+    },
+    "jockey": {
+        "worker": 0.85,
+        "athlete": 0.974,
+        "jockey": 1.0
+    },
+    "wet": {
+        "wet": 1.0
+    },
+    "drapes": {
+        "cloth": 0.972,
+        "drape": 0.966,
+        "curtains": 0.967,
+        "drapes": 1.0
+    },
+    "food processor": {
+        "tool": 0.94,
+        "food processor": 1.0
+    },
+    "runway": {
+        "platform": 0.883,
+        "runway": 1.0
+    },
+    "gym": {
+        "gym": 1.0
+    },
+    "baseball bat": {
+        "bat": 0.984,
+        "baseball bats": 0.952,
+        "baseball bat": 1.0
+    },
+    "dvds": {
+        "dvds": 1.0
+    },
+    "owl": {
+        "owls": 0.945,
+        "bird": 0.958,
+        "owl": 1.0
+    },
+    "chairs": {
+        "chair": 0.949,
+        "chairs": 1.0
+    },
+    "label": {
+        "label": 1.0
+    },
+    "peaches": {
+        "fruit": 0.96,
+        "peach": 0.951,
+        "peaches": 1.0
+    },
+    "hippo": {
+        "hippos": 0.952,
+        "hippo": 1.0
+    },
+    "bird house": {
+        "bird house": 1.0
+    },
+    "medicine cabinet": {
+        "medicine cabinet": 1.0
+    },
+    "pepper shaker": {
+        "pepper shaker": 1.0
+    },
+    "vanilla": {
+        "vanilla": 1.0
+    },
+    "star": {
+        "stars": 0.847,
+        "star": 1.0
+    },
+    "tiger": {
+        "cat": 0.596,
+        "tiger": 1.0
+    },
+    "concrete": {
+        "concrete": 1.0
+    },
+    "uniform": {
+        "uniforms": 0.965,
+        "outfit": 0.936,
+        "uniform": 1.0
+    },
+    "bookshelves": {
+        "bookshelf": 0.947,
+        "bookshelves": 1.0
+    },
+    "fat": {
+        "fat": 1.0
+    },
+    "long sleeved": {
+        "long sleeved": 1.0
+    },
+    "necklaces": {
+        "jewelry": 0.974,
+        "necklace": 0.941,
+        "necklaces": 1.0
+    },
+    "goose": {
+        "meat": 0.733,
+        "bird": 0.969,
+        "geese": 0.943,
+        "goose": 1.0
+    },
+    "town": {
+        "town": 1.0
+    },
+    "copper": {
+        "metal": 0.965,
+        "copper": 1.0
+    },
+    "towel dispenser": {
+        "towel dispenser": 1.0
+    },
+    "coleslaw": {
+        "salad": 0.624,
+        "coleslaw": 1.0
+    },
+    "life jacket": {
+        "vest": 0.559,
+        "garment": 0.983,
+        "life jackets": 0.982,
+        "life jacket": 1.0
+    },
+    "donuts": {
+        "donut": 0.965,
+        "donuts": 1.0
+    },
+    "kittens": {
+        "kitten": 0.957,
+        "kittens": 1.0
+    },
+    "brass": {
+        "metal": 0.98,
+        "brass": 1.0
+    },
+    "toddler": {
+        "child": 0.976,
+        "toddler": 1.0
+    },
+    "jeans": {
+        "pants": 0.975,
+        "jeans": 1.0
+    },
+    "spider": {
+        "spider": 1.0
+    },
+    "heel": {
+        "heels": 0.946,
+        "heel": 1.0
+    },
+    "worker": {
+        "workers": 0.973,
+        "worker": 1.0
+    },
+    "pizza shop": {
+        "pizza shop": 1.0
+    },
+    "coke": {
+        "soft drink": 0.933,
+        "beverage": 0.922,
+        "drink": 0.843,
+        "soda": 0.939,
+        "coke": 1.0
+    },
+    "street light": {
+        "street lights": 0.896,
+        "street light": 1.0
+    },
+    "beverages": {
+        "beverage": 0.96,
+        "beverages": 1.0
+    },
+    "cd": {
+        "cds": 0.957,
+        "cd": 1.0
+    },
+    "controllers": {
+        "controller": 0.97,
+        "controllers": 1.0
+    },
+    "wines": {
+        "wine": 0.981,
+        "wines": 1.0
+    },
+    "ice maker": {
+        "tool": 0.902,
+        "ice maker": 1.0
+    },
+    "goggles": {
+        "garment": 0.948,
+        "goggles": 1.0
+    },
+    "dining table": {
+        "table": 0.985,
+        "dining table": 1.0
+    },
+    "wii controller": {
+        "wii controller": 1.0
+    },
+    "picnic tables": {
+        "picnic table": 0.927,
+        "picnic tables": 1.0
+    },
+    "bronze": {
+        "metal": 0.972,
+        "sculpture": 0.501,
+        "bronze": 1.0
+    },
+    "games": {
+        "game": 0.977,
+        "games": 1.0
+    },
+    "umbrella": {
+        "umbrellas": 0.95,
+        "umbrella": 1.0
+    },
+    "cloths": {
+        "cloth": 0.976,
+        "cloths": 1.0
+    },
+    "honey": {
+        "liquid": 0.969,
+        "honey": 1.0
+    },
+    "hat": {
+        "hats": 0.916,
+        "hat": 1.0
+    },
+    "parking meter": {
+        "parking meter": 1.0
+    },
+    "forest": {
+        "wild": 0.905,
+        "forest": 1.0
+    },
+    "appetizers": {
+        "appetizer": 0.963,
+        "appetizers": 1.0
+    },
+    "rough": {
+        "rough": 1.0
+    },
+    "sponge": {
+        "sponge": 1.0
+    },
+    "pork": {
+        "meat": 0.968,
+        "pork": 1.0
+    },
+    "crowd": {
+        "crowd": 1.0
+    },
+    "marshmallow": {
+        "candy": 0.866,
+        "marshmallow": 1.0
+    },
+    "toothbrushes": {
+        "toothbrush": 0.958,
+        "toothbrushes": 1.0
+    },
+    "milk": {
+        "beverage": 0.895,
+        "liquid": 0.962,
+        "milk": 1.0
+    },
+    "remote control": {
+        "remote controls": 0.959,
+        "remote control": 1.0
+    },
+    "bookshelf": {
+        "bookshelves": 0.957,
+        "shelf": 0.976,
+        "bookshelf": 1.0
+    },
+    "fruit": {
+        "fruits": 0.946,
+        "fruit": 1.0
+    },
+    "gun": {
+        "gun": 1.0
+    },
+    "bus": {
+        "buses": 0.943,
+        "bus": 1.0
+    },
+    "character": {
+        "characters": 0.883,
+        "symbol": 0.625,
+        "character": 1.0
+    },
+    "books": {
+        "book": 0.953,
+        "books": 1.0
+    },
+    "cafe": {
+        "restaurant": 0.676,
+        "cafe": 1.0
+    },
+    "sheep": {
+        "sheep": 1.0
+    },
+    "wine": {
+        "beverage": 0.94,
+        "wines": 0.976,
+        "alcohol": 0.963,
+        "wine": 1.0
+    },
+    "crab": {
+        "crab": 1.0
+    },
+    "steamed": {
+        "steam": 0.976,
+        "steamed": 1.0
+    },
+    "whisk": {
+        "whisk": 1.0
+    },
+    "wheelchair": {
+        "seat": 0.958,
+        "chair": 0.974,
+        "wheelchair": 1.0
+    },
+    "car": {
+        "machine": 0.665,
+        "cars": 0.931,
+        "car": 1.0
+    },
+    "door frame": {
+        "door frame": 1.0
+    },
+    "bikes": {
+        "bike": 0.97,
+        "bikes": 1.0
+    },
+    "paved": {
+        "paved": 1.0
+    },
+    "partly cloudy": {
+        "partly cloudy": 1.0
+    },
+    "green": {
+        "green": 1.0
+    },
+    "trumpet": {
+        "brass": 0.728,
+        "trumpet": 1.0
+    },
+    "speakers": {
+        "speaker": 0.929,
+        "speakers": 1.0
+    },
+    "nest": {
+        "shelter": 0.903,
+        "nest": 1.0
+    },
+    "reading": {
+        "reading": 1.0
+    },
+    "cooler": {
+        "cooler": 1.0
+    },
+    "crumbs": {
+        "crumbs": 1.0
+    },
+    "roll": {
+        "roll": 1.0
+    },
+    "flower pot": {
+        "flower pot": 1.0
+    },
+    "immature": {
+        "young": 0.615,
+        "immature": 1.0
+    },
+    "gate": {
+        "entrance": 0.512,
+        "barrier": 0.876,
+        "gate": 1.0
+    },
+    "flip flop": {
+        "flip flops": 0.958,
+        "shoe": 0.965,
+        "flip flop": 1.0
+    },
+    "tractors": {
+        "tractor": 0.958,
+        "tractors": 1.0
+    },
+    "crackers": {
+        "cracker": 0.948,
+        "crackers": 1.0
+    },
+    "artichokes": {
+        "artichoke": 0.913,
+        "artichokes": 1.0
+    },
+    "glove": {
+        "gloves": 0.936,
+        "glove": 1.0
+    },
+    "calculator": {
+        "machine": 0.877,
+        "computer": 0.844,
+        "calculator": 1.0
+    },
+    "gourd": {
+        "fruit": 0.933,
+        "gourd": 1.0
+    },
+    "ketchup": {
+        "sauce": 0.888,
+        "ketchup": 1.0
+    },
+    "wallpaper": {
+        "paper": 0.803,
+        "wallpaper": 1.0
+    },
+    "monitors": {
+        "monitor": 0.939,
+        "monitors": 1.0
+    },
+    "parsley": {
+        "plant": 0.959,
+        "herb": 0.956,
+        "parsley": 1.0
+    },
+    "riding": {
+        "riding": 1.0
+    },
+    "kitchen towel": {
+        "kitchen towel": 1.0
+    },
+    "mozzarella": {
+        "cheese": 0.975,
+        "mozzarella": 1.0
+    },
+    "toy car": {
+        "toy car": 1.0
+    },
+    "bug": {
+        "bug": 1.0
+    },
+    "restaurant": {
+        "building": 0.791,
+        "restaurant": 1.0
+    },
+    "peppers": {
+        "pepper": 0.958,
+        "peppers": 1.0
+    },
+    "hand dryer": {
+        "hand dryer": 1.0
+    },
+    "heels": {
+        "heel": 0.973,
+        "heels": 1.0
+    },
+    "batter": {
+        "player": 0.965,
+        "batter": 1.0
+    },
+    "eggs": {
+        "egg": 0.977,
+        "eggs": 1.0
+    },
+    "train station": {
+        "building": 0.729,
+        "train station": 1.0
+    },
+    "waiter": {
+        "waiter": 1.0
+    },
+    "taking pictures": {
+        "taking pictures": 1.0
+    },
+    "bath towel": {
+        "towel": 0.978,
+        "bath towel": 1.0
+    },
+    "banana peel": {
+        "banana peel": 1.0
+    },
+    "carriage": {
+        "carriage": 1.0
+    },
+    "pistachio": {
+        "nut": 0.972,
+        "tree": 0.904,
+        "pistachio": 1.0
+    },
+    "salt": {
+        "salt": 1.0
+    },
+    "asian": {
+        "asian": 1.0
+    },
+    "computer desk": {
+        "computer desk": 1.0
+    },
+    "cream colored": {
+        "cream colored": 1.0
+    },
+    "shorts": {
+        "short": 0.96,
+        "shorts": 1.0
+    },
+    "uniforms": {
+        "uniform": 0.985,
+        "uniforms": 1.0
+    },
+    "sofa": {
+        "couch": 0.968,
+        "seat": 0.807,
+        "sofa": 1.0
+    },
+    "away": {
+        "off": 0.812,
+        "out": 0.82,
+        "away": 1.0
+    },
+    "bubble": {
+        "bubbles": 0.822,
+        "bubble": 1.0
+    },
+    "street": {
+        "road": 0.969,
+        "roadway": 0.942,
+        "street": 1.0
+    },
+    "shopping bag": {
+        "bag": 0.984,
+        "shopping bag": 1.0
+    },
+    "rice": {
+        "rice": 1.0
+    },
+    "console": {
+        "console": 1.0
+    },
+    "snow pants": {
+        "snow pants": 1.0
+    },
+    "raincoat": {
+        "garment": 0.986,
+        "coat": 0.987,
+        "raincoat": 1.0
+    },
+    "rainbow colored": {
+        "rainbow colored": 1.0
+    },
+    "polar bear": {
+        "bear": 0.982,
+        "polar bear": 1.0
+    },
+    "butterflies": {
+        "butterfly": 0.961,
+        "butterflies": 1.0
+    },
+    "ice": {
+        "icing": 0.723,
+        "ice": 1.0
+    },
+    "outfit": {
+        "outfits": 0.928,
+        "outfit": 1.0
+    },
+    "staring": {
+        "staring": 1.0
+    },
+    "hairbrush": {
+        "brush": 0.977,
+        "hairbrush": 1.0
+    },
+    "angry": {
+        "angry": 1.0
+    },
+    "tank top": {
+        "shirt": 0.981,
+        "top": 0.984,
+        "undershirt": 0.51,
+        "tank top": 1.0
+    },
+    "downward": {
+        "down": 0.982,
+        "downward": 1.0
+    },
+    "scooter": {
+        "scooters": 0.947,
+        "scooter": 1.0
+    },
+    "moon": {
+        "away": 0.655,
+        "moon": 1.0
+    },
+    "cane": {
+        "cane": 1.0
+    },
+    "raw": {
+        "raw": 1.0
+    },
+    "potatoes": {
+        "potato": 0.974,
+        "vegetable": 0.952,
+        "vegetables": 0.936,
+        "potatoes": 1.0
+    },
+    "desserts": {
+        "dessert": 0.939,
+        "desserts": 1.0
+    },
+    "desktop computer": {
+        "computer": 0.979,
+        "desktop computer": 1.0
+    },
+    "cans": {
+        "can": 0.976,
+        "cans": 1.0
+    },
+    "raspberry": {
+        "bush": 0.526,
+        "raspberries": 0.961,
+        "fruit": 0.955,
+        "berry": 0.95,
+        "raspberry": 1.0
+    },
+    "blueberry": {
+        "fruit": 0.948,
+        "berry": 0.949,
+        "blueberries": 0.934,
+        "blueberry": 1.0
+    },
+    "candies": {
+        "candy": 0.964,
+        "candies": 1.0
+    },
+    "candle holder": {
+        "candle holder": 1.0
+    },
+    "wristwatch": {
+        "watch": 0.983,
+        "wristwatch": 1.0
+    },
+    "sword": {
+        "steel": 0.838,
+        "sword": 1.0
+    },
+    "frisbee": {
+        "game": 0.93,
+        "frisbee": 1.0
+    },
+    "frame": {
+        "picture": 0.754,
+        "frame": 1.0
+    },
+    "step": {
+        "steps": 0.94,
+        "step": 1.0
+    },
+    "bedroom": {
+        "bedroom": 1.0
+    },
+    "tan": {
+        "tan": 1.0
+    },
+    "seat": {
+        "place": 0.926,
+        "seat": 1.0
+    },
+    "cat": {
+        "cats": 0.938,
+        "cat": 1.0
+    },
+    "pretzel": {
+        "pretzels": 0.972,
+        "pretzel": 1.0
+    },
+    "hot dogs": {
+        "hot dog": 0.964,
+        "hot dogs": 1.0
+    },
+    "soccer balls": {
+        "soccer ball": 0.965,
+        "soccer balls": 1.0
+    },
+    "almonds": {
+        "almond": 0.94,
+        "almonds": 1.0
+    },
+    "staircase": {
+        "staircase": 1.0
+    },
+    "donut": {
+        "donuts": 0.939,
+        "donut": 1.0
+    },
+    "hills": {
+        "hill": 0.912,
+        "hills": 1.0
+    },
+    "computer mouse": {
+        "computer mouse": 1.0
+    },
+    "artichoke": {
+        "vegetable": 0.973,
+        "artichokes": 0.925,
+        "artichoke": 1.0
+    },
+    "post": {
+        "post": 1.0
+    },
+    "pipes": {
+        "pipe": 0.97,
+        "pipes": 1.0
+    },
+    "athletic shoe": {
+        "athletic shoe": 1.0
+    },
+    "clean": {
+        "clean": 1.0
+    },
+    "chili": {
+        "dish": 0.913,
+        "spice": 0.793,
+        "chili": 1.0
+    },
+    "mashed potatoes": {
+        "potatoes": 0.975,
+        "mashed potatoes": 1.0
+    },
+    "cookie jar": {
+        "jar": 0.98,
+        "cookie jar": 1.0
+    },
+    "tag": {
+        "tags": 0.949,
+        "label": 0.659,
+        "tag": 1.0
+    },
+    "sea foam": {
+        "sea foam": 1.0
+    },
+    "wii controllers": {
+        "wii controllers": 1.0
+    },
+    "stove": {
+        "stove": 1.0
+    },
+    "napkins": {
+        "napkin": 0.953,
+        "napkins": 1.0
+    },
+    "old": {
+        "old": 1.0
+    },
+    "skating": {
+        "skating": 1.0
+    },
+    "kangaroo": {
+        "kangaroo": 1.0
+    },
+    "countertop": {
+        "countertop": 1.0
+    },
+    "trailer": {
+        "container": 0.863,
+        "trailer": 1.0
+    },
+    "eye glasses": {
+        "eye glasses": 1.0
+    },
+    "sprinkles": {
+        "sprinkles": 1.0
+    },
+    "giant": {
+        "giant": 1.0
+    },
+    "burner": {
+        "burner": 1.0
+    },
+    "melons": {
+        "melon": 0.96,
+        "melons": 1.0
+    },
+    "penguin": {
+        "bird": 0.967,
+        "penguin": 1.0
+    },
+    "silverware": {
+        "silver": 0.983,
+        "silverware": 1.0
+    },
+    "stroller": {
+        "stroller": 1.0
+    },
+    "side table": {
+        "side table": 1.0
+    },
+    "letters": {
+        "letter": 0.973,
+        "letters": 1.0
+    },
+    "spatula": {
+        "tool": 0.952,
+        "spatula": 1.0
+    },
+    "surfing": {
+        "surfing": 1.0
+    },
+    "oatmeal": {
+        "meal": 0.916,
+        "oatmeal": 1.0
+    },
+    "seat belt": {
+        "belt": 0.975,
+        "seat belt": 1.0
+    },
+    "heart": {
+        "container": 0.675,
+        "meat": 0.548,
+        "symbol": 0.823,
+        "hearts": 0.914,
+        "heart": 1.0
+    },
+    "tennis": {
+        "game": 0.865,
+        "tennis": 1.0
+    },
+    "pineapple": {
+        "fruit": 0.964,
+        "pineapples": 0.738,
+        "pineapple": 1.0
+    },
+    "park": {
+        "park": 1.0
+    },
+    "wooden": {
+        "wooden": 1.0
+    },
+    "traffic sign": {
+        "traffic sign": 1.0
+    },
+    "goats": {
+        "goat": 0.968,
+        "goats": 1.0
+    },
+    "tongs": {
+        "tongs": 1.0
+    },
+    "tiny": {
+        "little": 0.979,
+        "tiny": 1.0
+    },
+    "liquor": {
+        "beverage": 0.965,
+        "liquid": 0.963,
+        "alcohol": 0.966,
+        "liquor": 1.0
+    },
+    "cords": {
+        "cord": 0.957,
+        "cords": 1.0
+    },
+    "pizza": {
+        "dish": 0.948,
+        "pizza pie": 0.854,
+        "pizzas": 0.964,
+        "pizza": 1.0
+    },
+    "cards": {
+        "card": 0.978,
+        "cards": 1.0
+    },
+    "bubbles": {
+        "bubble": 0.941,
+        "bubbles": 1.0
+    },
+    "sandy": {
+        "sandy": 1.0
+    },
+    "skyscraper": {
+        "building": 0.951,
+        "tower": 0.884,
+        "skyscraper": 1.0
+    },
+    "scaffolding": {
+        "scaffolding": 1.0
+    },
+    "shape": {
+        "figure": 0.779,
+        "shape": 1.0
+    },
+    "dishwasher": {
+        "machine": 0.955,
+        "dishwasher": 1.0
+    },
+    "knife block": {
+        "knife block": 1.0
+    },
+    "pastry": {
+        "pastries": 0.949,
+        "dessert": 0.906,
+        "dough": 0.785,
+        "pastry": 1.0
+    },
+    "shoes": {
+        "place": 0.711,
+        "shoe": 0.971,
+        "shoes": 1.0
+    },
+    "wetsuit": {
+        "garment": 0.981,
+        "wetsuit": 1.0
+    },
+    "girl": {
+        "female": 0.984,
+        "girls": 0.979,
+        "woman": 0.854,
+        "child": 0.922,
+        "girl": 1.0
+    },
+    "small": {
+        "little": 0.975,
+        "small": 1.0
+    },
+    "blackberries": {
+        "blackberries": 1.0
+    },
+    "racket": {
+        "rackets": 0.972,
+        "racket": 1.0
+    },
+    "wild": {
+        "wild": 1.0
+    },
+    "mustard": {
+        "vegetable": 0.921,
+        "mustard": 1.0
+    },
+    "paint": {
+        "painting": 0.829,
+        "paint": 1.0
+    },
+    "cowboy hat": {
+        "hat": 0.981,
+        "cowboy hat": 1.0
+    },
+    "stuffed dog": {
+        "stuffed dog": 1.0
+    },
+    "suit": {
+        "suits": 0.946,
+        "garment": 0.979,
+        "suit": 1.0
+    },
+    "mask": {
+        "masks": 0.959,
+        "mask": 1.0
+    },
+    "straight": {
+        "square": 0.874,
+        "straight": 1.0
+    },
+    "cheese cube": {
+        "cheese cube": 1.0
+    },
+    "walls": {
+        "wall": 0.965,
+        "walls": 1.0
+    },
+    "clay": {
+        "clay": 1.0
+    },
+    "cheetah": {
+        "cheetah": 1.0
+    },
+    "roof": {
+        "air": 0.852,
+        "rooftop": 0.963,
+        "roof": 1.0
+    },
+    "cheeseburger": {
+        "hamburger": 0.906,
+        "burger": 0.953,
+        "cheeseburger": 1.0
+    },
+    "whipped cream": {
+        "topping": 0.899,
+        "whipped cream": 1.0
+    },
+    "rubber duck": {
+        "rubber duck": 1.0
+    },
+    "figure": {
+        "figure": 1.0
+    },
+    "blankets": {
+        "blanket": 0.98,
+        "blankets": 1.0
+    },
+    "fruit stand": {
+        "fruit stand": 1.0
+    },
+    "buoys": {
+        "buoy": 0.968,
+        "buoys": 1.0
+    },
+    "animal": {
+        "animal": 1.0
+    },
+    "curled": {
+        "curled": 1.0
+    },
+    "hill": {
+        "ground": 0.699,
+        "hills": 0.921,
+        "hill": 1.0
+    },
+    "lamp": {
+        "light": 0.961,
+        "lamps": 0.934,
+        "lamp": 1.0
+    },
+    "vitamins": {
+        "vitamins": 1.0
+    },
+    "dress": {
+        "dressing": 0.934,
+        "garment": 0.976,
+        "dresses": 0.958,
+        "dress": 1.0
+    },
+    "cucumbers": {
+        "vegetables": 0.942,
+        "cucumber": 0.966,
+        "plants": 0.941,
+        "cucumbers": 1.0
+    },
+    "pillow": {
+        "pillows": 0.972,
+        "pillow": 1.0
+    },
+    "cyclist": {
+        "athlete": 0.779,
+        "cyclist": 1.0
+    },
+    "dirt": {
+        "dirt": 1.0
+    },
+    "lighthouse": {
+        "building": 0.565,
+        "light": 0.976,
+        "lighthouse": 1.0
+    },
+    "gifts": {
+        "gift": 0.947,
+        "gifts": 1.0
+    },
+    "basket": {
+        "container": 0.859,
+        "baskets": 0.968,
+        "basket": 1.0
+    },
+    "tool": {
+        "tools": 0.945,
+        "tool": 1.0
+    },
+    "robe": {
+        "garment": 0.973,
+        "robe": 1.0
+    },
+    "fire extinguisher": {
+        "fire extinguisher": 1.0
+    },
+    "pancakes": {
+        "pancake": 0.969,
+        "pancakes": 1.0
+    },
+    "spectators": {
+        "spectator": 0.963,
+        "audience": 0.977,
+        "spectators": 1.0
+    },
+    "hotel room": {
+        "hotel room": 1.0
+    },
+    "blossom": {
+        "blossoms": 0.971,
+        "flower": 0.969,
+        "blossom": 1.0
+    },
+    "flatbread": {
+        "bread": 0.984,
+        "flatbread": 1.0
+    },
+    "chopsticks": {
+        "chopstick": 0.953,
+        "chopsticks": 1.0
+    },
+    "paper towel": {
+        "towel": 0.981,
+        "paper": 0.897,
+        "paper towels": 0.948,
+        "paper towel": 1.0
+    },
+    "cappuccino": {
+        "drink": 0.841,
+        "coffee": 0.965,
+        "cappuccino": 1.0
+    },
+    "fire hydrant": {
+        "fire hydrant": 1.0
+    },
+    "scarce": {
+        "scarce": 1.0
+    },
+    "leggings": {
+        "pants": 0.895,
+        "leggings": 1.0
+    },
+    "outfits": {
+        "outfit": 0.95,
+        "outfits": 1.0
+    },
+    "map": {
+        "map": 1.0
+    },
+    "river": {
+        "water": 0.925,
+        "river": 1.0
+    },
+    "apartment building": {
+        "building": 0.966,
+        "apartment": 0.969,
+        "apartment building": 1.0
+    },
+    "banana": {
+        "bananas": 0.971,
+        "fruit": 0.929,
+        "dessert": 0.575,
+        "banana": 1.0
+    },
+    "ball": {
+        "balls": 0.953,
+        "ball": 1.0
+    },
+    "blazer": {
+        "jacket": 0.928,
+        "blazer": 1.0
+    },
+    "mushrooms": {
+        "mushroom": 0.969,
+        "plants": 0.929,
+        "mushrooms": 1.0
+    },
+    "twig": {
+        "twigs": 0.924,
+        "branch": 0.661,
+        "twig": 1.0
+    },
+    "sculpture": {
+        "figure": 0.624,
+        "sculpture": 1.0
+    },
+    "price tag": {
+        "tag": 0.962,
+        "price tag": 1.0
+    },
+    "farmer": {
+        "farmer": 1.0
+    },
+    "houses": {
+        "house": 0.889,
+        "houses": 1.0
+    },
+    "gadget": {
+        "gadget": 1.0
+    },
+    "dock": {
+        "dock": 1.0
+    },
+    "avocados": {
+        "avocado": 0.981,
+        "avocados": 1.0
+    },
+    "packages": {
+        "package": 0.98,
+        "packages": 1.0
+    },
+    "zebras": {
+        "zebra": 0.946,
+        "zebras": 1.0
+    },
+    "stage": {
+        "platform": 0.729,
+        "stage": 1.0
+    },
+    "projector": {
+        "projector": 1.0
+    },
+    "cones": {
+        "cone": 0.972,
+        "cones": 1.0
+    },
+    "pens": {
+        "pen": 0.967,
+        "pens": 1.0
+    },
+    "light brown": {
+        "brown": 0.984,
+        "light brown": 1.0
+    },
+    "skirt": {
+        "garment": 0.968,
+        "skirt": 1.0
+    },
+    "elevator": {
+        "container": 0.858,
+        "elevator": 1.0
+    },
+    "blueberries": {
+        "blueberry": 0.955,
+        "blueberries": 1.0
+    },
+    "shallow": {
+        "shallow": 1.0
+    },
+    "merchandise": {
+        "merchandise": 1.0
+    },
+    "dream catcher": {
+        "dream catcher": 1.0
+    },
+    "low": {
+        "low": 1.0
+    },
+    "pillows": {
+        "pillow": 0.96,
+        "pillows": 1.0
+    },
+    "christmas light": {
+        "christmas lights": 0.891,
+        "christmas light": 1.0
+    },
+    "book": {
+        "books": 0.92,
+        "book": 1.0
+    },
+    "dark blue": {
+        "blue": 0.987,
+        "dark blue": 1.0
+    },
+    "hearts": {
+        "symbol": 0.796,
+        "heart": 0.972,
+        "hearts": 1.0
+    },
+    "headphones": {
+        "headphones": 1.0
+    },
+    "pizza crust": {
+        "pizza crust": 1.0
+    },
+    "round": {
+        "rounded": 0.951,
+        "round": 1.0
+    },
+    "purse": {
+        "bag": 0.952,
+        "handbag": 0.972,
+        "purse": 1.0
+    },
+    "face mask": {
+        "mask": 0.988,
+        "face mask": 1.0
+    },
+    "can": {
+        "container": 0.954,
+        "cans": 0.922,
+        "can": 1.0
+    },
+    "outdoors": {
+        "outside": 0.963,
+        "open": 0.668,
+        "outdoors": 1.0
+    },
+    "path": {
+        "path": 1.0
+    },
+    "stir fry": {
+        "stir fry": 1.0
+    },
+    "word": {
+        "words": 0.881,
+        "word": 1.0
+    },
+    "poster": {
+        "poster": 1.0
+    },
+    "traffic lights": {
+        "traffic light": 0.961,
+        "traffic lights": 1.0
+    },
+    "sea": {
+        "ocean": 0.922,
+        "sea": 1.0
+    },
+    "robot": {
+        "machine": 0.874,
+        "robot": 1.0
+    },
+    "windows": {
+        "window": 0.932,
+        "windows": 1.0
+    },
+    "mustard bottle": {
+        "mustard bottle": 1.0
+    },
+    "swan": {
+        "swans": 0.962,
+        "bird": 0.966,
+        "swan": 1.0
+    },
+    "snow flakes": {
+        "snow flakes": 1.0
+    },
+    "kiosk": {
+        "kiosk": 1.0
+    },
+    "officer": {
+        "worker": 0.851,
+        "officers": 0.974,
+        "officer": 1.0
+    },
+    "ottoman": {
+        "seat": 0.564,
+        "ottoman": 1.0
+    },
+    "utensil": {
+        "tool": 0.534,
+        "utensils": 0.925,
+        "utensil": 1.0
+    },
+    "keypad": {
+        "keypad": 1.0
+    },
+    "egg carton": {
+        "egg carton": 1.0
+    },
+    "leaves": {
+        "leaf": 0.944,
+        "leaves": 1.0
+    },
+    "foil": {
+        "sheet": 0.773,
+        "metal": 0.752,
+        "foil": 1.0
+    },
+    "steps": {
+        "step": 0.947,
+        "stairs": 0.908,
+        "steps": 1.0
+    },
+    "potato chips": {
+        "potato chips": 1.0
+    },
+    "fog": {
+        "air": 0.721,
+        "fog": 1.0
+    },
+    "magazine": {
+        "magazines": 0.875,
+        "magazine": 1.0
+    },
+    "parrot": {
+        "parrots": 0.964,
+        "bird": 0.966,
+        "parrot": 1.0
+    },
+    "laptops": {
+        "computers": 0.978,
+        "laptop": 0.969,
+        "laptops": 1.0
+    },
+    "baskets": {
+        "basket": 0.959,
+        "baskets": 1.0
+    },
+    "ladder": {
+        "tool": 0.783,
+        "ladder": 1.0
+    },
+    "letter": {
+        "letters": 0.938,
+        "letter": 1.0
+    },
+    "pole": {
+        "pole": 1.0
+    },
+    "bacon": {
+        "bacon": 1.0
+    },
+    "hand soap": {
+        "hand soap": 1.0
+    },
+    "ear buds": {
+        "ear buds": 1.0
+    },
+    "crane": {
+        "bird": 0.817,
+        "crane": 1.0
+    },
+    "mountain": {
+        "ground": 0.529,
+        "mountains": 0.944,
+        "mountain": 1.0
+    },
+    "cactus": {
+        "plant": 0.966,
+        "cactus": 1.0
+    },
+    "tents": {
+        "tent": 0.935,
+        "tents": 1.0
+    },
+    "forks": {
+        "fork": 0.964,
+        "forks": 1.0
+    },
+    "floor lamp": {
+        "lamp": 0.972,
+        "floor lamp": 1.0
+    },
+    "in the mirror": {
+        "in the mirror": 1.0
+    },
+    "chain": {
+        "chains": 0.958,
+        "chain": 1.0
+    },
+    "locomotive": {
+        "locomotive": 1.0
+    },
+    "avocado": {
+        "fruit": 0.956,
+        "avocados": 0.963,
+        "avocado": 1.0
+    },
+    "fireplace": {
+        "fireplace": 1.0
+    },
+    "rice cooker": {
+        "pan": 0.817,
+        "rice cooker": 1.0
+    },
+    "canopy": {
+        "shelter": 0.899,
+        "canopy": 1.0
+    },
+    "artwork": {
+        "artwork": 1.0
+    },
+    "eiffel tower": {
+        "eiffel tower": 1.0
+    },
+    "pizza boxes": {
+        "pizza box": 0.967,
+        "pizza boxes": 1.0
+    },
+    "waffle": {
+        "waffles": 0.963,
+        "waffle": 1.0
+    },
+    "cupboard": {
+        "closet": 0.516,
+        "cupboards": 0.966,
+        "cabinet": 0.859,
+        "cupboard": 1.0
+    },
+    "cell phone": {
+        "cell phones": 0.957,
+        "cell phone": 1.0
+    },
+    "cupcake": {
+        "cupcakes": 0.95,
+        "cake": 0.771,
+        "cupcake": 1.0
+    },
+    "paint brush": {
+        "brush": 0.98,
+        "paint brush": 1.0
+    },
+    "empty": {
+        "empty": 1.0
+    },
+    "aircraft": {
+        "aircraft": 1.0
+    },
+    "pigeons": {
+        "pigeon": 0.975,
+        "pigeons": 1.0
+    },
+    "cream": {
+        "cream": 1.0
+    },
+    "deck": {
+        "platform": 0.536,
+        "deck": 1.0
+    },
+    "jewelry": {
+        "jewelry": 1.0
+    },
+    "mall": {
+        "shopping center": 0.936,
+        "building": 0.832,
+        "mall": 1.0
+    },
+    "dogs": {
+        "dog": 0.959,
+        "dogs": 1.0
+    },
+    "guy": {
+        "man": 0.977,
+        "guys": 0.956,
+        "guy": 1.0
+    },
+    "earphones": {
+        "earphones": 1.0
+    },
+    "patio": {
+        "outdoors": 0.938,
+        "patio": 1.0
+    },
+    "cables": {
+        "cable": 0.947,
+        "cables": 1.0
+    },
+    "unripe": {
+        "unripe": 1.0
+    },
+    "meal": {
+        "meal": 1.0
+    },
+    "huge": {
+        "huge": 1.0
+    },
+    "logo": {
+        "logo": 1.0
+    },
+    "balcony": {
+        "balcony": 1.0
+    },
+    "towel": {
+        "towels": 0.873,
+        "towel": 1.0
+    },
+    "rain": {
+        "rain": 1.0
+    },
+    "bricks": {
+        "brick": 0.919,
+        "bricks": 1.0
+    },
+    "masks": {
+        "mask": 0.978,
+        "masks": 1.0
+    },
+    "bananas": {
+        "banana": 0.973,
+        "bananas": 1.0
+    },
+    "mud": {
+        "ground": 0.888,
+        "mud": 1.0
+    },
+    "pants": {
+        "pants": 1.0
+    },
+    "decoration": {
+        "decorations": 0.95,
+        "decoration": 1.0
+    },
+    "leather": {
+        "leather": 1.0
+    },
+    "highway": {
+        "road": 0.878,
+        "highway": 1.0
+    },
+    "hangar": {
+        "building": 0.88,
+        "hangar": 1.0
+    },
+    "dvd player": {
+        "player": 0.975,
+        "dvd players": 0.946,
+        "dvd player": 1.0
+    },
+    "blossoms": {
+        "blossom": 0.975,
+        "blossoms": 1.0
+    },
+    "tin": {
+        "tin": 1.0
+    },
+    "log": {
+        "wood": 0.971,
+        "logs": 0.925,
+        "log": 1.0
+    },
+    "remote controls": {
+        "remote control": 0.966,
+        "remote controls": 1.0
+    },
+    "dome": {
+        "dome": 1.0
+    },
+    "window": {
+        "windows": 0.952,
+        "window": 1.0
+    },
+    "music": {
+        "music": 1.0
+    },
+    "umbrellas": {
+        "umbrella": 0.964,
+        "umbrellas": 1.0
+    },
+    "watermelon": {
+        "fruit": 0.957,
+        "melon": 0.973,
+        "water": 0.573,
+        "plant": 0.943,
+        "watermelons": 0.938,
+        "watermelon": 1.0
+    },
+    "bison": {
+        "bison": 1.0
+    },
+    "courtyard": {
+        "place": 0.823,
+        "courtyard": 1.0
+    },
+    "kettle": {
+        "kettle": 1.0
+    },
+    "dolphin": {
+        "dolphins": 0.951,
+        "dolphin": 1.0
+    },
+    "camel": {
+        "camel": 1.0
+    },
+    "battery": {
+        "batteries": 0.936,
+        "battery": 1.0
+    },
+    "yellow": {
+        "yellow": 1.0
+    },
+    "trees": {
+        "tree": 0.928,
+        "wood": 0.95,
+        "plants": 0.93,
+        "trees": 1.0
+    },
+    "kite": {
+        "kites": 0.969,
+        "kite": 1.0
+    },
+    "papaya": {
+        "fruit": 0.965,
+        "papaya": 1.0
+    },
+    "vintage": {
+        "vintage": 1.0
+    },
+    "female": {
+        "female": 1.0
+    },
+    "leaf": {
+        "leaves": 0.936,
+        "leaf": 1.0
+    },
+    "grilled": {
+        "grill": 0.953,
+        "grilled": 1.0
+    },
+    "seagull": {
+        "seagulls": 0.848,
+        "seagull": 1.0
+    },
+    "cigarette": {
+        "cigarette": 1.0
+    },
+    "door": {
+        "entrance": 0.659,
+        "doors": 0.954,
+        "door": 1.0
+    },
+    "shoppers": {
+        "shopper": 0.976,
+        "shoppers": 1.0
+    },
+    "brush": {
+        "tool": 0.82,
+        "brush": 1.0
+    },
+    "lamps": {
+        "lamp": 0.967,
+        "lamps": 1.0
+    },
+    "performer": {
+        "performer": 1.0
+    },
+    "napkin dispenser": {
+        "napkin dispenser": 1.0
+    },
+    "wig": {
+        "wig": 1.0
+    },
+    "ship": {
+        "ship": 1.0
+    },
+    "ripe": {
+        "right": 0.928,
+        "ripe": 1.0
+    },
+    "pigeon": {
+        "bird": 0.975,
+        "pigeons": 0.923,
+        "pigeon": 1.0
+    },
+    "brushing teeth": {
+        "brushing teeth": 1.0
+    },
+    "steak": {
+        "meat": 0.964,
+        "steak": 1.0
+    },
+    "food container": {
+        "food container": 1.0
+    },
+    "curly": {
+        "curly": 1.0
+    },
+    "bracelet": {
+        "bracelets": 0.981,
+        "jewelry": 0.978,
+        "bracelet": 1.0
+    },
+    "number": {
+        "numbers": 0.963,
+        "number": 1.0
+    },
+    "snowsuit": {
+        "snowsuit": 1.0
+    },
+    "coffee mug": {
+        "mug": 0.979,
+        "coffee mug": 1.0
+    },
+    "dark brown": {
+        "dark brown": 1.0
+    },
+    "notebook": {
+        "book": 0.882,
+        "notebook": 1.0
+    },
+    "wii game": {
+        "wii game": 1.0
+    },
+    "coffee": {
+        "beverage": 0.909,
+        "liquid": 0.968,
+        "coffee": 1.0
+    },
+    "cinnamon": {
+        "spice": 0.932,
+        "cinnamon": 1.0
+    },
+    "hamburger": {
+        "meat": 0.971,
+        "burger": 0.975,
+        "hamburgers": 0.964,
+        "hamburger": 1.0
+    },
+    "asphalt": {
+        "asphalt": 1.0
+    },
+    "curtains": {
+        "curtain": 0.945,
+        "cloth": 0.924,
+        "drapes": 0.967,
+        "curtains": 1.0
+    },
+    "groceries": {
+        "groceries": 1.0
+    },
+    "underneath": {
+        "beneath": 0.966,
+        "below": 0.983,
+        "under": 0.968,
+        "underneath": 1.0
+    },
+    "straw": {
+        "straw": 1.0
+    },
+    "tablecloth": {
+        "tablecloth": 1.0
+    },
+    "covered": {
+        "covered": 1.0
+    },
+    "boats": {
+        "boat": 0.964,
+        "boats": 1.0
+    },
+    "vest": {
+        "vests": 0.973,
+        "garment": 0.981,
+        "vest": 1.0
+    },
+    "mickey mouse": {
+        "mickey mouse": 1.0
+    },
+    "banana bunches": {
+        "banana bunches": 1.0
+    },
+    "feathers": {
+        "feathers": 1.0
+    },
+    "suits": {
+        "suit": 0.981,
+        "suits": 1.0
+    },
+    "sneakers": {
+        "sneakers": 1.0
+    },
+    "tennis balls": {
+        "tennis ball": 0.938,
+        "tennis balls": 1.0
+    },
+    "porcelain": {
+        "porcelain": 1.0
+    },
+    "oreo": {
+        "cookie": 0.911,
+        "oreo": 1.0
+    },
+    "bun": {
+        "buns": 0.939,
+        "bun": 1.0
+    },
+    "computers": {
+        "computer": 0.971,
+        "computers": 1.0
+    },
+    "ambulance": {
+        "ambulance": 1.0
+    },
+    "hotdog bun": {
+        "hotdog bun": 1.0
+    },
+    "pitcher": {
+        "player": 0.842,
+        "container": 0.634,
+        "pitcher": 1.0
+    },
+    "drawing": {
+        "artwork": 0.865,
+        "drawings": 0.901,
+        "drawing": 1.0
+    },
+    "pump": {
+        "machine": 0.904,
+        "pump": 1.0
+    },
+    "blond": {
+        "blond": 1.0
+    },
+    "salad": {
+        "dish": 0.877,
+        "salad": 1.0
+    },
+    "sushi": {
+        "dish": 0.94,
+        "fish": 0.789,
+        "sushi": 1.0
+    },
+    "beans": {
+        "beans": 1.0
+    },
+    "nike": {
+        "nike": 1.0
+    },
+    "little": {
+        "little": 1.0
+    },
+    "dumplings": {
+        "dumplings": 1.0
+    },
+    "drinks": {
+        "drink": 0.971,
+        "drinks": 1.0
+    },
+    "street sign": {
+        "street sign": 1.0
+    },
+    "dark": {
+        "dark": 1.0
+    },
+    "top": {
+        "garment": 0.757,
+        "clear": 0.563,
+        "topping": 0.953,
+        "top": 1.0
+    },
+    "pretzels": {
+        "pretzel": 0.976,
+        "pretzels": 1.0
+    },
+    "walking": {
+        "walking": 1.0
+    },
+    "blood": {
+        "liquid": 0.976,
+        "blood": 1.0
+    },
+    "cafeteria": {
+        "restaurant": 0.925,
+        "cafeteria": 1.0
+    },
+    "flour": {
+        "flour": 1.0
+    },
+    "sauce": {
+        "sauce": 1.0
+    },
+    "coin": {
+        "money": 0.748,
+        "coin": 1.0
+    },
+    "powdered sugar": {
+        "sugar": 0.982,
+        "powdered sugar": 1.0
+    },
+    "snail": {
+        "snail": 1.0
+    },
+    "bowl": {
+        "container": 0.94,
+        "dish": 0.903,
+        "bowls": 0.959,
+        "bowl": 1.0
+    },
+    "paper": {
+        "papers": 0.96,
+        "newspaper": 0.928,
+        "paper": 1.0
+    },
+    "hardwood": {
+        "wood": 0.983,
+        "hardwood": 1.0
+    },
+    "dish": {
+        "dishes": 0.946,
+        "plate": 0.728,
+        "dish": 1.0
+    },
+    "panda bears": {
+        "panda bear": 0.978,
+        "panda bears": 1.0
+    },
+    "undershirt": {
+        "shirt": 0.902,
+        "undershirt": 1.0
+    },
+    "ocean": {
+        "sea": 0.973,
+        "liquid": 0.888,
+        "ocean": 1.0
+    },
+    "white": {
+        "white": 1.0
+    },
+    "jacket": {
+        "jackets": 0.926,
+        "coat": 0.949,
+        "jacket": 1.0
+    },
+    "salon": {
+        "shop": 0.819,
+        "salon": 1.0
+    },
+    "drink": {
+        "beverage": 0.962,
+        "drinks": 0.956,
+        "liquid": 0.979,
+        "drinking": 0.951,
+        "drink": 1.0
+    },
+    "cowboy": {
+        "cowboy": 1.0
+    },
+    "smoke": {
+        "smoke": 1.0
+    },
+    "mugs": {
+        "mug": 0.954,
+        "mugs": 1.0
+    },
+    "raisins": {
+        "raisin": 0.946,
+        "raisins": 1.0
+    },
+    "bell tower": {
+        "tower": 0.985,
+        "bell tower": 1.0
+    },
+    "manhole cover": {
+        "manhole cover": 1.0
+    },
+    "thin": {
+        "skinny": 0.966,
+        "thin": 1.0
+    },
+    "stickers": {
+        "sticker": 0.977,
+        "stickers": 1.0
+    },
+    "sweatshirt": {
+        "sweater": 0.941,
+        "undershirt": 0.577,
+        "sweatshirt": 1.0
+    },
+    "goal": {
+        "goal": 1.0
+    },
+    "water": {
+        "liquid": 0.964,
+        "water": 1.0
+    },
+    "road": {
+        "road": 1.0
+    },
+    "dirty": {
+        "dirty": 1.0
+    },
+    "name tag": {
+        "tag": 0.976,
+        "name tag": 1.0
+    },
+    "coffee maker": {
+        "tool": 0.849,
+        "coffee maker": 1.0
+    },
+    "cobblestone": {
+        "cobblestone": 1.0
+    },
+    "melon": {
+        "fruit": 0.953,
+        "melons": 0.954,
+        "melon": 1.0
+    },
+    "soccer": {
+        "game": 0.905,
+        "soccer": 1.0
+    },
+    "talking": {
+        "talking": 1.0
+    },
+    "parking sign": {
+        "parking sign": 1.0
+    },
+    "swans": {
+        "swan": 0.97,
+        "swans": 1.0
+    },
+    "sack": {
+        "container": 0.584,
+        "bag": 0.959,
+        "sack": 1.0
+    },
+    "bare": {
+        "bare": 1.0
+    },
+    "knee pad": {
+        "knee pads": 0.964,
+        "garment": 0.973,
+        "knee pad": 1.0
+    },
+    "mound": {
+        "mound": 1.0
+    },
+    "potato": {
+        "potatoes": 0.967,
+        "vegetable": 0.952,
+        "potato": 1.0
+    },
+    "forward": {
+        "forward": 1.0
+    },
+    "papers": {
+        "paper": 0.966,
+        "papers": 1.0
+    },
+    "taking photos": {
+        "taking photos": 1.0
+    },
+    "squash": {
+        "vegetable": 0.953,
+        "game": 0.618,
+        "squash": 1.0
+    },
+    "pasta": {
+        "dish": 0.899,
+        "pasta": 1.0
+    },
+    "owls": {
+        "birds": 0.96,
+        "owl": 0.952,
+        "owls": 1.0
+    },
+    "cereal box": {
+        "box": 0.981,
+        "cereal box": 1.0
+    },
+    "cookie": {
+        "cookies": 0.939,
+        "dessert": 0.708,
+        "cookie": 1.0
+    },
+    "mountain peak": {
+        "mountain peak": 1.0
+    },
+    "window frame": {
+        "window frame": 1.0
+    },
+    "coach": {
+        "worker": 0.853,
+        "coach": 1.0
+    },
+    "turtle": {
+        "turtle": 1.0
+    },
+    "cash register": {
+        "machine": 0.97,
+        "cash register": 1.0
+    },
+    "ski lift": {
+        "ski lift": 1.0
+    },
+    "peanut": {
+        "nut": 0.973,
+        "peanuts": 0.957,
+        "peanut": 1.0
+    },
+    "iron": {
+        "metal": 0.982,
+        "iron": 1.0
+    },
+    "pillars": {
+        "pillars": 1.0
+    },
+    "rhinos": {
+        "rhino": 0.975,
+        "rhinos": 1.0
+    },
+    "dinosaur": {
+        "dinosaurs": 0.945,
+        "dinosaur": 1.0
+    },
+    "glass": {
+        "container": 0.562,
+        "glasses": 0.558,
+        "glass": 1.0
+    },
+    "drain": {
+        "drain": 1.0
+    },
+    "container": {
+        "containers": 0.941,
+        "container": 1.0
+    },
+    "beer cans": {
+        "beer can": 0.965,
+        "beer cans": 1.0
+    },
+    "cart": {
+        "carts": 0.968,
+        "cart": 1.0
+    },
+    "paddle": {
+        "tool": 0.809,
+        "paddle": 1.0
+    },
+    "employee": {
+        "worker": 0.986,
+        "employee": 1.0
+    },
+    "resting": {
+        "resting": 1.0
+    },
+    "rug": {
+        "carpet": 0.909,
+        "rug": 1.0
+    },
+    "egg yolk": {
+        "egg yolk": 1.0
+    },
+    "hummus": {
+        "hummus": 1.0
+    },
+    "elbow pad": {
+        "garment": 0.975,
+        "elbow pad": 1.0
+    },
+    "teddy bears": {
+        "teddy bear": 0.958,
+        "teddy bears": 1.0
+    },
+    "muffins": {
+        "muffin": 0.959,
+        "muffins": 1.0
+    },
+    "man": {
+        "men": 0.873,
+        "male": 0.982,
+        "adult": 0.913,
+        "man": 1.0
+    },
+    "eggplant": {
+        "fruit": 0.624,
+        "vegetable": 0.964,
+        "herb": 0.905,
+        "eggplant": 1.0
+    },
+    "boots": {
+        "boot": 0.782,
+        "boots": 1.0
+    },
+    "cricket": {
+        "game": 0.87,
+        "cricket": 1.0
+    },
+    "gas pump": {
+        "pump": 0.965,
+        "gas pump": 1.0
+    },
+    "homes": {
+        "homes": 1.0
+    },
+    "gift": {
+        "gifts": 0.958,
+        "gift": 1.0
+    },
+    "bedspread": {
+        "bedspread": 1.0
+    },
+    "smooth": {
+        "smooth": 1.0
+    },
+    "scarf": {
+        "garment": 0.973,
+        "scarf": 1.0
+    },
+    "spots": {
+        "spots": 1.0
+    },
+    "irregular": {
+        "irregular": 1.0
+    },
+    "nut": {
+        "nuts": 0.922,
+        "nut": 1.0
+    },
+    "passengers": {
+        "passenger": 0.968,
+        "people": 0.981,
+        "passengers": 1.0
+    },
+    "pizza tray": {
+        "pizza tray": 1.0
+    },
+    "mirror": {
+        "mirrors": 0.91,
+        "mirror": 1.0
+    },
+    "outside": {
+        "outside": 1.0
+    },
+    "hair": {
+        "hair": 1.0
+    },
+    "air conditioner": {
+        "air conditioner": 1.0
+    },
+    "checkered": {
+        "checkered": 1.0
+    },
+    "metallic": {
+        "metal": 0.982,
+        "metallic": 1.0
+    },
+    "cherries": {
+        "cherry": 0.94,
+        "cherries": 1.0
+    },
+    "skate park": {
+        "park": 0.961,
+        "skate park": 1.0
+    },
+    "burrito": {
+        "dish": 0.953,
+        "burrito": 1.0
+    },
+    "cranberries": {
+        "cranberry": 0.93,
+        "cranberries": 1.0
+    },
+    "utensils": {
+        "utensil": 0.937,
+        "utensils": 1.0
+    },
+    "soap bottle": {
+        "soap bottle": 1.0
+    },
+    "candles": {
+        "candle": 0.96,
+        "candles": 1.0
+    },
+    "weeds": {
+        "plants": 0.951,
+        "weeds": 1.0
+    },
+    "stuffed animal": {
+        "stuffed animals": 0.952,
+        "stuffed animal": 1.0
+    },
+    "shield": {
+        "armor": 0.629,
+        "shield": 1.0
+    },
+    "peeled": {
+        "peeled": 1.0
+    },
+    "pig": {
+        "pig": 1.0
+    },
+    "ketchup bottle": {
+        "ketchup bottle": 1.0
+    },
+    "puppy": {
+        "dog": 0.943,
+        "puppy": 1.0
+    },
+    "handbag": {
+        "purse": 0.977,
+        "bag": 0.983,
+        "handbag": 1.0
+    },
+    "croissants": {
+        "croissant": 0.909,
+        "croissants": 1.0
+    },
+    "gas stove": {
+        "gas stove": 1.0
+    },
+    "rubber": {
+        "rubber": 1.0
+    },
+    "truck": {
+        "trucks": 0.939,
+        "truck": 1.0
+    },
+    "basil": {
+        "spice": 0.754,
+        "herb": 0.964,
+        "basil": 1.0
+    },
+    "wall": {
+        "walls": 0.961,
+        "wall": 1.0
+    },
+    "pizza box": {
+        "pizza boxes": 0.972,
+        "pizza box": 1.0
+    },
+    "cucumber": {
+        "fruit": 0.921,
+        "vegetable": 0.956,
+        "cucumbers": 0.943,
+        "cucumber": 1.0
+    },
+    "home plate": {
+        "plate": 0.979,
+        "home plate": 1.0
+    },
+    "trays": {
+        "tray": 0.969,
+        "trays": 1.0
+    },
+    "skater": {
+        "skateboarder": 0.77,
+        "athlete": 0.915,
+        "skater": 1.0
+    },
+    "roses": {
+        "rose": 0.972,
+        "flowers": 0.953,
+        "plants": 0.945,
+        "roses": 1.0
+    },
+    "cake pan": {
+        "dish": 0.811,
+        "cake pan": 1.0
+    },
+    "zucchini": {
+        "squash": 0.93,
+        "vegetable": 0.969,
+        "plant": 0.962,
+        "zucchini": 1.0
+    },
+    "thermometer": {
+        "thermometer": 1.0
+    },
+    "panda bear": {
+        "panda bears": 0.932,
+        "panda bear": 1.0
+    },
+    "wood": {
+        "forest": 0.521,
+        "wood": 1.0
+    },
+    "corn": {
+        "vegetable": 0.936,
+        "plant": 0.936,
+        "corn": 1.0
+    },
+    "canisters": {
+        "canister": 0.96,
+        "canisters": 1.0
+    },
+    "cooking pot": {
+        "cooking pot": 1.0
+    },
+    "glasses": {
+        "glass": 0.853,
+        "glasses": 1.0
+    },
+    "loaf": {
+        "loaf": 1.0
+    },
+    "potato salad": {
+        "salad": 0.972,
+        "potato salad": 1.0
+    },
+    "crate": {
+        "box": 0.73,
+        "crates": 0.96,
+        "crate": 1.0
+    },
+    "broccoli": {
+        "vegetable": 0.961,
+        "broccoli": 1.0
+    },
+    "real": {
+        "real": 1.0
+    },
+    "xbox controller": {
+        "xbox controller": 1.0
+    },
+    "full": {
+        "full": 1.0
+    },
+    "deep": {
+        "thick": 0.887,
+        "deep": 1.0
+    },
+    "performing trick": {
+        "performing trick": 1.0
+    },
+    "pouch": {
+        "bag": 0.858,
+        "pocket": 0.891,
+        "pouch": 1.0
+    },
+    "skateboarder": {
+        "athlete": 0.933,
+        "skater": 0.979,
+        "skateboarder": 1.0
+    },
+    "tomato": {
+        "fruit": 0.859,
+        "vegetable": 0.952,
+        "berry": 0.519,
+        "tomatoes": 0.963,
+        "herb": 0.899,
+        "tomato": 1.0
+    },
+    "paper container": {
+        "paper container": 1.0
+    },
+    "eagle": {
+        "bird": 0.949,
+        "eagle": 1.0
+    },
+    "island": {
+        "island": 1.0
+    },
+    "meat": {
+        "meats": 0.97,
+        "meat": 1.0
+    },
+    "lemonade": {
+        "beverage": 0.941,
+        "drink": 0.88,
+        "lemonade": 1.0
+    },
+    "pointing": {
+        "pointing": 1.0
+    },
+    "cups": {
+        "cup": 0.972,
+        "cups": 1.0
+    },
+    "end table": {
+        "table": 0.981,
+        "end table": 1.0
+    },
+    "sweet potatoes": {
+        "sweet potato": 0.971,
+        "sweet potatoes": 1.0
+    },
+    "soft drink": {
+        "beverage": 0.978,
+        "drink": 0.979,
+        "soft drink": 1.0
+    },
+    "coffee shop": {
+        "cafe": 0.94,
+        "coffee shop": 1.0
+    },
+    "alcohol": {
+        "beverage": 0.939,
+        "drink": 0.809,
+        "liquid": 0.953,
+        "alcohol": 1.0
+    },
+    "flames": {
+        "flames": 1.0
+    },
+    "panda": {
+        "pandas": 0.914,
+        "panda": 1.0
+    },
+    "calf": {
+        "cow": 0.644,
+        "calf": 1.0
+    },
+    "tomato sauce": {
+        "sauce": 0.977,
+        "tomato sauce": 1.0
+    },
+    "train car": {
+        "car": 0.514,
+        "container": 0.739,
+        "train car": 1.0
+    },
+    "blue": {
+        "blue": 1.0
+    },
+    "visitors": {
+        "visitor": 0.971,
+        "visitors": 1.0
+    },
+    "dish soap": {
+        "dish soap": 1.0
+    },
+    "spray can": {
+        "spray can": 1.0
+    },
+    "entrance": {
+        "entrance": 1.0
+    },
+    "dragons": {
+        "dragon": 0.976,
+        "dragons": 1.0
+    },
+    "polo shirt": {
+        "shirt": 0.983,
+        "polo shirt": 1.0
+    },
+    "champagne": {
+        "beverage": 0.963,
+        "drink": 0.922,
+        "wine": 0.591,
+        "champagne": 1.0
+    },
+    "elmo": {
+        "elmo": 1.0
+    },
+    "mug": {
+        "container": 0.93,
+        "dish": 0.522,
+        "mugs": 0.94,
+        "mug": 1.0
+    },
+    "policemen": {
+        "policeman": 0.98,
+        "policemen": 1.0
+    },
+    "sailboats": {
+        "sailboat": 0.962,
+        "sailboats": 1.0
+    },
+    "lid": {
+        "top": 0.558,
+        "lid": 1.0
+    },
+    "dumpster": {
+        "dumpster": 1.0
+    },
+    "microphone": {
+        "microphone": 1.0
+    },
+    "keyboards": {
+        "keyboard": 0.956,
+        "keyboards": 1.0
+    },
+    "pen": {
+        "pens": 0.9,
+        "container": 0.709,
+        "pen": 1.0
+    },
+    "auditorium": {
+        "auditorium": 1.0
+    },
+    "happy": {
+        "happy": 1.0
+    },
+    "lounge": {
+        "lounge": 1.0
+    },
+    "sand": {
+        "ground": 0.881,
+        "sand": 1.0
+    },
+    "on": {
+        "on": 1.0
+    },
+    "package": {
+        "container": 0.805,
+        "box": 0.911,
+        "packages": 0.966,
+        "packet": 0.963,
+        "package": 1.0
+    },
+    "tofu": {
+        "tofu": 1.0
+    },
+    "right": {
+        "right": 1.0
+    },
+    "light bulbs": {
+        "light bulb": 0.943,
+        "light bulbs": 1.0
+    },
+    "painting": {
+        "paint": 0.974,
+        "paintings": 0.948,
+        "picture": 0.905,
+        "painting": 1.0
+    },
+    "snacks": {
+        "snack": 0.959,
+        "snacks": 1.0
+    },
+    "sticky notes": {
+        "sticky notes": 1.0
+    },
+    "flags": {
+        "flag": 0.939,
+        "flags": 1.0
+    },
+    "orchard": {
+        "orchard": 1.0
+    },
+    "pans": {
+        "pan": 0.959,
+        "pans": 1.0
+    },
+    "dry-erase board": {
+        "dry-erase board": 1.0
+    },
+    "doors": {
+        "door": 0.939,
+        "doors": 1.0
+    },
+    "canister": {
+        "container": 0.964,
+        "canisters": 0.938,
+        "canister": 1.0
+    },
+    "lady": {
+        "female": 0.982,
+        "woman": 0.977,
+        "lady": 1.0
+    },
+    "snakes": {
+        "snake": 0.976,
+        "snakes": 1.0
+    },
+    "vegetable": {
+        "produce": 0.924,
+        "vegetables": 0.97,
+        "vegetable": 1.0
+    },
+    "ice cubes": {
+        "ice cube": 0.942,
+        "ice cubes": 1.0
+    },
+    "fake": {
+        "fake": 1.0
+    },
+    "wii": {
+        "console": 0.889,
+        "wii": 1.0
+    },
+    "brunette": {
+        "brunette": 1.0
+    },
+    "power lines": {
+        "power line": 0.954,
+        "power lines": 1.0
+    },
+    "lilies": {
+        "lily": 0.971,
+        "lilies": 1.0
+    },
+    "toppings": {
+        "topping": 0.965,
+        "toppings": 1.0
+    },
+    "shampoo": {
+        "liquid": 0.972,
+        "shampoo": 1.0
+    },
+    "helicopter": {
+        "machine": 0.92,
+        "helicopter": 1.0
+    },
+    "guys": {
+        "guy": 0.981,
+        "guys": 1.0
+    },
+    "kiwi": {
+        "kiwis": 0.957,
+        "fruit": 0.963,
+        "bird": 0.91,
+        "kiwi": 1.0
+    },
+    "bird cage": {
+        "bird cage": 1.0
+    },
+    "beverage": {
+        "drink": 0.931,
+        "liquid": 0.948,
+        "beverages": 0.917,
+        "beverage": 1.0
+    },
+    "menu": {
+        "menu": 1.0
+    },
+    "control panel": {
+        "control panel": 1.0
+    },
+    "train": {
+        "trains": 0.938,
+        "train": 1.0
+    },
+    "backyard": {
+        "yard": 0.849,
+        "backyard": 1.0
+    },
+    "olive oil": {
+        "oil": 0.984,
+        "olive oil": 1.0
+    },
+    "wine bottle": {
+        "wine bottles": 0.949,
+        "bottle": 0.976,
+        "wine bottle": 1.0
+    },
+    "dolphins": {
+        "dolphin": 0.98,
+        "dolphins": 1.0
+    },
+    "sweet potato": {
+        "vegetable": 0.961,
+        "sweet potatoes": 0.942,
+        "sweet potato": 1.0
+    },
+    "players": {
+        "player": 0.971,
+        "players": 1.0
+    },
+    "pepperoni": {
+        "pepperoni": 1.0
+    },
+    "harbor": {
+        "harbor": 1.0
+    },
+    "envelope": {
+        "envelope": 1.0
+    },
+    "material": {
+        "material": 1.0
+    },
+    "buses": {
+        "bus": 0.958,
+        "buses": 1.0
+    },
+    "bagels": {
+        "bagel": 0.979,
+        "bagels": 1.0
+    },
+    "beer": {
+        "beverage": 0.944,
+        "alcohol": 0.948,
+        "beer": 1.0
+    },
+    "toilet paper": {
+        "paper": 0.978,
+        "toilet paper": 1.0
+    },
+    "rocks": {
+        "rock": 0.952,
+        "rocks": 1.0
+    },
+    "bar stools": {
+        "bar stool": 0.956,
+        "bar stools": 1.0
+    },
+    "shut": {
+        "closed": 0.983,
+        "shut": 1.0
+    },
+    "black and white": {
+        "black and white": 1.0
+    },
+    "roast beef": {
+        "beef": 0.983,
+        "meat": 0.966,
+        "roast beef": 1.0
+    },
+    "airplane": {
+        "airplanes": 0.898,
+        "aircraft": 0.977,
+        "airplane": 1.0
+    },
+    "yard": {
+        "ground": 0.804,
+        "lawn": 0.893,
+        "yard": 1.0
+    },
+    "bracelets": {
+        "bracelet": 0.969,
+        "bracelets": 1.0
+    },
+    "produce": {
+        "produce": 1.0
+    },
+    "serving tray": {
+        "dish": 0.941,
+        "tray": 0.96,
+        "serving dish": 0.953,
+        "serving tray": 1.0
+    },
+    "cardboard": {
+        "paper": 0.785,
+        "cardboard": 1.0
+    },
+    "toaster": {
+        "machine": 0.908,
+        "tool": 0.928,
+        "toaster": 1.0
+    },
+    "suv": {
+        "suv": 1.0
+    },
+    "feeder": {
+        "feeder": 1.0
+    },
+    "folding chair": {
+        "chair": 0.979,
+        "folding chair": 1.0
+    },
+    "blanket": {
+        "blankets": 0.939,
+        "bedding": 0.663,
+        "blanket": 1.0
+    },
+    "cloudless": {
+        "cloudless": 1.0
+    },
+    "pizzas": {
+        "pizza": 0.981,
+        "pizzas": 1.0
+    },
+    "waste basket": {
+        "waste basket": 1.0
+    },
+    "sticks": {
+        "stick": 0.946,
+        "sticks": 1.0
+    },
+    "toasted": {
+        "toast": 0.981,
+        "toasted": 1.0
+    },
+    "clear": {
+        "clear": 1.0
+    },
+    "hotel": {
+        "building": 0.89,
+        "hotel": 1.0
+    },
+    "candle": {
+        "light": 0.81,
+        "candles": 0.935,
+        "candle": 1.0
+    },
+    "liquid": {
+        "liquid": 1.0
+    },
+    "phone": {
+        "machine": 0.895,
+        "phones": 0.914,
+        "phone": 1.0
+    },
+    "bone": {
+        "meat": 0.915,
+        "tissue": 0.54,
+        "bone": 1.0
+    },
+    "vendor": {
+        "vendor": 1.0
+    },
+    "belt": {
+        "belt": 1.0
+    },
+    "fire": {
+        "fire": 1.0
+    },
+    "nuts": {
+        "nut": 0.911,
+        "nuts": 1.0
+    },
+    "posing": {
+        "posing": 1.0
+    },
+    "sunflower": {
+        "plant": 0.949,
+        "flower": 0.961,
+        "sunflowers": 0.967,
+        "sunflower": 1.0
+    },
+    "spinach": {
+        "vegetable": 0.964,
+        "spinach": 1.0
+    },
+    "baking sheet": {
+        "sheet": 0.984,
+        "dish": 0.613,
+        "baking sheet": 1.0
+    },
+    "computer": {
+        "machine": 0.941,
+        "computers": 0.934,
+        "computer": 1.0
+    },
+    "plates": {
+        "plate": 0.972,
+        "plates": 1.0
+    },
+    "women": {
+        "woman": 0.973,
+        "women": 1.0
+    },
+    "donkeys": {
+        "donkey": 0.953,
+        "donkeys": 1.0
+    },
+    "bush": {
+        "bushes": 0.941,
+        "plant": 0.911,
+        "bush": 1.0
+    },
+    "swimsuit": {
+        "garment": 0.985,
+        "swimsuit": 1.0
+    },
+    "sunny": {
+        "sunny": 1.0
+    },
+    "towels": {
+        "towel": 0.968,
+        "towels": 1.0
+    },
+    "tie": {
+        "tie": 1.0
+    },
+    "whale": {
+        "whale": 1.0
+    },
+    "antelopes": {
+        "antelope": 0.976,
+        "antelopes": 1.0
+    },
+    "sky": {
+        "sky": 1.0
+    },
+    "seed": {
+        "seeds": 0.975,
+        "seed": 1.0
+    },
+    "taking a picture": {
+        "taking a picture": 1.0
+    },
+    "pomegranate": {
+        "fruit": 0.959,
+        "tree": 0.757,
+        "pomegranate": 1.0
+    },
+    "short sleeved": {
+        "short sleeved": 1.0
+    },
+    "chocolate chips": {
+        "chocolate chips": 1.0
+    },
+    "rotten": {
+        "rotten": 1.0
+    },
+    "mint": {
+        "plant": 0.894,
+        "leaf": 0.742,
+        "herb": 0.92,
+        "mint": 1.0
+    },
+    "bell": {
+        "bell": 1.0
+    },
+    "skis": {
+        "ski": 0.978,
+        "skis": 1.0
+    },
+    "lego": {
+        "lego": 1.0
+    },
+    "hard drive": {
+        "hard drive": 1.0
+    },
+    "pears": {
+        "pear": 0.513,
+        "pears": 1.0
+    },
+    "rounded": {
+        "round": 0.975,
+        "rounded": 1.0
+    },
+    "cauliflower": {
+        "vegetable": 0.969,
+        "cauliflower": 1.0
+    },
+    "burger": {
+        "hamburger": 0.973,
+        "burger": 1.0
+    },
+    "drawer": {
+        "container": 0.657,
+        "drawers": 0.931,
+        "drawer": 1.0
+    },
+    "beautiful": {
+        "beautiful": 1.0
+    },
+    "trunk": {
+        "trunks": 0.948,
+        "car": 0.53,
+        "trunk": 1.0
+    },
+    "t-shirt": {
+        "t-shirt": 1.0
+    },
+    "denim": {
+        "denim": 1.0
+    },
+    "lemons": {
+        "lemon": 0.96,
+        "lemons": 1.0
+    },
+    "beads": {
+        "beads": 1.0
+    },
+    "bar stool": {
+        "bar stools": 0.92,
+        "bar stool": 1.0
+    },
+    "stairs": {
+        "steps": 0.898,
+        "stairs": 1.0
+    },
+    "pea": {
+        "peas": 0.958,
+        "vegetable": 0.966,
+        "pea": 1.0
+    },
+    "skateboards": {
+        "skateboard": 0.974,
+        "skateboards": 1.0
+    },
+    "cockpit": {
+        "seat": 0.935,
+        "cabin": 0.777,
+        "cockpit": 1.0
+    },
+    "rocky": {
+        "rocky": 1.0
+    },
+    "parking lot": {
+        "parking lot": 1.0
+    },
+    "ornament": {
+        "ornaments": 0.95,
+        "decoration": 0.95,
+        "ornament": 1.0
+    },
+    "bread": {
+        "bread": 1.0
+    },
+    "unpeeled": {
+        "unpeeled": 1.0
+    },
+    "salad dressing": {
+        "dressing": 0.978,
+        "salad dressing": 1.0
+    },
+    "orange": {
+        "orange": 1.0
+    },
+    "farm": {
+        "farm": 1.0
+    },
+    "bleachers": {
+        "bleachers": 1.0
+    },
+    "fried": {
+        "fried": 1.0
+    },
+    "pots": {
+        "pot": 0.96,
+        "pots": 1.0
+    },
+    "sink": {
+        "clean": 0.585,
+        "sink": 1.0
+    },
+    "girls": {
+        "girl": 0.978,
+        "girls": 1.0
+    },
+    "off": {
+        "off": 1.0
+    },
+    "crosswalk": {
+        "crosswalk": 1.0
+    },
+    "boxes": {
+        "box": 0.976,
+        "boxes": 1.0
+    },
+    "collar": {
+        "collar": 1.0
+    },
+    "water bottles": {
+        "water bottle": 0.964,
+        "water bottles": 1.0
+    },
+    "red": {
+        "red": 1.0
+    },
+    "cooking": {
+        "cooking": 1.0
+    },
+    "seeds": {
+        "seed": 0.972,
+        "seeds": 1.0
+    },
+    "clouds": {
+        "clouds": 1.0
+    },
+    "shopping center": {
+        "building": 0.601,
+        "shopping center": 1.0
+    },
+    "apples": {
+        "vegetables": 0.782,
+        "apple": 0.971,
+        "apples": 1.0
+    },
+    "stone": {
+        "stones": 0.973,
+        "stone": 1.0
+    },
+    "stainless steel": {
+        "steel": 0.986,
+        "stainless steel": 1.0
+    },
+    "hallway": {
+        "hallway": 1.0
+    },
+    "lettuce": {
+        "green": 0.663,
+        "vegetable": 0.95,
+        "salad": 0.646,
+        "plant": 0.945,
+        "herb": 0.844,
+        "lettuce": 1.0
+    },
+    "large": {
+        "large": 1.0
+    },
+    "ostriches": {
+        "birds": 0.978,
+        "ostrich": 0.975,
+        "ostriches": 1.0
+    },
+    "lab coat": {
+        "coat": 0.989,
+        "lab coat": 1.0
+    },
+    "grill": {
+        "grilled": 0.932,
+        "grill": 1.0
+    },
+    "barrier": {
+        "obstacle": 0.829,
+        "barrier": 1.0
+    },
+    "towers": {
+        "tower": 0.881,
+        "towers": 1.0
+    },
+    "camera": {
+        "cameras": 0.967,
+        "camera": 1.0
+    },
+    "palm trees": {
+        "palm tree": 0.919,
+        "palm trees": 1.0
+    },
+    "house": {
+        "houses": 0.905,
+        "house": 1.0
+    },
+    "herd": {
+        "herd": 1.0
+    },
+    "machine": {
+        "machine": 1.0
+    },
+    "elephant": {
+        "elephants": 0.901,
+        "elephant": 1.0
+    },
+    "noodles": {
+        "noodles": 1.0
+    },
+    "smoothie": {
+        "beverage": 0.964,
+        "drink": 0.956,
+        "smoothie": 1.0
+    },
+    "toilet": {
+        "toilet": 1.0
+    },
+    "feta cheese": {
+        "cheese": 0.985,
+        "feta cheese": 1.0
+    },
+    "egg": {
+        "eggs": 0.963,
+        "egg": 1.0
+    },
+    "alien": {
+        "alien": 1.0
+    },
+    "sugar packets": {
+        "sugar packets": 1.0
+    },
+    "bed": {
+        "beds": 0.945,
+        "bedding": 0.928,
+        "bed": 1.0
+    },
+    "hippos": {
+        "hippo": 0.964,
+        "hippos": 1.0
+    },
+    "alarm clock": {
+        "clock": 0.978,
+        "alarm clock": 1.0
+    },
+    "packet": {
+        "package": 0.982,
+        "packet": 1.0
+    },
+    "apple logo": {
+        "apple logo": 1.0
+    },
+    "tissue box": {
+        "tissue box": 1.0
+    },
+    "cracker": {
+        "crackers": 0.935,
+        "biscuit": 0.728,
+        "cracker": 1.0
+    },
+    "dinner": {
+        "meal": 0.92,
+        "dinner": 1.0
+    },
+    "uncooked": {
+        "uncooked": 1.0
+    },
+    "woman": {
+        "female": 0.979,
+        "adult": 0.801,
+        "women": 0.956,
+        "woman": 1.0
+    },
+    "peas": {
+        "pea": 0.981,
+        "vegetables": 0.953,
+        "peas": 1.0
+    },
+    "peanuts": {
+        "peanut": 0.911,
+        "peanuts": 1.0
+    },
+    "skin": {
+        "tissue": 0.583,
+        "skin": 1.0
+    },
+    "buildings": {
+        "building": 0.923,
+        "buildings": 1.0
+    },
+    "aluminum": {
+        "metal": 0.983,
+        "aluminum": 1.0
+    },
+    "lizard": {
+        "lizard": 1.0
+    },
+    "chandelier": {
+        "chandelier": 1.0
+    },
+    "theater": {
+        "building": 0.873,
+        "theater": 1.0
+    },
+    "stump": {
+        "stump": 1.0
+    },
+    "pencils": {
+        "pencil": 0.969,
+        "pencils": 1.0
+    },
+    "cookie dough": {
+        "cookie dough": 1.0
+    },
+    "market": {
+        "market": 1.0
+    },
+    "swimmer": {
+        "athlete": 0.938,
+        "swimmer": 1.0
+    },
+    "outlet": {
+        "outlets": 0.936,
+        "outlet": 1.0
+    },
+    "bridge": {
+        "bridge": 1.0
+    },
+    "suitcases": {
+        "suitcase": 0.974,
+        "suitcases": 1.0
+    },
+    "purple": {
+        "purple": 1.0
+    },
+    "snoopy": {
+        "snoopy": 1.0
+    },
+    "buoy": {
+        "buoys": 0.944,
+        "buoy": 1.0
+    },
+    "pita": {
+        "flatbread": 0.512,
+        "pita": 1.0
+    },
+    "sailboat": {
+        "sailboats": 0.93,
+        "boat": 0.967,
+        "sailboat": 1.0
+    },
+    "traffic light": {
+        "light": 0.975,
+        "traffic lights": 0.939,
+        "traffic light": 1.0
+    },
+    "surfer": {
+        "surfer": 1.0
+    },
+    "baking pan": {
+        "baking pan": 1.0
+    },
+    "bear": {
+        "bears": 0.964,
+        "bear": 1.0
+    },
+    "wavy": {
+        "wavy": 1.0
+    },
+    "stop sign": {
+        "stop sign": 1.0
+    },
+    "chickens": {
+        "chicken": 0.974,
+        "chickens": 1.0
+    },
+    "scissors": {
+        "tool": 0.877,
+        "scissors": 1.0
+    },
+    "crouching": {
+        "crouching": 1.0
+    },
+    "picture frame": {
+        "frame": 0.976,
+        "picture frame": 1.0
+    },
+    "spectator": {
+        "spectators": 0.926,
+        "spectator": 1.0
+    },
+    "jeep": {
+        "car": 0.944,
+        "jeep": 1.0
+    },
+    "ham": {
+        "ham": 1.0
+    },
+    "horses": {
+        "horse": 0.973,
+        "horses": 1.0
+    },
+    "cheese": {
+        "cheese": 1.0
+    },
+    "dressing": {
+        "dress": 0.941,
+        "on": 0.71,
+        "dressing": 1.0
+    },
+    "soccer ball": {
+        "ball": 0.975,
+        "soccer balls": 0.942,
+        "soccer ball": 1.0
+    },
+    "orchids": {
+        "orchid": 0.97,
+        "flowers": 0.969,
+        "plants": 0.966,
+        "orchids": 1.0
+    },
+    "boys": {
+        "boy": 0.97,
+        "boys": 1.0
+    },
+    "blenders": {
+        "blender": 0.952,
+        "blenders": 1.0
+    },
+    "bowls": {
+        "bowl": 0.974,
+        "bowls": 1.0
+    },
+    "left": {
+        "left": 1.0
+    },
+    "zoo": {
+        "zoo": 1.0
+    },
+    "wine glasses": {
+        "wine glass": 0.962,
+        "wine glasses": 1.0
+    },
+    "fork": {
+        "silverware": 0.928,
+        "forks": 0.924,
+        "tool": 0.945,
+        "fork": 1.0
+    },
+    "bushy": {
+        "bushy": 1.0
+    },
+    "hammer": {
+        "tool": 0.952,
+        "hammer": 1.0
+    },
+    "dessert": {
+        "desserts": 0.961,
+        "dessert": 1.0
+    },
+    "rope": {
+        "cord": 0.677,
+        "ropes": 0.955,
+        "rope": 1.0
+    },
+    "city": {
+        "town": 0.825,
+        "city": 1.0
+    },
+    "surfboard": {
+        "surfboards": 0.97,
+        "surfboard": 1.0
+    },
+    "ice cream": {
+        "dessert": 0.938,
+        "cream": 0.971,
+        "ice cream": 1.0
+    },
+    "napkin": {
+        "napkins": 0.95,
+        "napkin": 1.0
+    },
+    "goat": {
+        "goats": 0.956,
+        "goat": 1.0
+    },
+    "tools": {
+        "tool": 0.97,
+        "tools": 1.0
+    },
+    "electric toothbrush": {
+        "toothbrush": 0.983,
+        "electric toothbrush": 1.0
+    },
+    "couches": {
+        "couch": 0.946,
+        "couches": 1.0
+    },
+    "platter": {
+        "dish": 0.955,
+        "serving dish": 0.932,
+        "platter": 1.0
+    },
+    "pickles": {
+        "pickles": 1.0
+    },
+    "garnish": {
+        "decoration": 0.973,
+        "garnish": 1.0
+    },
+    "sausages": {
+        "sausage": 0.978,
+        "sausages": 1.0
+    },
+    "mixer": {
+        "mixer": 1.0
+    },
+    "bedding": {
+        "bed": 0.843,
+        "bedding": 1.0
+    },
+    "dress shirt": {
+        "shirt": 0.983,
+        "dress shirt": 1.0
+    },
+    "coconuts": {
+        "coconut": 0.983,
+        "coconuts": 1.0
+    },
+    "chair": {
+        "chairs": 0.909,
+        "seat": 0.917,
+        "chair": 1.0
+    },
+    "cooked": {
+        "cooked": 1.0
+    },
+    "driver": {
+        "worker": 0.738,
+        "driver": 1.0
+    },
+    "taking a photograph": {
+        "taking a photograph": 1.0
+    },
+    "fish": {
+        "fish": 1.0
+    },
+    "shower curtain": {
+        "curtain": 0.969,
+        "shower curtain": 1.0
+    },
+    "beer can": {
+        "can": 0.982,
+        "beer cans": 0.955,
+        "beer can": 1.0
+    },
+    "air": {
+        "air": 1.0
+    },
+    "square": {
+        "straight": 0.917,
+        "square": 1.0
+    },
+    "pajamas": {
+        "pajamas": 1.0
+    },
+    "nightstand": {
+        "nightstand": 1.0
+    },
+    "cliff": {
+        "cliff": 1.0
+    },
+    "vests": {
+        "vest": 0.976,
+        "vests": 1.0
+    },
+    "statue": {
+        "sculpture": 0.809,
+        "statue": 1.0
+    },
+    "tennis ball": {
+        "ball": 0.969,
+        "tennis balls": 0.95,
+        "tennis ball": 1.0
+    },
+    "stick": {
+        "sticks": 0.959,
+        "stick": 1.0
+    },
+    "guacamole": {
+        "guacamole": 1.0
+    },
+    "printers": {
+        "printer": 0.965,
+        "printers": 1.0
+    },
+    "garlic": {
+        "plant": 0.951,
+        "garlic": 1.0
+    },
+    "bread loaf": {
+        "bread loaf": 1.0
+    },
+    "hurdle": {
+        "obstacle": 0.98,
+        "barrier": 0.742,
+        "hurdle": 1.0
+    },
+    "walkway": {
+        "walkway": 1.0
+    },
+    "lake": {
+        "lake": 1.0
+    },
+    "light": {
+        "light": 1.0
+    },
+    "waterfall": {
+        "waterfall": 1.0
+    },
+    "mat": {
+        "mat": 1.0
+    },
+    "sitting": {
+        "sitting": 1.0
+    },
+    "juice": {
+        "beverage": 0.951,
+        "liquid": 0.972,
+        "juice": 1.0
+    },
+    "pavement": {
+        "roadway": 0.614,
+        "pavement": 1.0
+    },
+    "fire truck": {
+        "truck": 0.979,
+        "fire truck": 1.0
+    },
+    "biker": {
+        "cyclist": 0.982,
+        "biker": 1.0
+    },
+    "daisy": {
+        "flower": 0.95,
+        "daisy": 1.0
+    },
+    "lemon": {
+        "fruit": 0.937,
+        "lemons": 0.961,
+        "lemon": 1.0
+    },
+    "street lights": {
+        "street light": 0.936,
+        "street lights": 1.0
+    },
+    "wedding": {
+        "wedding": 1.0
+    },
+    "jumpsuit": {
+        "suit": 0.509,
+        "jumpsuit": 1.0
+    },
+    "herbs": {
+        "plants": 0.943,
+        "herb": 0.944,
+        "herbs": 1.0
+    },
+    "seagulls": {
+        "seagull": 0.976,
+        "seagulls": 1.0
+    },
+    "scrub brush": {
+        "brush": 0.964,
+        "scrub brush": 1.0
+    },
+    "skiing": {
+        "ski": 0.98,
+        "skiing": 1.0
+    },
+    "pot": {
+        "pots": 0.961,
+        "container": 0.949,
+        "potted": 0.963,
+        "pan": 0.634,
+        "tool": 0.743,
+        "pot": 1.0
+    },
+    "magnets": {
+        "magnet": 0.975,
+        "magnets": 1.0
+    },
+    "toast": {
+        "bread": 0.752,
+        "toasted": 0.962,
+        "toast": 1.0
+    },
+    "clock tower": {
+        "tower": 0.962,
+        "clock tower": 1.0
+    },
+    "card": {
+        "cardboard": 0.939,
+        "paper": 0.717,
+        "cards": 0.958,
+        "card": 1.0
+    },
+    "bushes": {
+        "bush": 0.926,
+        "plants": 0.937,
+        "bushes": 1.0
+    },
+    "waffles": {
+        "waffle": 0.945,
+        "waffles": 1.0
+    },
+    "dough": {
+        "dough": 1.0
+    },
+    "branches": {
+        "branch": 0.867,
+        "branches": 1.0
+    },
+    "garland": {
+        "garland": 1.0
+    },
+    "pear": {
+        "fruit": 0.958,
+        "tree": 0.666,
+        "pears": 0.924,
+        "pear": 1.0
+    },
+    "bottles": {
+        "bottle": 0.966,
+        "bottles": 1.0
+    },
+    "notepad": {
+        "notebook": 0.906,
+        "notepad": 1.0
+    },
+    "cemetery": {
+        "cemetery": 1.0
+    },
+    "sausage": {
+        "sausages": 0.97,
+        "meat": 0.955,
+        "sausage": 1.0
+    },
+    "rackets": {
+        "racket": 0.964,
+        "rackets": 1.0
+    },
+    "tea": {
+        "beverage": 0.937,
+        "drink": 0.913,
+        "meal": 0.689,
+        "tea": 1.0
+    },
+    "screen": {
+        "display": 0.958,
+        "screen": 1.0
+    },
+    "men": {
+        "man": 0.976,
+        "men": 1.0
+    },
+    "ceiling": {
+        "ceiling": 1.0
+    },
+    "antique": {
+        "antique": 1.0
+    },
+    "mannequins": {
+        "mannequin": 0.937,
+        "mannequins": 1.0
+    },
+    "healthy": {
+        "healthy": 1.0
+    },
+    "tower": {
+        "towers": 0.926,
+        "tower": 1.0
+    },
+    "router": {
+        "tool": 0.907,
+        "router": 1.0
+    },
+    "desk": {
+        "table": 0.765,
+        "desk": 1.0
+    },
+    "lawn": {
+        "ground": 0.853,
+        "grass": 0.817,
+        "field": 0.686,
+        "lawn": 1.0
+    },
+    "controller": {
+        "controllers": 0.963,
+        "controller": 1.0
+    },
+    "high": {
+        "high": 1.0
+    },
+    "surfboards": {
+        "surfboard": 0.981,
+        "surfboards": 1.0
+    },
+    "net": {
+        "mesh": 0.773,
+        "goal": 0.663,
+        "net": 1.0
+    },
+    "placemat": {
+        "placemat": 1.0
+    },
+    "swimming": {
+        "liquid": 0.957,
+        "swimming": 1.0
+    },
+    "bathtub": {
+        "bathtub": 1.0
+    },
+    "cookies": {
+        "cookie": 0.956,
+        "cookies": 1.0
+    },
+    "berries": {
+        "berry": 0.925,
+        "berries": 1.0
+    },
+    "cream cheese": {
+        "cheese": 0.971,
+        "cream cheese": 1.0
+    },
+    "boulders": {
+        "boulders": 1.0
+    },
+    "soda can": {
+        "can": 0.978,
+        "soda can": 1.0
+    },
+    "paper towels": {
+        "paper towel": 0.959,
+        "paper towels": 1.0
+    },
+    "strawberries": {
+        "strawberry": 0.807,
+        "strawberries": 1.0
+    },
+    "stormy": {
+        "stormy": 1.0
+    },
+    "ceramic": {
+        "ceramic": 1.0
+    },
+    "swimming pool": {
+        "swimming pool": 1.0
+    },
+    "heater": {
+        "heater": 1.0
+    },
+    "people": {
+        "people": 1.0
+    },
+    "striped": {
+        "striped": 1.0
+    },
+    "drawings": {
+        "drawing": 0.967,
+        "drawings": 1.0
+    },
+    "almond": {
+        "nut": 0.949,
+        "fruit": 0.894,
+        "almonds": 0.926,
+        "almond": 1.0
+    },
+    "wolf": {
+        "wolves": 0.945,
+        "wolf": 1.0
+    },
+    "front": {
+        "front": 1.0
+    },
+    "cell phones": {
+        "cell phone": 0.953,
+        "cell phones": 1.0
+    },
+    "up": {
+        "upwards": 0.98,
+        "upward": 0.981,
+        "up": 1.0
+    },
+    "decorations": {
+        "decoration": 0.959,
+        "decorations": 1.0
+    },
+    "popcorn": {
+        "popcorn": 1.0
+    },
+    "customers": {
+        "people": 0.979,
+        "customer": 0.951,
+        "customers": 1.0
+    },
+    "plastic": {
+        "plastic": 1.0
+    },
+    "boat": {
+        "boats": 0.931,
+        "boat": 1.0
+    },
+    "baseball mitt": {
+        "baseball mitt": 1.0
+    },
+    "soap dispenser": {
+        "dispenser": 0.934,
+        "soap dispenser": 1.0
+    },
+    "cable": {
+        "cord": 0.832,
+        "rope": 0.591,
+        "wire": 0.817,
+        "cables": 0.932,
+        "cable": 1.0
+    },
+    "pizza pie": {
+        "pizza": 0.978,
+        "pizza pie": 1.0
+    },
+    "bikini": {
+        "swimsuit": 0.979,
+        "bikini": 1.0
+    },
+    "snowy": {
+        "snowy": 1.0
+    },
+    "brick": {
+        "bricks": 0.962,
+        "brick": 1.0
+    },
+    "trunks": {
+        "trunk": 0.942,
+        "swimsuit": 0.546,
+        "trunks": 1.0
+    },
+    "pizza cutter": {
+        "pizza cutter": 1.0
+    },
+    "chalkboard": {
+        "chalkboard": 1.0
+    },
+    "breakfast": {
+        "meal": 0.933,
+        "breakfast": 1.0
+    },
+    "money": {
+        "money": 1.0
+    },
+    "cow": {
+        "cows": 0.949,
+        "cow": 1.0
+    },
+    "clock": {
+        "machine": 0.807,
+        "clocks": 0.919,
+        "clock": 1.0
+    },
+    "food truck": {
+        "food truck": 1.0
+    },
+    "giraffes": {
+        "giraffe": 0.888,
+        "giraffes": 1.0
+    },
+    "gorilla": {
+        "gorilla": 1.0
+    },
+    "christmas lights": {
+        "christmas light": 0.878,
+        "christmas lights": 1.0
+    },
+    "dvd players": {
+        "dvd player": 0.976,
+        "dvd players": 1.0
+    },
+    "steel": {
+        "metal": 0.971,
+        "steel": 1.0
+    },
+    "fudge": {
+        "fake": 0.524,
+        "fudge": 1.0
+    },
+    "bus driver": {
+        "driver": 0.983,
+        "bus driver": 1.0
+    },
+    "school bus": {
+        "bus": 0.975,
+        "school bus": 1.0
+    },
+    "gentleman": {
+        "man": 0.983,
+        "gentleman": 1.0
+    },
+    "closet": {
+        "wardrobe": 0.718,
+        "cupboard": 0.659,
+        "closet": 1.0
+    },
+    "mannequin": {
+        "mannequins": 0.959,
+        "mannequin": 1.0
+    },
+    "picture": {
+        "picture": 1.0
+    },
+    "lock": {
+        "lock": 1.0
+    },
+    "hot dog": {
+        "hot dogs": 0.957,
+        "hot dog": 1.0
+    },
+    "cotton candy": {
+        "candy": 0.982,
+        "cotton candy": 1.0
+    },
+    "granite": {
+        "stone": 0.956,
+        "rock": 0.978,
+        "granite": 1.0
+    },
+    "sparse": {
+        "thin": 0.969,
+        "sparse": 1.0
+    },
+    "tv stand": {
+        "tv stand": 1.0
+    },
+    "onion": {
+        "vegetable": 0.925,
+        "plant": 0.947,
+        "onions": 0.963,
+        "onion": 1.0
+    },
+    "dotted": {
+        "dotted": 1.0
+    },
+    "storage box": {
+        "storage box": 1.0
+    },
+    "taking notes": {
+        "taking notes": 1.0
+    },
+    "office chair": {
+        "office chair": 1.0
+    },
+    "store": {
+        "stores": 0.934,
+        "store": 1.0
+    },
+    "wildflowers": {
+        "wildflowers": 1.0
+    },
+    "pencil": {
+        "pencils": 0.937,
+        "pencil": 1.0
+    },
+    "taxi": {
+        "car": 0.893,
+        "taxi": 1.0
+    },
+    "shopping cart": {
+        "cart": 0.981,
+        "shopping cart": 1.0
+    },
+    "toiletries": {
+        "toiletries": 1.0
+    },
+    "printer": {
+        "machine": 0.915,
+        "printers": 0.943,
+        "printer": 1.0
+    },
+    "castle": {
+        "building": 0.919,
+        "castle": 1.0
+    },
+    "lunch": {
+        "meal": 0.938,
+        "lunch": 1.0
+    },
+    "helmet": {
+        "hat": 0.704,
+        "garment": 0.966,
+        "helmets": 0.939,
+        "helmet": 1.0
+    },
+    "fishing pole": {
+        "pole": 0.985,
+        "fishing pole": 1.0
+    },
+    "toothbrush": {
+        "brush": 0.958,
+        "toothbrushes": 0.945,
+        "tool": 0.955,
+        "toothbrush": 1.0
+    },
+    "choppy": {
+        "choppy": 1.0
+    },
+    "beet": {
+        "vegetable": 0.972,
+        "plant": 0.958,
+        "beets": 0.977,
+        "beet": 1.0
+    },
+    "light switch": {
+        "light switch": 1.0
+    },
+    "plate": {
+        "dish": 0.938,
+        "plates": 0.963,
+        "plate": 1.0
+    },
+    "narrow": {
+        "narrow": 1.0
+    },
+    "washing machine": {
+        "machine": 0.977,
+        "tool": 0.738,
+        "washing machine": 1.0
+    },
+    "pandas": {
+        "panda": 0.972,
+        "pandas": 1.0
+    },
+    "batteries": {
+        "battery": 0.924,
+        "batteries": 1.0
+    },
+    "snake": {
+        "snakes": 0.914,
+        "snake": 1.0
+    },
+    "coffee table": {
+        "table": 0.97,
+        "coffee table": 1.0
+    },
+    "spray bottle": {
+        "spray bottle": 1.0
+    },
+    "flip flops": {
+        "flip flop": 0.976,
+        "flip flops": 1.0
+    },
+    "chopstick": {
+        "chopsticks": 0.948,
+        "chopstick": 1.0
+    },
+    "pizza oven": {
+        "pizza oven": 1.0
+    },
+    "fries": {
+        "fries": 1.0
+    },
+    "pasture": {
+        "field": 0.924,
+        "pasture": 1.0
+    },
+    "figurine": {
+        "figure": 0.972,
+        "figurines": 0.943,
+        "figurine": 1.0
+    },
+    "briefcase": {
+        "briefcase": 1.0
+    },
+    "parachute": {
+        "parachutes": 0.962,
+        "parachute": 1.0
+    },
+    "ropes": {
+        "rope": 0.973,
+        "ropes": 1.0
+    },
+    "lobster": {
+        "lobster": 1.0
+    },
+    "cabinets": {
+        "cabinet": 0.971,
+        "cabinets": 1.0
+    },
+    "seaweed": {
+        "plant": 0.966,
+        "seaweed": 1.0
+    },
+    "looking down": {
+        "looking down": 1.0
+    },
+    "game": {
+        "games": 0.967,
+        "game": 1.0
+    },
+    "telephone pole": {
+        "pole": 0.978,
+        "post": 0.887,
+        "telephone pole": 1.0
+    },
+    "sock": {
+        "socks": 0.932,
+        "garment": 0.97,
+        "sock": 1.0
+    },
+    "pikachu": {
+        "pikachu": 1.0
+    },
+    "parachutes": {
+        "parachute": 0.885,
+        "parachutes": 1.0
+    },
+    "tractor": {
+        "tractors": 0.94,
+        "tractor": 1.0
+    },
+    "armor": {
+        "armor": 1.0
+    },
+    "paper dispenser": {
+        "paper dispenser": 1.0
+    },
+    "watermelons": {
+        "watermelon": 0.956,
+        "watermelons": 1.0
+    },
+    "wave": {
+        "waves": 0.965,
+        "wave": 1.0
+    },
+    "raspberries": {
+        "raspberry": 0.637,
+        "raspberries": 1.0
+    },
+    "gravy": {
+        "gravy": 1.0
+    },
+    "bats": {
+        "bat": 0.97,
+        "bats": 1.0
+    },
+    "kites": {
+        "kite": 0.963,
+        "kites": 1.0
+    },
+    "sour cream": {
+        "cream": 0.981,
+        "sour cream": 1.0
+    },
+    "male": {
+        "male": 1.0
+    },
+    "kitchen": {
+        "kitchen": 1.0
+    },
+    "chicken": {
+        "meat": 0.929,
+        "bird": 0.961,
+        "seafood": 0.716,
+        "chickens": 0.948,
+        "chicken": 1.0
+    },
+    "shopper": {
+        "shoppers": 0.942,
+        "shopper": 1.0
+    },
+    "topping": {
+        "toppings": 0.953,
+        "garnish": 0.851,
+        "top": 0.968,
+        "topping": 1.0
+    },
+    "coat": {
+        "garment": 0.976,
+        "coats": 0.948,
+        "coat": 1.0
+    },
+    "berry": {
+        "fruit": 0.928,
+        "berries": 0.954,
+        "berry": 1.0
+    },
+    "flower": {
+        "flowers": 0.955,
+        "flower": 1.0
+    },
+    "toothpaste": {
+        "toothpaste": 1.0
+    },
+    "plants": {
+        "plant": 0.958,
+        "plants": 1.0
+    },
+    "olives": {
+        "olive": 0.972,
+        "olives": 1.0
+    },
+    "life jackets": {
+        "life jacket": 0.988,
+        "life jackets": 1.0
+    },
+    "pepper": {
+        "vegetable": 0.891,
+        "spice": 0.823,
+        "peppers": 0.922,
+        "pepper": 1.0
+    },
+    "comforter": {
+        "blanket": 0.922,
+        "bedding": 0.933,
+        "comforter": 1.0
+    },
+    "closed": {
+        "shut": 0.981,
+        "closed": 1.0
+    },
+    "toothpicks": {
+        "toothpicks": 1.0
+    },
+    "steam": {
+        "steamed": 0.899,
+        "steam": 1.0
+    },
+    "pilot": {
+        "pilot": 1.0
+    },
+    "logs": {
+        "log": 0.941,
+        "logs": 1.0
+    },
+    "tissue": {
+        "paper": 0.716,
+        "tissues": 0.945,
+        "tissue": 1.0
+    },
+    "pedestrians": {
+        "pedestrian": 0.974,
+        "pedestrians": 1.0
+    },
+    "toolbox": {
+        "box": 0.977,
+        "toolbox": 1.0
+    },
+    "ice cube": {
+        "ice cubes": 0.928,
+        "ice": 0.972,
+        "ice cube": 1.0
+    },
+    "octagonal": {
+        "octagonal": 1.0
+    },
+    "caramel": {
+        "candy": 0.594,
+        "sugar": 0.507,
+        "caramel": 1.0
+    },
+    "eating": {
+        "eating": 1.0
+    },
+    "grape": {
+        "fruit": 0.935,
+        "grapes": 0.955,
+        "vine": 0.914,
+        "grape": 1.0
+    },
+    "garment": {
+        "garment": 1.0
+    },
+    "minivan": {
+        "car": 0.805,
+        "van": 0.966,
+        "minivan": 1.0
+    },
+    "heavy": {
+        "heavy": 1.0
+    },
+    "playing": {
+        "music": 0.546,
+        "playing": 1.0
+    },
+    "chef hat": {
+        "chef hat": 1.0
+    },
+    "pasta salad": {
+        "salad": 0.976,
+        "pasta salad": 1.0
+    },
+    "officers": {
+        "officer": 0.98,
+        "officers": 1.0
+    },
+    "sunflowers": {
+        "sunflower": 0.936,
+        "sunflowers": 1.0
+    },
+    "speaker": {
+        "speakers": 0.929,
+        "speaker": 1.0
+    },
+    "dresses": {
+        "dress": 0.968,
+        "dresses": 1.0
+    },
+    "lunch box": {
+        "lunch box": 1.0
+    },
+    "hard": {
+        "hard": 1.0
+    },
+    "lush": {
+        "lush": 1.0
+    },
+    "jersey": {
+        "shirt": 0.626,
+        "jersey": 1.0
+    },
+    "parrots": {
+        "parrot": 0.959,
+        "parrots": 1.0
+    },
+    "dinosaurs": {
+        "dinosaur": 0.978,
+        "dinosaurs": 1.0
+    },
+    "beach umbrella": {
+        "umbrella": 0.984,
+        "beach umbrella": 1.0
+    },
+    "colorful": {
+        "colorful": 1.0
+    },
+    "cap": {
+        "cap": 1.0
+    },
+    "banana bunch": {
+        "banana bunch": 1.0
+    },
+    "coconut": {
+        "nut": 0.938,
+        "fruit": 0.947,
+        "coconuts": 0.957,
+        "coconut": 1.0
+    },
+    "trash": {
+        "trash can": 0.606,
+        "trash": 1.0
+    },
+    "food": {
+        "food": 1.0
+    },
+    "spoons": {
+        "tools": 0.728,
+        "spoon": 0.937,
+        "spoons": 1.0
+    },
+    "vases": {
+        "vase": 0.923,
+        "vases": 1.0
+    },
+    "upward": {
+        "upwards": 0.986,
+        "up": 0.987,
+        "upward": 1.0
+    },
+    "stuffed bear": {
+        "stuffed bear": 1.0
+    },
+    "dishes": {
+        "dish": 0.966,
+        "dishes": 1.0
+    },
+    "socks": {
+        "sock": 0.975,
+        "socks": 1.0
+    },
+    "taking a photo": {
+        "taking a photo": 1.0
+    },
+    "tourists": {
+        "tourist": 0.952,
+        "tourists": 1.0
+    },
+    "engineer": {
+        "worker": 0.932,
+        "engineer": 1.0
+    },
+    "ugly": {
+        "ugly": 1.0
+    },
+    "mixing bowl": {
+        "bowl": 0.979,
+        "mixing bowl": 1.0
+    },
+    "marker": {
+        "marker": 1.0
+    },
+    "running": {
+        "running": 1.0
+    },
+    "cabbage": {
+        "vegetable": 0.972,
+        "plant": 0.955,
+        "cabbage": 1.0
+    },
+    "antennas": {
+        "antenna": 0.974,
+        "antennas": 1.0
+    },
+    "shampoo bottle": {
+        "shampoo bottle": 1.0
+    },
+    "tea pot": {
+        "tea pot": 1.0
+    },
+    "rolling pin": {
+        "rolling pin": 1.0
+    },
+    "butter": {
+        "fat": 0.794,
+        "butter": 1.0
+    },
+    "raisin": {
+        "fruit": 0.812,
+        "raisins": 0.951,
+        "raisin": 1.0
+    },
+    "trash can": {
+        "container": 0.95,
+        "can": 0.98,
+        "trash": 0.954,
+        "trash can": 1.0
+    },
+    "cheesecake": {
+        "cake": 0.813,
+        "cheesecake": 1.0
+    },
+    "spoon": {
+        "container": 0.942,
+        "spoons": 0.942,
+        "spoon": 1.0
+    },
+    "passenger": {
+        "passengers": 0.943,
+        "passenger": 1.0
+    },
+    "pillowcase": {
+        "pillowcase": 1.0
+    },
+    "strawberry": {
+        "fruit": 0.948,
+        "berry": 0.95,
+        "herb": 0.835,
+        "strawberries": 0.912,
+        "strawberry": 1.0
+    },
+    "stores": {
+        "buildings": 0.955,
+        "store": 0.952,
+        "stores": 1.0
+    },
+    "mouse pad": {
+        "mouse pad": 1.0
+    },
+    "skier": {
+        "athlete": 0.948,
+        "skier": 1.0
+    },
+    "scooters": {
+        "scooter": 0.943,
+        "scooters": 1.0
+    },
+    "dolls": {
+        "doll": 0.975,
+        "toys": 0.755,
+        "dolls": 1.0
+    },
+    "pizza slice": {
+        "pizza slice": 1.0
+    },
+    "syrup": {
+        "liquid": 0.969,
+        "syrup": 1.0
+    },
+    "bucket": {
+        "container": 0.949,
+        "bucket": 1.0
+    },
+    "shelf": {
+        "shelves": 0.954,
+        "shelf": 1.0
+    },
+    "school": {
+        "building": 0.936,
+        "school": 1.0
+    },
+    "ipod": {
+        "ipod": 1.0
+    },
+    "dresser": {
+        "dresser": 1.0
+    },
+    "overcast": {
+        "overcast": 1.0
+    }
+}

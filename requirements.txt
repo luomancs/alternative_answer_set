@@ -1,0 +1,9 @@
+allennlp==1.0.0rc3
+allennlp_models==1.0.0rc3
+bert_serving==0.0.1
+bert_serving_client==1.10.0
+nltk==3.7
+numpy==1.22.3
+requests==2.27.1
+torch==1.5.0
+tqdm==4.63.0
