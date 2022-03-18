@@ -46,7 +46,7 @@ alternative_answer_set
 │   └── evaluation.py # run this script to get the performance.
 │   └── gqa_testdev.json # the golden testdev file of gqa dataset, used in the evaluation script. 
 ├── grounding
-│   └──  GQA_grounded_questions50.json # the templates for each label in GQA dataset 
+│   └── GQA_grounded_questions50.json # the templates for each label in GQA dataset 
 │   └── VQA_v2_grounded_questions50.json # the templates for each label in VQA dataset 
 ```
 ## Install 
